@@ -1,0 +1,718 @@
+ARTICLE 4
+
+BANK DEPOSITS AND COLLECTIONS
+
+PART 1
+
+GENERAL PROVISIONS AND DEFINITIONS
+
+440.4101 Uniform commercial code—bank deposits and collections; short title.
+Sec. 4101. This article shall be known and may be cited as uniform commercial code—bank deposits and
+collections.
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.4102 Conflict of laws; provisions applicable.
+Sec. 4102. (1) To the extent that items within this article are also within articles 3 and 8, they are subject to
+those articles. If there is conflict, this article governs article 3 but article 8 governs this article.
+(2) The liability of a bank for action or non-action with respect to an item handled by it for purposes of
+presentment, payment, or collection is governed by the law of the place where the bank is located. In the case
+of action or non-action by or at a branch or separate office of a bank, its liability is governed by the law of the
+place where the branch or separate office is located.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4103 Variation by agreement; measure of damages; action constituting ordinary care.
+Sec. 4103. (1) The effect of the provisions of this article may be varied by agreement but the parties to the
+agreement cannot disclaim a bank's responsibility for its lack of good faith or failure to exercise ordinary care
+or limit the measure of damages for the lack or failure. However, the parties may determine by agreement the
+standards by which the bank's responsibility is to be measured if those standards are not manifestly
+unreasonable.
+(2) Federal Reserve regulations and operating circulars, clearing-house rules, and the like have the effect of
+agreements under subsection (1), whether or not specifically assented to by all parties interested in items
+handled.
+(3) Action or non-action approved by this article or pursuant to Federal Reserve regulations or operating
+circulars is the exercise of ordinary care and, in the absence of special instructions, action or non-action
+consistent with clearing-house rules and the like or with a general banking usage not disapproved by this
+article, is prima facie the exercise of ordinary care.
+(4) The specification or approval of certain procedures by this article is not disapproval of other procedures
+which may be reasonable under the circumstances.
+(5) The measure of damages for failure to exercise ordinary care in handling an item is the amount of the
+item reduced by an amount that could not have been realized by the exercise of ordinary care. If there is also
+bad faith, it includes any other damages the party suffered as a proximate consequence.
+Rendered Wednesday, December 27, 2017 Page 83 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4104 Definitions used in article.
+Sec. 4104. (1) As used in this article unless the context otherwise requires:
+(a) "Account" means any depositor credit account with a bank, including a demand, time, savings,
+passbook, share draft, or like account, other than an account evidenced by a certificate of deposit.
+(b) "Afternoon" means the period of a day between noon and midnight.
+(c) "Banking day" means the part of a day on which a bank is open to the public for carrying on
+substantially all of its banking functions.
+(d) "Clearing-house" means an association of banks or other payors regularly clearing items.
+(e) "Customer" means any person having an account with a bank or for whom a bank has agreed to collect
+items, including a bank that maintains an account at another bank.
+(f) "Documentary draft" means a draft to be presented for acceptance or payment if specified documents,
+certificated securities as defined in section 8102 or instructions for uncertificated securities as defined in
+section 8102, or other certificates, statements, or the like are to be received by the drawee or other payor
+before acceptance or payment of the draft.
+(g) "Draft" means a draft as defined in section 3104 or an item, other than an instrument, that is an order.
+(h) "Drawee" means a person ordered in a draft to make payment.
+(i) "Item" means an instrument or a promise or order to pay money handled by a bank for collection or pay.
+The term does not include a payment order governed by article 4a or a credit or debit card slip.
+(j) "Midnight deadline" with respect to a bank is midnight on its next banking day following the banking
+day on which it receives the relevant item or notice or from which the time for taking action commences to
+run, whichever is later.
+(k) "Settle" means to pay in cash, by clearing-house settlement, in a charge or credit or by remittance, or
+otherwise as agreed. A settlement may be either provisional or final.
+(l) "Suspends payments" with respect to a bank means that it has been closed by order of the supervisory
+authorities, that a public officer has been appointed to take it over or that it ceases or refuses to make
+payments in the ordinary course of business.
+(2) Other definitions applying to this article and the sections in which they appear are:
+ "Agreement for electronic presentment". Section 4110.
+
+ "Collecting bank". Section 4105.
+
+ "Depositary bank". Section 4105.
+
+ "Intermediary bank". Section 4105.
+
+ "Payor bank". Section 4105.
+
+ "Presenting bank". Section 4105.
+
+ "Presentment notice". Section 4110.
+
+(3) "Control" as provided in section 7106 and the following definitions in other articles apply to this
+article:
+ "Acceptance". Section 3409.
+
+ "Alteration". Section 3409.
+
+ "Certificate of deposit". Section 3104.
+
+ "Cashier's check". Section 3104.
+
+ "Certified check". Section 3409.
+
+ "Check". Section 3104.
+
+ "Draft". Section 3104.
+
+ "Holder in due course". Section 3302.
+
+ "Instrument". Section 3104.
+
+ "Notice of dishonor". Section 3503.
+
+ "Order". Section 3103.
+
+ "Ordinary care". Section 3103.
+
+ "Person entitled to enforce". Section 3301.
+
+ "Presentment". Section 3501.
+
+ "Promise". Section 3103.
+
+ "Prove". Section 3103.
+
+ "Remotely created consumer item". Section 3103.
+
+ "Teller's check". Section 3104.
+
+ "Unauthorized signature". Section 3403.
+
+(4) In addition, article 1 contains general definitions and principles of construction and interpretation
+applicable throughout this article.
+Rendered Wednesday, December 27, 2017 Page 84 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993;⎯Am. 1998, Act 278, Imd. Eff. July 27, 1998;⎯
+Am. 2012, Act 87, Eff. July 1, 2013;⎯Am. 2014, Act 103, Imd. Eff. Apr. 10, 2014.
+440.4105 Additional definitions.
+Sec. 4105. As used in this article unless the context otherwise requires:
+(a) “Bank” means a person engaged in the business of banking, including a saving bank, saving and loan
+association, credit union, or trust company.
+(b) “Depositary bank” means the first bank to take an item even though it is also the payor bank, unless the
+item is presented for immediate payment over the counter.
+(c) “Payor bank” means a bank that is the drawee of a draft.
+(d) “Intermediary bank” means a bank to which an item is transferred in course of collection except the
+depositary or payor bank.
+(e) “Collecting bank” means a bank handling the item for collection except the payor bank.
+(f) “Presenting bank” means a bank presenting an item except a payor bank.
+
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+
+440.4106 “Payable through” and “payable at” explained; bank as collecting bank.
+Sec. 4106. (1) If an item states that it is “payable through” a bank identified in the item, (i) the item
+designates the bank as a collecting bank and does not by itself authorize the bank to pay the item, and (ii) the
+item may be presented for payment only by or through the bank.
+(2) If an item states that it is “payable at” a bank identified in the item, (i) the item designates the bank as a
+collecting bank and does not by itself authorize the bank to pay the item, and (ii) the item may be presented
+for payment only by or through the bank.
+(3) If a draft names a nonbank drawee and it is unclear whether a bank named in the draft is a co-drawee or
+a collecting bank, the bank is a collecting bank.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1964, Act 250, Eff. Aug. 28, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4107 Bank branch or separate office as separate bank.
+Sec. 4107. A branch or separate office of a bank is a separate bank for the purpose of computing the time
+within which and determining the place at or to which action may be taken or notices or orders shall be given
+under this article and under article 3.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4108 Time of receipt of items.
+Sec. 4108. (1) For the purpose of allowing time to process items, prove balances and make the necessary
+entries on its books to determine its position for the day, a bank may fix an afternoon hour of 2 P.M. or later
+as a cut-off hour for the handling of money and items and the making of entries on its books.
+(2) An item or deposit of money received on any day after a cut-off hour so fixed or after the close of the
+banking day may be treated as being received at the opening of the next banking day.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4109 Collecting bank; waiving, modifying, or extending time limits; excuse for delay.
+Sec. 4109. (1) Unless otherwise instructed, a collecting bank in a good faith effort to secure payment of a
+specific item drawn on a payor other than a bank and with or without the approval of any person involved,
+may waive, modify, or extend time limits imposed or permitted by this act for a period not exceeding 2
+additional banking days without discharge of drawers or endorsers or liability to its transferor or any prior
+party.
+(2) Delay by a collecting bank or payor bank beyond time limits prescribed or permitted by this act or by
+instructions is excused if (i) the delay is caused by interruption of communication or computer facilities,
+suspension of payments by another bank, war, emergency conditions, failure of equipment, or other
+circumstances beyond the control of the bank and (ii) the bank exercises such diligence as the circumstances
+require.
+History: Add. 1964, Act 250, Eff. Aug. 28, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4110 “Agreement for electronic presentment” defined; presentment notice.
+Sec. 4110. (1) “Agreement for electronic presentment” means an agreement, clearing-house rule, or
+Federal Reserve regulation or operating circular, providing that presentment of an item may be made by
+transmission of an image of an item or information describing the item (“presentment notice”) rather than
+delivery of the item itself. The agreement may provide for procedures governing retention, presentment,
+Rendered Wednesday, December 27, 2017 Page 85 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+payment, dishonor, and other matters concerning items subject to the agreement.
+(2) Presentment of an item pursuant to an agreement for presentment is made when the presentment notice
+is received.
+(3) If presentment is made by presentment notice, a reference to “item” or “check” in this article means the
+presentment notice unless the context otherwise indicates.
+History: Add. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4111 Commencement of action under article; time period.
+Sec. 4111. An action to enforce an obligation, duty, or right arising under this article must be commenced
+within 3 years after the cause of action accrues.
+History: Add. 1993, Act 130, Eff. Sept. 30, 1993.
+PART 2
+
+COLLECTION OF ITEMS: DEPOSITARY AND COLLECTING BANKS
+
+440.4201 Agency status of banks; provisional status of credits; applicability of article;
+endorsement with pay any bank.
+Sec. 4201. (1) Unless a contrary intent clearly appears and before the time that a settlement given by a
+collecting bank for an item is or becomes final, the bank, with respect to the item, is an agent or sub-agent of
+the owner of the item and any settlement given for the item is provisional. This provision applies regardless of
+the form of indorsement or lack of indorsement and even though credit given for the item is subject to
+immediate withdrawal as of right or is in fact withdrawn; but the continuance of ownership of an item by its
+owner and any rights of the owner to proceeds of the item are subject to rights of a collecting bank, such as
+those resulting from outstanding advances on the item and rights of setoff. If an item is handled by banks for
+purposes of presentment, payment, collection, or return, the relevant provisions of this article apply even
+though action of parties clearly establishes that a particular bank has purchased the item and is the owner of it.
+(2) After an item has been indorsed with the words “pay any bank” or the like, only a bank may acquire the
+rights of a holder until the item has been either of the following:
+(a) Returned to the customer initiating collection.
+(b) Specially endorsed by a bank to a person who is not a bank.
+
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+
+440.4202 Collecting bank; duties; exercising ordinary care; liability.
+Sec. 4202. (1) A collecting bank must exercise ordinary care in all of the following:
+(a) Presenting an item or sending it for presentment.
+(b) Sending notice of dishonor or nonpayment or returning an item other than a documentary draft to the
+bank's transferor after learning that the item has not been paid or accepted, as the case may be.
+(c) Settling for an item when the bank receives final settlement.
+(d) Notifying its transferor of any loss or delay in transit within a reasonable time after discovery thereof.
+(2) A collecting bank exercises ordinary care under subsection (1) by taking proper action before its
+midnight deadline following receipt of an item, notice, or settlement. Taking proper action within a
+reasonably longer time may constitute the exercise of ordinary care, but the bank has the burden of
+establishing timeliness.
+(3) Subject to subsection (1)(a), a bank is not liable for the insolvency, neglect, misconduct, mistake, or
+default of another bank or person or for loss or destruction of an item in the possession of others or in transit.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4203 Collecting bank; instructions from transferor.
+Sec. 4203. Subject to article 3 concerning conversion of instruments (section 3420) and restrictive
+endorsements (section 3206) only a collecting bank's transferor can give instructions that affect the bank or
+constitute notice to it, and a collecting bank is not liable to prior parties for any action taken pursuant to the
+instructions or in accordance with any agreement with its transferor.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4204 Collecting bank; methods of sending items; presentment.
+Sec. 4204. (1) A collecting bank shall send items by a reasonably prompt method, taking into consideration
+relevant instructions, the nature of the item, the number of those items on hand, the cost of collection
+involved, and the method generally used by it or others to present those items.
+Rendered Wednesday, December 27, 2017 Page 86 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(2) A collecting bank may send:
+(a) An item directly to the payor bank.
+(b) An item to a nonbank payor if authorized by its transferor.
+(c) An item other than documentary drafts to a nonbank payor, if authorized by federal reserve regulation
+or operating circular, clearing-house rule, or the like.
+(3) Presentment may be made by a presenting bank at a place where the payor bank or other payor has
+requested that presentment be made.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1964, Act 250, Eff. Aug. 28, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4205 Depositary bank; item delivered by customer for collection.
+Sec. 4205. If a customer delivers an item to a depositary bank for collection, then both of the following
+apply:
+(a) The depositary bank becomes a holder of the item at the time it receives the item for collection if the
+customer at the time of delivery was a holder of the item, whether or not the customer endorses the item, and,
+if the bank satisfies the other requirements of section 3302, it is a holder in due course.
+(b) The depositary bank warrants to collecting banks, the payor bank or other payor, and the drawer that
+the amount of the item was paid to the customer or deposited to the customer's account.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4206 Transfer between banks.
+Sec. 4206. Any agreed method which identifies the transferor bank is sufficient for the item's further
+transfer to another bank.
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.4207 Warranties of customer and collecting bank on transfer of items; accrual of cause
+of action.
+Sec. 4207. (1) A customer or collecting bank that transfers an item and receives a settlement or other
+consideration warrants to the transferee and to any subsequent collecting bank all of the following:
+(a) That the warrantor is a person entitled to enforce the item.
+(b) That all signatures on the item are authentic and authorized.
+(c) That the item has not been altered.
+(d) That the item is not subject to a defense or claim in recoupment under section 3305(1) of any party that
+can be asserted against the warrantor.
+(e) That the warrantor has no knowledge of any insolvency proceeding commenced with respect to the
+maker or acceptor or, in the case of an unaccepted draft, the drawer.
+(f) With respect to any remotely created consumer item, that the person on whose account the item is
+drawn authorized the issuance of the item in the amount for which the item is drawn.
+(2) If an item is dishonored, a customer or collecting bank transferring the item and receiving settlement or
+other consideration is obliged to pay the amount due on the item (i) according to the terms of the item at the
+time it was transferred, or (ii) if the transfer was of an incomplete item, according to its terms when completed
+as stated in sections 3115 and 3407. The obligation of a transferor is owed to the transferee and to any
+subsequent collecting bank that takes the item in good faith. A transferor cannot disclaim its obligation under
+this subsection by an endorsement stating that it is made "without recourse" or otherwise disclaiming liability.
+(3) A person to whom the warranties under subsection (1) are made and who took the item in good faith
+may recover from the warrantor as damages for breach of warranty an amount equal to the loss suffered as a
+result of the breach, but not more than the amount of the item plus expenses and loss of interest incurred as a
+result of the breach.
+(4) The warranties stated in subsection (1) cannot be disclaimed with respect to checks. Unless notice of a
+claim for breach of warranty is given to the warrantor within 30 days after the claimant has reason to know of
+the breach and the identity of the warrantor, the warrantor is discharged to the extent of any loss caused by the
+delay in giving notice of the claim.
+(5) A cause of action for breach of warranty under this section accrues when the claimant has reason to
+know of the breach.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993;⎯Am. 2014, Act 103, Imd. Eff. Apr. 10, 2014.
+440.4208 Presentment of unaccepted or dishonored draft; warranties of person obtaining
+payment and prior transferor; discharge; accrual of cause of action.
+Sec. 4208. (1) If an unaccepted draft is presented to the drawee for payment or acceptance and the drawee
+Rendered Wednesday, December 27, 2017 Page 87 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+pays or accepts the draft, (i) the person obtaining payment or acceptance, at the time of presentment, and (ii) a
+previous transferor of the draft, at the time of transfer, warrant to the drawee that pays or accepts the draft in
+good faith all of the following:
+(a) The warrantor is, or was, at the time the warrantor transferred the draft, a person entitled to enforce the
+draft or authorized to obtain payment or acceptance of the draft on behalf of a person entitled to enforce the
+draft.
+(b) The draft has not been altered.
+(c) The warrantor has no knowledge that the signature of the purported drawer of the draft is unauthorized.
+(d) With respect to any remotely created consumer item, that the person on whose account the item is
+drawn authorized the issuance of the item in the amount for which the item is drawn.
+(2) A drawee making payment may recover from a warrantor damages for breach of warranty equal to the
+amount paid by the drawee less the amount the drawee received or is entitled to receive from the drawer
+because of the payment. In addition the drawee is entitled to compensation for expenses and loss of interest
+resulting from the breach. The right of the drawee to recover damages under this subsection is not affected by
+any failure of the drawee to exercise ordinary care in making payment. If the drawee accepts the draft (i)
+breach of warranty is a defense to the obligation of the acceptor, and (ii) if the acceptor makes payment with
+respect to the draft, the acceptor is entitled to recover from a warrantor for breach of warranty the amounts
+stated in this subsection.
+(3) If a drawee asserts a claim for breach of warranty under subsection (1) based on an unauthorized
+endorsement of the draft or an alteration of the draft, the warrantor may defend by proving that the
+endorsement is effective under section 3404 or 3405 or the drawer is precluded under section 3406 or 4406
+from asserting against the drawee the unauthorized endorsement or alteration.
+(4) If (i) a dishonored draft is presented for payment to the drawer or an endorser or (ii) any other item is
+presented for payment to a party obliged to pay the item, and the item is paid, the person obtaining payment
+and a prior transferor of the item warrant to the person making payment in good faith that the warrantor is, or
+was, at the time the warrantor transferred the item, a person entitled to enforce the item or authorized to obtain
+payment on behalf of a person entitled to enforce the item. The person making payment may recover from any
+warrantor for breach of warranty an amount equal to the amount paid plus expenses and loss of interest
+resulting from the breach.
+(5) The warranties stated in subsections (1) and (4) cannot be disclaimed with respect to checks. Unless
+notice of a claim for breach of warranty is given to the warrantor within 30 days after the claimant has reason
+to know of the breach and the identity of the warrantor, the warrantor is discharged to the extent of any loss
+caused by the delay in giving notice of the claim.
+(6) A cause of action for breach of warranty under this section accrues when the claimant has reason to
+know of the breach.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993;⎯Am. 2014, Act 103, Imd. Eff. Apr. 10, 2014.
+440.4209 Electronic presentment; encoding of information and retaining items; warranties;
+recovery of damages, expenses, and loss of interest.
+Sec. 4209. (1) A person who encodes information on or with respect to an item after issue warrants to any
+subsequent collecting bank and to the payor bank or other payor that the information is correctly encoded. If
+the customer of a depositary bank encodes, that bank also makes the warranty.
+(2) A person who undertakes to retain an item pursuant to an agreement for electronic presentment
+warrants to any subsequent collecting bank and to the payor bank or other payor that retention and
+presentment of the item comply with the agreement. If a customer of a depositary bank undertakes to retain an
+item, that bank also makes this warranty.
+(3) A person to whom warranties are made under this section and who took the item in good faith may
+recover from the warrantor as damages for breach of warranty an amount equal to the loss suffered as a result
+of the breach, plus expenses and loss of interest incurred as a result of the breach.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4210 Security interest of collecting bank in items, accompanying documents, or
+proceeds.
+Sec. 4210. (1) A collecting bank has a security interest in an item and any accompanying documents or the
+proceeds of any of the following:
+(a) If an item is deposited in an account, to the extent to which credit given for the item has been
+withdrawn or applied.
+(b) If an item for which it has given credit is available for withdrawal as of right, to the extent of the credit
+Rendered Wednesday, December 27, 2017 Page 88 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+given whether or not the credit is drawn upon and whether or not there is a right of charge-back.
+(c) If it makes an advance on or against the item.
+(2) If credit given for several items received at one time or pursuant to a single agreement is withdrawn or
+applied in part the security interest remains upon all the items, any accompanying documents or the proceeds
+of either. For the purpose of this section, credits first given are first withdrawn.
+(3) Receipt by a collecting bank of a final settlement for an item is a realization on its security interest in
+the item, accompanying documents and proceeds. So long as the bank does not receive final settlement for the
+item or give up possession of the item or possession or control of the accompanying documents for purposes
+other than collection, the security interest continues to that extent and is subject to article 9 except for the
+following:
+(a) A security agreement is not necessary to make the security interest enforceable under section
+9203(2)(c)(i).
+(b) A filing is not required to perfect the security interest.
+(c) The security interest has priority over conflicting perfected security interests in the item, accompanying
+documents, or proceeds.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am.
+2012, Act 87, Eff. July 1, 2013.
+440.4211 Bank with security interest as holder in due course.
+Sec. 4211. For purposes of determining its status as a holder in due course, a bank has given value to the
+extent it has a security interest in an item, if the bank otherwise complies with the requirements of section
+3302 on what constitutes a holder in due course.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4212 Presentment by notice of item not payable by, through, or at a bank; treating item
+as dishonored.
+Sec. 4212. (1) Unless otherwise instructed, a collecting bank may present an item not payable by, through
+or at a bank by sending to the party to accept or pay a record providing notice that the bank holds the item for
+acceptance or payment. The notice must be sent in time to be received on or before the day when presentment
+is due and the bank must meet any requirement of the party to accept or pay under section 3501 by the close
+of the bank's next banking day after it knows of the requirement.
+(2) If presentment is made by notice and payment, acceptance, or request for compliance with a
+requirement under section 3501 is not received by the close of business on the day after maturity or in the
+case of demand items by the close of business on the third banking day after notice was sent, the presenting
+bank may treat the item as dishonored and charge any drawer or endorser by sending it notice of the facts.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993;⎯Am. 2014, Act 103, Imd. Eff. Apr. 10, 2014.
+440.4213 Settlement; medium and time.
+Sec. 4213. (1) With respect to settlement by a bank, the medium and time of settlement may be prescribed
+by Federal Reserve regulations or circulars, clearing-house rules, and the like, or agreement. In the absence of
+such prescription, the following apply:
+(a) The medium of settlement is cash or credit to an account in a Federal Reserve bank of or specified by
+the person to receive settlement.
+(b) The time of settlement is as follows:
+(i) With respect to tender of settlement by cash, a cashier's check, or teller's check, when the cash or check
+is sent or delivered.
+(ii) With respect to tender of settlement by credit in an account in a federal reserve bank, when the credit is
+made.
+(iii) With respect to tender of settlement by a credit or debit to an account in a bank, when the credit or
+debit is made or, in the case of tender of settlement by authority to charge an account, when the authority is
+sent or delivered.
+(iv) With respect to tender of settlement by a funds transfer, when payment is made pursuant to section
+4406a(1) to the person receiving settlement.
+(2) If the tender of settlement is not by a medium authorized by subsection (1) or the time of settlement is
+not fixed by subsection (1), no settlement occurs until the tender of settlement is accepted by the person
+receiving settlement.
+(3) If settlement for an item is made by cashier's check or teller's check and the person receiving
+settlement, before its midnight deadline then 1 of the following apply:
+Rendered Wednesday, December 27, 2017 Page 89 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(a) Presents or forwards the check for collection, settlement is final when the check is finally paid.
+(b) Fails to present or forward the check for collection, settlement is final at the midnight deadline of the
+person receiving settlement.
+(4) If settlement for an item is made by giving authority to charge the account of the bank giving
+settlement in the bank receiving settlement, settlement is final when the charge is made by the bank receiving
+settlement if there are funds available in the account for the amount of the item.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4214 Right to charge-back or refund.
+Sec. 4214. (1) If a collecting bank has made provisional settlement with its customer for an item and itself
+fails by reason of dishonor, suspension of payments by a bank or otherwise to receive a settlement for the
+item which is or becomes final, the bank may revoke the settlement given by it, charge back the amount of
+any credit given for the item to its customer's account or obtain refund from its customer whether or not it is
+able to return the items if by its midnight deadline or within a longer reasonable time after it learns the facts it
+returns the item or sends notification of the facts. If the return or notice is delayed beyond the bank's midnight
+deadline or a longer reasonable time after it learns the facts, the bank may revoke the settlement, charge back
+the credit, or obtain return from its customer, but it is liable for any loss resulting from the delay. These rights
+to revoke, charge-back and obtain refund terminate if and when a settlement for the item received by the bank
+is or becomes final.
+(2) A collecting bank returns an item when it is sent or delivered to the bank's customer or transferor or
+pursuant to its instructions.
+(3) A depositary bank that is also the payor may charge-back the amount of an item to its customer's
+account or obtain refund in accordance with the section governing return of an item received by a payor bank
+for credit on its books (section 4301).
+(4) The right to charge-back is not affected by either of the following:
+(a) Previous use of a credit given for the item.
+(b) Failure by any bank to exercise ordinary care with respect to the item, but a bank so failing remains
+liable.
+(5) A failure to charge-back or claim refund does not affect other rights of the bank against the customer or
+any other party.
+(6) If credit is given in dollars as the equivalent of the value of an item payable in a foreign money the
+dollar amount of any charge-back or refund shall be calculated on the basis of the bank-offered spot rate for
+the foreign money prevailing on the day when the person entitled to the charge-back or refund learns that it
+will not receive payment in ordinary course.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4215 Final payment of items by payor bank; final credit; availability of credit for
+withdrawal.
+Sec. 4215. (1) An item is finally paid by a payor bank when the bank has first done any of the following:
+(a) Paid the item in cash.
+(b) Settled for the item without having a right to revoke the settlement under statute, clearing-house rule or
+agreement.
+(c) Made a provisional settlement for the item and failed to revoke the settlement in the time and manner
+permitted by statute, clearing-house rule or agreement.
+(2) If provisional settlement for an item does not become final, the item is not finally paid.
+(3) If provisional settlement for an item between the presenting and payor banks is made through a
+clearing-house or by debits or credits in an account between them, then to the extent that provisional debits or
+credits for the item are entered in accounts between the presenting and payor banks or between the presenting
+and successive prior collecting banks seriatim, they become final upon final payment of the items by the
+payor bank.
+(4) If a collecting bank receives a settlement for an item which is or becomes final, the bank is accountable
+to its customer for the amount of the item and any provisional credit given for the item in an account with its
+customer becomes final.
+(5) Subject to (i) applicable law stating a time for availability of funds and (ii) any right of the bank to
+apply the credit to an obligation of the customer, credit given by a bank for an item in a customer's account
+becomes available for withdrawal as of right if either of the following apply:
+(a) The bank has received a provisional settlement for the item, when the settlement becomes final and the
+bank has had a reasonable time to receive return of the item and the item has not been received within that
+Rendered Wednesday, December 27, 2017 Page 90 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+time.
+(b) The bank is both the depositary bank and the payor bank and the item is finally paid, at the opening of
+the bank's second banking day following receipt of the item.
+(6) Subject to applicable law stating a time for availability of funds and any right of a bank to apply a
+deposit to an obligation of the depositor, a deposit of money becomes available for withdrawal as of right at
+the opening of the bank's next banking day after receipt of the deposit.
+History: Add. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4216 Payor or collecting bank; suspension of payments.
+Sec. 4216. (1) If an item is in or comes into the possession of a payor or collecting bank that suspends
+payment and the item has not been finally paid, the item must be returned by the receiver, trustee, or agent in
+charge of the closed bank to the presenting bank or the closed bank's customer.
+(2) If a payor bank finally pays an item and suspends payments without making a settlement for the item
+with its customer or the presenting bank which settlement is or becomes final, the owner of the item has a
+preferred claim against the payor bank.
+(3) If a payor bank gives or a collecting bank gives or receives a provisional settlement for an item and
+thereafter suspends payments, the suspension does not prevent or interfere with the settlement's becoming
+final if the finality occurs automatically upon the lapse of certain time or the happening of certain events.
+(4) If a collecting bank receives from subsequent parties settlement for an item, which settlement is or
+becomes final and the bank suspends payments without making a settlement for the item with its customer,
+which settlement is or becomes final, the owner of the item has a preferred claim against the collecting bank.
+History: Add. 1993, Act 130, Eff. Sept. 30, 1993.
+PART 3
+
+COLLECTION OF ITEMS: PAYOR BANKS
+
+440.4301 Demand items; recovery of settlement; time of dishonor; return of items.
+Sec. 4301. (1) If a payor bank settles for a demand item other than a documentary draft presented
+otherwise than for immediate payment over the counter before midnight of the banking day of receipt the
+payor bank may revoke the settlement and recover the settlement if, before it has made final payment and
+before its midnight deadline, it does any of the following:
+(a) Returns the item.
+(b) Returns an image of the item, if the party to which the return is made has entered into an agreement to
+accept an image as a return of the item and the image is returned in accordance with that agreement.
+(c) Sends a record providing notice of dishonor or nonpayment if the item is unavailable for return.
+(2) If a demand item is received by a payor bank for credit on its books, it may return the item or send
+notice of dishonor and may revoke any credit given or recover the amount thereof withdrawn by its customer,
+if it acts within the time limit and in the manner specified in subsection (1).
+(3) Unless previous notice of dishonor has been sent, an item is dishonored at the time when for purposes
+of dishonor it is returned or notice sent in accordance with this section.
+(4) An item is returned when 1 of the following occurs:
+(a) As to an item presented through a clearing-house, when it is delivered to the presenting or last
+collecting bank or to the clearing-house or is sent or delivered in accordance with its rules.
+(b) In all other cases, when it is sent or delivered to the bank's customer or transferor or pursuant to his or
+her instructions.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993;⎯Am. 2014, Act 103, Imd. Eff. Apr. 10, 2014.
+440.4302 Payor bank; accountability upon presentment and receipt of item; defenses.
+Sec. 4302. (1) If an item is presented on and received by a payor bank the bank is accountable for the
+amount of the following:
+(a) A demand item other than a documentary draft whether properly payable or not if the bank, in any case
+where it is not also the depositary bank, retains the item beyond midnight of the banking day of receipt
+without settling for it or, regardless of whether it is also the depositary bank, does not pay or return the item or
+send notice of dishonor until after its midnight deadline.
+(b) Any other properly payable item unless within the time allowed for acceptance or payment of that item
+the bank either accepts or pays the item or returns it and accompanying documents.
+(2) The liability of a payor bank to pay an item pursuant to subsection (1) is subject to defenses based on
+breach of a presentment warranty (section 4208) or proof that the person seeking enforcement of the liability
+Rendered Wednesday, December 27, 2017 Page 91 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+presented or transferred the item for the purpose of defrauding the payor bank.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4303 Payor bank; items subject to knowledge notice, stop-payment order, legal process,
+or setoff; order in which times may be handled.
+Sec. 4303. (1) Any knowledge, notice, or stop-payment order received by, legal process served upon or
+setoff exercised by a payor bank comes too late to terminate, suspend, or modify the bank's right or duty to
+pay an item or to charge its customer's account for the item if the knowledge, notice, stop-payment order or
+legal process is received or served and a reasonable time for the bank to act thereon expires or the setoff is
+exercised after the earliest of the following:
+(a) The bank accepts or certifies the item.
+(b) The bank pays the item in cash.
+(c) The bank settles for the item without having a right to revoke the settlement under statute,
+clearing-house rule or agreement.
+(d) The bank becomes accountable for the amount of the item under section 4302 dealing with the payor
+bank's responsibility for late return of items.
+(e) With respect to checks, a cutoff hour no earlier than 1 hour after the opening of the next banking day
+after the banking day on which the bank received the check and no later than the close of that next banking
+day or, if no cutoff hour is fixed, the close of the next banking day after the banking day on which the bank
+received the check.
+(2) Subject to subsection (1) items may be accepted, paid, certified, or charged to the indicated account of
+its customer in any order.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+PART 4
+
+RELATIONSHIP BETWEEN PAYOR BANK AND ITS CUSTOMER
+
+440.4401 Payor bank; charge against customer's account.
+Sec. 4401. (1) A bank may charge against the account of a customer an item that is properly payable from
+that account even though the charge creates an overdraft. An item is properly payable if it is authorized by the
+customer and is in accordance with any agreement between the customer and bank.
+(2) A customer is not liable for the amount of an overdraft if the customer neither signed the item nor
+benefited from the proceeds of the item.
+(3) A bank may charge against the account of a customer a check that is otherwise properly payable from
+the account, even though payment was made before the date of the check, unless the customer has given
+notice to the bank of the postdating describing the check with reasonable certainty. The notice is effective for
+the period stated in section 4403(2) for stop-payment orders, and must be received at such time and in such
+manner as to afford the bank a reasonable opportunity to act on it before the bank takes any action with
+respect to the check described in section 4303. If a bank charges against the account of a customer a check
+before the date stated in the notice of postdating, the bank is liable for damages for the loss resulting from its
+act. The loss may include damages for dishonor of subsequent items under section 4402.
+(4) A bank that in good faith makes payment to a holder may charge the indicated account of its customer
+according to either of the following:
+(a) The original terms of the altered item.
+(b) The terms of the completed item, even though the bank knows the item has been completed unless the
+bank has notice that the completion was improper.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4402 Payor bank; wrongful dishonor; liability to customer; determination of account
+balance.
+Sec. 4402. (1) Except as otherwise provided in this article, a payor bank wrongfully dishonors an item if it
+dishonors an item that is properly payable, but a bank may dishonor an item that would create an overdraft
+unless it has agreed to pay the overdraft.
+(2) A payor bank is liable to its customer for damages proximately caused by the wrongful dishonor of an
+item. Liability is limited to actual damages proved and may include damages for an arrest or prosecution of
+the customer or other consequential damages. Whether any consequential damages are proximately caused by
+the wrongful dishonor is a question of fact to be determined in each case.
+(3) A payor bank's determination of the customer's account balance on which a decision to dishonor for
+Rendered Wednesday, December 27, 2017 Page 92 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+insufficiency of available funds is based may be made at any time between the time the item is received by
+the payor bank and the time that the payor bank returns the item or gives notice in lieu of return, and no more
+than 1 determination need be made. If, at the election of the payor bank, a subsequent balance determination
+is made for the purpose of reevaluating the bank's decision to dishonor the item, the account balance at that
+time is determinative of whether a dishonor for insufficiency of available funds is wrongful.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4403 Customer's right to stop payment; lapse and renewal; burden of proof of loss.
+Sec. 4403. (1) A customer or any person authorized to draw on the account if there is more than 1 person
+may stop payment of any item drawn on the customer's account or close the account by an order to the bank
+describing the item or account with reasonable certainty received at a time and in a manner that affords the
+bank a reasonable opportunity to act on it before any action by the bank with respect to the item described in
+section 4303. If the signature of more than 1 person is required to draw on an account, any of these persons
+may stop payment or close the account.
+(2) A stop-payment order is effective for 6 months, but it lapses after 14 calendar days if the original order
+was oral and was not confirmed in a record within that period. A stop-payment order may be renewed for
+additional 6-month periods by a record given to the bank within a period during which the stop-payment order
+is effective.
+(3) The burden of establishing the fact and amount of loss resulting from the payment of an item contrary
+to a stop-payment order or order to close an account is on the customer. The loss from payment of an item
+contrary to a stop-payment order may include damages for dishonor of subsequent items under section 4402.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993;⎯Am. 2014, Act 103, Imd. Eff. Apr. 10, 2014.
+440.4404 Payment of checks more than 6 months old.
+Sec. 4404. A bank is under no obligation to a customer having a checking account to pay a check, other
+than a certified check, which is presented more than 6 months after its date, but it may charge its customer's
+account for a payment made thereafter in good faith.
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.4405 Death or incompetence of customer.
+Sec. 4405. (1) A payor or collecting bank's authority to accept, pay or collect an item or to account for
+proceeds of its collection if otherwise effective is not rendered ineffective by incompetence of a customer of
+either bank existing at the time the item is issued or its collection is undertaken if the bank does not know of
+an adjudication of incompetence. Neither death nor incompetence of a customer revokes such authority to
+accept, pay, collect or account until the bank knows of the fact of death or of an adjudication of incompetence
+and has reasonable opportunity to act on it.
+(2) Even with knowledge a bank may for 10 days after the date of death pay or certify checks drawn on or
+prior to that date unless ordered to stop payment by a person claiming an interest in the account.
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.4406 Statement of account; identification of items paid; retention of items or copies;
+customer's duty to discover and report unauthorized signature or alteration; failure to
+comply with subsection (3); failure of bank to exercise ordinary care in paying item; time
+limitation.
+Sec. 4406. (1) A bank that sends or makes available to a customer a statement of account showing payment
+of items for the account shall either return or make available to the customer the items paid or provide
+information in the statement of account sufficient to allow the customer reasonably to identify the items paid.
+The statement of account provides sufficient information if the item is described by item number, amount, and
+date of payment.
+(2) If the items are not returned to the customer, the person retaining the items shall either retain the items
+or, if the items are destroyed, maintain the capacity to furnish legible copies of the items until the expiration
+of 7 years after receipt of the items. A customer may request an item from the bank that paid the item, and
+that bank must provide in a reasonable time either the item or, if the item has been destroyed or is not
+otherwise obtainable, a legible copy of the item.
+(3) If a bank sends or makes available a statement of account or items pursuant to subsection (1), the
+customer must exercise reasonable promptness in examining the statement or the items to determine whether
+any payment was not authorized because of an alteration of an item or because a purported signature by or on
+behalf of the customer was not authorized. If, based on the statement or items provided, the customer should
+Rendered Wednesday, December 27, 2017 Page 93 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+reasonably have discovered the unauthorized payment, the customer must promptly notify the bank of the
+relevant facts.
+(4) If the bank proves that the customer failed, with respect to an item, to comply with the duties imposed
+on the customer by subsection (3), the customer is precluded from asserting against the bank the following:
+(a) The customer's unauthorized signature or any alteration on the item, if the bank also proves that it
+suffered a loss by reason of the failure.
+(b) The customer's unauthorized signature or alteration by the same wrongdoer on any other item paid in
+good faith by the bank if the payment was made before the bank received notice from the customer of the
+unauthorized signature or alteration and after the customer had been afforded a reasonable period of time, not
+exceeding 30 days, in which to examine the item or statement of account and notify the bank.
+(5) If subsection (4) applies and the customer proves that the bank failed to exercise ordinary care in
+paying the item and that the failure substantially contributed to loss, the loss is allocated between the
+customer precluded and the bank asserting the preclusion according to the extent to which the failure of the
+customer to comply with subsection (3) and the failure of the bank to exercise ordinary care contributed to the
+loss. If the customer proves that the bank did not pay the item in good faith, the preclusion under subsection
+(4) does not apply.
+(6) Without regard to care or lack of care of either the customer or the bank, a customer who does not
+within 1 year after the statement or items are made available to the customer (subsection (1)) discover and
+report his or her unauthorized signature on or any alteration on the item is precluded from asserting against
+the bank the unauthorized signature or alteration. If there is a preclusion under this subsection, the payor bank
+may not recover for breach of warranty under section 4208 with respect to the unauthorized signature or
+alteration to which the preclusion applies.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+440.4407 Improper payment; subrogation of payor bank.
+Sec. 4407. If a payor bank has paid an item over the order of the drawer or maker to stop payment, or after
+an account has been closed, or otherwise under circumstances giving a basis for objection by the drawer or
+maker, to prevent unjust enrichment and only to the extent necessary to prevent loss to the bank by reason of
+its payment of the item, the payor bank is subrogated to the rights of the following:
+(a) Of any holder in due course on the item against the drawer or maker.
+(b) Of the payee or any other holder of the item against the drawer or maker either on the item or under the
+transaction out of which the item arose.
+(c) Of the drawer or maker against the payee or any other holder of the item with respect to the transaction
+out of which the item arose.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1993, Act 130, Eff. Sept. 30, 1993.
+PART 5
+
+COLLECTION OF DOCUMENTARY DRAFTS
+
+440.4501 Documentary draft; presentment, notice of dishonor.
+Sec. 4501. A bank which takes a documentary draft for collection must present or send the draft and
+accompanying documents for presentment and upon learning that the draft has not been paid or accepted in
+due course must seasonably notify its customer of such fact even though it may have discounted or bought the
+draft or extended credit available for withdrawal as of right.
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.4502 Documentary draft; presentment on arrival of goods, refusal for non-arrival; notice
+to transferor.
+Sec. 4502. When a draft or the relevant instructions require presentment “on arrival”, “when goods arrive”
+or the like, the collecting bank need not present until in its judgment a reasonable time for arrival of the goods
+has expired. Refusal to pay or accept because the goods have not arrived is not dishonor; the bank must notify
+its transferor of such refusal but need not present the draft again until it is instructed to do so or learns of the
+arrival of the goods.
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.4503 Documentary draft; responsibility of presenting bank for documents and goods;
+report of reasons for dishonor; referees; expenses.
+Sec. 4503. Unless otherwise instructed and except as provided in article 5 a bank presenting a documentary
+Rendered Wednesday, December 27, 2017 Page 94 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+draft
+(a) must deliver the documents to the drawee on acceptance of the draft if it is payable more than 3 days
+after presentment; otherwise, only on payment; and
+(b) upon dishonor, either in the case of presentment for acceptance or presentment for payment, may seek
+and follow instructions from any referee in case of need designated in the draft or if the presenting bank does
+not choose to utilize his services it must use diligence and good faith to ascertain the reason for dishonor,
+must notify its transferor of the dishonor and of the results of its effort to ascertain the reasons therefor and
+must request instructions.
+But the presenting bank is under no obligation with respect to goods represented by the documents except
+to follow any reasonable instructions seasonably received; it has a right to reimbursement for any expense
+incurred in following instructions and to prepayment of or indemnity for such expenses.
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.4504 Documentary draft; presenting bank's right to deal with goods; lien for expenses.
+Sec. 4504. (1) A presenting bank which, following the dishonor of a documentary draft, has seasonably
+requested instructions but does not receive them within a reasonable time may store, sell, or otherwise deal
+with the goods in any reasonable manner.
+(2) For its reasonable expenses incurred by action under subsection (1) the presenting bank has a lien upon
+the goods or their proceeds, which may be foreclosed in the same manner as an unpaid seller's lien.
+History: 1962, Act 174, Eff. Jan. 1, 1964. 

@@ -1,0 +1,262 @@
+440.9201 General effectiveness of security agreement.
+Sec. 9201. (1) Except as otherwise provided in this act, a security agreement is effective according to its
+terms between the parties, against purchasers of the collateral, and against creditors.
+(2) A transaction subject to this article is subject to any applicable rule of law that establishes a different
+rule for consumers and to each of the following, as applicable:
+(a) The regulatory loan act of 1963, 1939 PA 21, MCL 493.1 to 493.26.
+(b) 1939 PA 305, MCL 566.301 to 566.302.
+(c) The motor vehicle sales finance act, 1950 (Ex Sess) PA 27, MCL 492.101 to 492.141.
+(d) The mobile home commission act, 1987 PA 96, MCL 125.2301 to 125.2349.
+(e) The Michigan vehicle code, 1949 PA 300, MCL 257.1 to 257.923.
+(f) 1978 PA 387, MCL 257.931 to 257.937.
+(g) 1986 PA 87, MCL 257.1401 to 257.1410.
+(h) The grain dealers act, 1939 PA 141, MCL 285.61 to 285.82a.
+(i) The Michigan family farm development act, 1982 PA 220, MCL 285.251 to 285.279.
+(j) The natural resources and environmental protection act, 1994 PA 451, MCL 324.101 to 324.90106.
+(k) 1982 PA 459, MCL 325.851 to 325.858.
+(l) 1970 PA 90, MCL 442.311 to 442.315.
+(m) 1971 PA 227, MCL 445.111 to 445.117.
+(n) The retail installment sales act, 1966 PA 224, MCL 445.851 to 445.873.
+(o) The Michigan consumer protection act, 1976 PA 331, MCL 445.901 to 445.922.
+(p) The home improvement finance act, 1965 PA 332, MCL 445.1101 to 445.1431.
+
+(q) 1941 PA 238, MCL 566.1.
+
+(r) The garage keeper's lien act, 1915 PA 312, MCL 570.301 to 570.309.
+(s) 1939 PA 3, MCL 460.1 to 460.10cc.
+(t) 1981 PA 155, MCL 445.611 to 445.620c.
+(u) The special tools lien act.
+(3) In case of conflict between this article and a rule of law, statute, or regulation described in subsection
+(2), the rule of law, statute, or regulation controls. Failure to comply with a statute or regulation described in
+subsection (2) has only the effect the statute or regulation specifies.
+(4) This article does not validate any rate, charge, agreement, or practice that violates a rule of law, statute,
+or regulation described in subsection (2), or extend the application of the rule of law, statute, or regulation to a
+transaction not otherwise subject to it.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2002, Act 18, Imd. Eff. Mar. 1, 2002;⎯
+Am. 2002, Act 480, Imd. Eff. June 27, 2002.
+440.9202 Title to collateral immaterial.
+Sec. 9202. Except as otherwise provided with respect to consignments or sales of accounts, chattel paper,
+payment intangibles, or promissory notes, the provisions of this article with regard to rights and obligations
+apply whether title to collateral is in the secured party or the debtor.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+440.9203 Attachment and enforcement of security interest; proceeds; supporting
+Rendered Wednesday, December 27, 2017 Page 156 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+obligations; formal requisites.
+Sec. 9203. (1) A security interest attaches to collateral when it becomes enforceable against the debtor with
+respect to the collateral, unless an agreement expressly postpones the time of attachment.
+(2) Except as otherwise provided in subsections (3) through (9), a security interest is enforceable against
+the debtor and third parties with respect to the collateral only if all of the following are met:
+(a) Value has been given.
+(b) The debtor has rights in the collateral or the power to transfer rights in the collateral to a secured party.
+(c) One or more of the following conditions are met:
+(i) The debtor has authenticated a security agreement that provides a description of the collateral and, if the
+security interest covers timber to be cut, a description of the land concerned.
+(ii) The collateral is not a certificated security and is in the possession of the secured party under section
+9313 pursuant to the debtor's security agreement.
+(iii) The collateral is a certificated security in registered form and the security certificate has been delivered
+to the secured party under section 8301 pursuant to the debtor's security agreement.
+(iv) The collateral is deposit accounts, electronic chattel paper, investment property, letter-of-credit rights,
+or electronic documents, and the secured party has control under section 7106, 9104, 9105, 9106, or 9107
+pursuant to the debtor's security agreement.
+(3) Subsection (2) is subject to section 4210 on the security interest of a collecting bank, section 5118 on
+the security interest of a letter-of-credit issuer or nominated person, section 9110 on a security interest arising
+under article 2 or 2A, and section 9206 on security interests in investment property.
+(4) A person becomes bound as debtor by a security agreement entered into by another person if, by
+operation of law other than this article or by contract, either of the following occurs:
+(a) The security agreement becomes effective to create a security interest in the person's property.
+(b) The person becomes generally obligated for the obligations of the other person, including the obligation
+secured under the security agreement, and acquires or succeeds to all or substantially all of the assets of the
+other person.
+(5) If a new debtor becomes bound as debtor by a security agreement entered into by another person, the
+agreement satisfies subsection (2)(c) with respect to existing or after-acquired property of the new debtor to
+the extent the property is described in the agreement, and another agreement is not necessary to make a
+security interest in the property enforceable.
+(6) The attachment of a security interest in collateral gives the secured party the rights to proceeds
+provided by section 9315 and is also attachment of a security interest in a supporting obligation for the
+collateral.
+(7) The attachment of a security interest in a right to payment or performance secured by a security interest
+or other lien on personal or real property is also attachment of a security interest in the security interest,
+mortgage, or other lien.
+(8) The attachment of a security interest in a securities account is also attachment of a security interest in
+the security entitlements carried in the securities account.
+(9) The attachment of a security interest in a commodity account is also attachment of a security interest in
+the commodity contracts carried in the commodity account.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 1987, Act 16, Imd. Eff. Apr. 24, 1987;⎯
+Am. 1998, Act 278, Imd. Eff. July 27, 1998;⎯Am. 1998, Act 489, Imd. Eff. Jan. 4, 1999;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am.
+2012, Act 87, Eff. July 1, 2013.
+440.9204 After-acquired property; future advances.
+Sec. 9204. (1) Except as otherwise provided in subsection (2), a security agreement may create or provide
+for a security interest in after-acquired collateral.
+(2) A security interest does not attach under a term constituting an after-acquired property clause to either
+of the following:
+(a) Consumer goods, other than an accession when given as additional security, unless the debtor acquires
+rights in them within 10 days after the secured party gives value.
+(b) A commercial tort claim.
+(3) A security agreement may provide that collateral secures, or that accounts, chattel paper, payment
+intangibles, or promissory notes are sold in connection with, future advances or other value, whether or not
+the advances or value are given pursuant to commitment.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+440.9205 Use or disposition of collateral permissible.
+Rendered Wednesday, December 27, 2017 Page 157 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+Sec. 9205. (1) A security interest is not invalid or fraudulent against creditors solely because of either of
+the following:
+(a) The debtor has the right or ability to do 1 or more of the following:
+(i) Use, commingle, or dispose of all or part of the collateral, including returned or repossessed goods.
+(ii) Collect, compromise, enforce, or otherwise deal with collateral.
+(iii) Accept the return of collateral or make repossessions.
+(iv) Use, commingle, or dispose of proceeds.
+(b) The secured party fails to require the debtor to account for proceeds or replace collateral.
+(2) This section does not relax the requirements of possession if attachment, perfection, or enforcement or
+a security interest depends upon possession of the collateral by the secured party.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+440.9206 Security interest arising in purchase or delivery of financial asset.
+Sec. 9206. (1) A security interest in favor of a securities intermediary attaches to a person's security
+entitlement if the person buys a financial asset through the securities intermediary in a transaction in which
+the person is obligated to pay the purchase price to the securities intermediary at the time of the purchase, and
+the securities intermediary credits the financial asset to the buyer's securities account before the buyer pays
+the securities intermediary.
+(2) The security interest described in subsection (1) secures the person's obligation to pay for the financial
+asset.
+(3) A security interest in favor of a person that delivers a certificated security or other financial asset
+represented by a writing attaches to the security or other financial asset if both of the following are met:
+(a) The security or other financial asset in the ordinary course of business is transferred by delivery with
+any necessary indorsement or assignment, and is delivered under an agreement between persons in the
+business of dealing with the securities or financial assets.
+(b) The agreement calls for delivery against payment.
+(4) The security interest described in subsection (3) secures the obligation to make payment for the
+delivery.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1964, Act 250, Eff. Aug. 28, 1964;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+SUBPART 2.
+
+RIGHTS AND DUTIES
+
+440.9207 Rights and duties of secured party having possession or control of collateral.
+Sec. 9207. (1) Except as otherwise provided in subsection (4), a secured party shall use reasonable care in
+the custody and preservation of collateral in the secured party's possession. In the case of chattel paper or an
+instrument, reasonable care includes taking necessary steps to preserve rights against prior parties unless
+otherwise agreed.
+(2) Except as otherwise provided in subsection (4), if a secured party has possession of collateral all of the
+following apply:
+(a) Reasonable expenses, including the cost of insurance and payment of taxes or other charges, incurred in
+the custody, preservation, use, or operation of the collateral are chargeable to the debtor and are secured by
+the collateral.
+(b) The risk of accidental loss or damage is on the debtor to the extent of a deficiency in any effective
+insurance coverage.
+(c) The secured party shall keep the collateral identifiable, but fungible collateral may be commingled.
+(d) The secured party may use or operate the collateral for the purpose of preserving the collateral or its
+value; as permitted by an order of a court having competent jurisdiction; or except in the case of consumer
+goods, in the manner and to the extent agreed by the debtor.
+(3) Except as otherwise provided in subsection (4), a secured party having possession of collateral or
+control of collateral under section 7106, 9104, 9105, 9106, or 9107 may hold as additional security any
+proceeds, except money or funds, received from the collateral, shall apply money or funds received from the
+collateral to reduce the secured obligation unless remitted to the debtor, and may create a security interest in
+the collateral.
+(4) If the secured party is a buyer of accounts, chattel paper, payment intangibles, or promissory notes or a
+consignor, subsections (2) and (3) do not apply, and subsection (1) does not apply unless the secured party is
+entitled under an agreement to charge back uncollected collateral or otherwise to full or limited recourse
+against the debtor or a secondary obligor based on the nonpayment or other default of an account debtor or
+Rendered Wednesday, December 27, 2017 Page 158 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+other obligor on the collateral.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.9208 Additional duties of secured party having control of collateral.
+Sec. 9208. (1) This section applies to cases in which there is no outstanding secured obligation and the
+secured party is not committed to make advances, incur obligations, or otherwise give value.
+(2) Within 10 days after receiving an authenticated demand by the debtor, a secured party shall do all of
+the following that apply to the secured party:
+(a) A secured party having control of a deposit account under section 9104(1)(b) shall send to the bank
+with which the deposit account is maintained an authenticated statement that releases the bank from any
+further obligation to comply with instructions originated by the secured party.
+(b) A secured party having control of a deposit account under section 9104(1)(c) shall pay the debtor the
+balance on deposit in the deposit account or transfer the balance on deposit into a deposit account in the
+debtor's name.
+(c) A secured party, other than a buyer, having control of electronic chattel paper under section 9105 shall
+do all of the following:
+(i) Communicate the authoritative copy of the electronic chattel paper to the debtor or its designated
+custodian.
+(ii) If the debtor designates a custodian that is the designated custodian with which the authoritative copy
+of the electronic chattel paper is maintained for the secured party, communicate to the custodian an
+authenticated record releasing the designated custodian from any further obligation to comply with
+instructions originated by the secured party and instructing the custodian to comply with instructions
+originated by the debtor.
+(iii) Take appropriate action to enable the debtor or its designated custodian to make copies of or revisions
+to the authoritative copy that add or change an identified assignee of the authoritative copy without the
+consent of the secured party.
+(d) A secured party having control of investment property under section 8106(4)(b) or section 9106(2)
+shall send to the securities intermediary or commodity intermediary with which the security entitlement or
+commodity contract is maintained an authenticated record that releases the securities intermediary or
+commodity intermediary from any further obligation to comply with entitlement orders or directions
+originated by the secured party.
+(e) A secured party having control of a letter-of-credit right under section 9107 shall send to each person
+having an unfulfilled obligation to pay or deliver proceeds of the letter of credit to the secured party an
+authenticated release from any further obligation to pay or deliver proceeds of the letter of credit to the
+secured party.
+(f) A secured party having control of an electronic document shall do all of the following:
+(i) Give control of the electronic document to the debtor or its designated custodian.
+(ii) If the debtor designates a custodian that is the designated custodian with which the authoritative copy
+of the electronic document is maintained for the secured party, communicate to the custodian an authenticated
+record releasing the designated custodian from any further obligation to comply with instructions originated
+by the secured party and instructing the custodian to comply with instructions originated by the debtor.
+(iii) Take appropriate action to enable the debtor or its designated custodian to make copies of or revisions
+to the authoritative copy which add or change an identified assignee of the authoritative copy without the
+consent of the secured party.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.9209 Duties of secured party if account debtor has been notified of assignment.
+Sec. 9209. (1) Except as otherwise provided in subsection (3), this section applies if there is no outstanding
+secured obligation and the secured party is not committed to make advances, incur obligations, or otherwise
+give value.
+(2) Within 10 days after receiving an authenticated demand by the debtor, a secured party shall send to an
+account debtor that has received notification of an assignment to the secured party as assignee under section
+9406(1) an authenticated record that releases the account debtor from any further obligation to the secured
+party.
+(3) This section does not apply to an assignment constituting the sale of an account, chattel paper, or
+payment intangible.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+Rendered Wednesday, December 27, 2017 Page 159 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+440.9210 Request for accounting; request regarding list of collateral or statement of
+account.
+Sec. 9210. (1) As used in this section:
+(a) “Request” means a record of a type described in subdivision (b), (c), or (d).
+(b) “Request for an accounting” means a record authenticated by a debtor requesting that the recipient
+provide an accounting of the unpaid obligations secured by collateral and reasonably identifying the
+transaction or relationship that is the subject of the request.
+(c) “Request regarding a list of collateral” means a record authenticated by a debtor requesting that the
+recipient approve or correct a list of what the debtor believes to be the collateral securing an obligation and
+reasonably identifying the transaction or relationship that is the subject of the request.
+(d) “Request regarding a statement of account” means a record authenticated by a debtor requesting that
+the recipient approve or correct a statement indicating what the debtor believes to be the aggregate amount of
+unpaid obligations secured by collateral as of a specified date and reasonably identifying the transaction or
+relationship that is the subject of the request.
+(2) Subject to subsections (3), (4), (5), and (6), a secured party, other than a buyer of accounts, chattel
+paper, payment intangibles, or promissory notes or a consignor, shall comply with a request in the following
+manner within 14 days after the receipt of the request:
+(a) In the case of a request for an accounting, by authenticating and sending to the debtor an accounting.
+(b) In the case of a request regarding a list of collateral or a request regarding a statement of account, by
+authenticating and sending to the debtor an approval or correction.
+(3) A secured party that claims a security interest in all of a particular type of collateral owned by the
+debtor may comply with a request regarding a list of collateral by sending to the debtor an authenticated
+record including a statement to that effect within 14 days after receipt.
+(4) A person that receives a request regarding a list of collateral, claims no interest in the collateral when it
+receives the request, and claimed an interest in the collateral at an earlier time shall comply with the request
+within 14 days after receipt by sending to the debtor an authenticated record disclaiming any interest in the
+collateral, and if known to the recipient, providing the name and mailing address of any assignee of or
+successor to the recipient's interest in the collateral.
+(5) A person that receives a request for an accounting or a request regarding a statement of account, claims
+no interest in the obligations when it receives the request, and claimed an interest in the obligations at an
+earlier time shall comply with the request within 14 days after receipt by sending to the debtor an
+authenticated record disclaiming any interest in the obligations, and if known to the recipient, providing the
+name and mailing address of any assignee of or successor to the recipient's interest in the obligations.
+(6) A debtor is entitled without charge to 1 response to a request under this section during any 6-month
+period. The secured party may require payment of a charge not exceeding $25.00 for each additional
+response.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+PART 3
+
+PERFECTION AND PRIORITY
+
+SUBPART 1.
+
+LAW GOVERNING PERFECTION AND PRIORITY

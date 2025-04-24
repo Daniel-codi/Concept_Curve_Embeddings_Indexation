@@ -1,0 +1,363 @@
+ARTICLE 5
+
+LETTERS OF CREDIT
+
+440.5101 Uniform commercial code—letters of credit; short title of article.
+Sec. 5101. This article may be cited as uniform commercial code—letters of credit.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5102 Definitions.
+Sec. 5102. (1) As used in this article:
+(a) "Adviser" means a person who, at the request of the issuer, a confirmer, or another adviser, notifies or
+requests another adviser to notify the beneficiary that a letter of credit has been issued, confirmed, or
+amended.
+(b) "Applicant" means a person at whose request or for whose account a letter of credit is issued. The term
+includes a person who requests an issuer to issue a letter of credit on behalf of another if the person making
+the request undertakes an obligation to reimburse the issuer.
+(c) "Beneficiary" means a person who under the terms of a letter of credit is entitled to have its complying
+presentation honored. The term includes a person to whom drawing rights have been transferred under a
+transferable letter of credit.
+Rendered Wednesday, December 27, 2017 Page 109 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(d) "Confirmer" means a nominated person who undertakes, at the request or with the consent of the issuer,
+to honor a presentation under a letter of credit issued by another.
+(e) "Dishonor" of a letter of credit means failure timely to honor or to take an interim action, such as
+acceptance of a draft, that may be required by the letter of credit.
+(f) "Document" means a draft or other demand, document of title, investment security, certificate, invoice,
+or other record, statement, or representation of fact, law, right, or opinion that is not oral which is both of the
+following:
+(i) Presented in a written or other medium permitted by the letter of credit or, unless prohibited by the letter
+of credit, by the standard practice referred to in section 5108(5).
+(ii) Capable of being examined for compliance with the terms and conditions of the letter of credit.
+(g) "Good faith" means honesty in fact in the conduct or transaction concerned.
+(h) "Honor" of a letter of credit means performance of the issuer's undertaking in the letter of credit to pay
+or deliver an item of value. Unless the letter of credit otherwise provides, "honor" occurs:
+(i) Upon payment.
+(ii) If the letter of credit provides for acceptance, upon acceptance of a draft and, at maturity, its payment.
+(iii) If the letter of credit provides for incurring a deferred obligation, upon incurring the obligation and, at
+maturity, its performance.
+(i) "Issuer" means a bank or other person that issues a letter of credit, but does not include an individual
+who makes an engagement for personal, family, or household purposes.
+(j) "Letter of credit" means a definite undertaking that satisfies the requirements of section 5104 by an
+issuer to a beneficiary at the request or for the account of an applicant or, in the case of a financial institution,
+to itself or for its own account, to honor a documentary presentation by payment or delivery of an item of
+value.
+(k) "Nominated person" means both of the following:
+(i) A person whom the issuer designates or authorizes to pay, accept, negotiate, or otherwise give value
+under a letter of credit.
+(ii) A person whom the issuer undertakes by agreement or custom and practice to reimburse.
+(l) "Presentation" means delivery of a document to an issuer or nominated person for honor or giving of
+value under a letter of credit.
+(m) "Presenter" means a person making a presentation as or on behalf of a beneficiary or nominated
+person.
+(n) "Record" means information that is inscribed on a tangible medium, or that is stored in an electronic or
+other medium and is retrievable in perceivable form.
+(o) "Successor of a beneficiary" means a person who succeeds to substantially all of the rights of a
+beneficiary by operation of law, including a corporation with or into which the beneficiary has been merged
+or consolidated, an administrator, executor, personal representative, trustee in bankruptcy, debtor in
+possession, liquidator, and receiver.
+(2) Definitions in other articles applying to this article and the sections in which they appear are:
+ "Accept" or "acceptance". Section 3409.
+
+ "Value". Sections 3303 and 4211.
+
+(3) Article 1 contains certain additional general definitions and principles of construction and interpretation
+applicable throughout this article.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5103 Letters of credit; scope of article.
+Sec. 5103. (1) This article applies to letters of credit and to certain rights and obligations arising out of
+transactions involving letters of credit.
+(2) The statement of a rule in this article does not by itself require, imply, or negate application of the same
+or a different rule to a situation not provided for, or to a person not specified, in this article.
+(3) With the exception of this subsection, subsections (1) and (4), sections 5102(1)(i) and (j), 5106(4), and
+5114(4), and except to the extent prohibited in sections 1302 and 5117(4), the effect of this article may be
+varied by agreement or by a provision stated or incorporated by reference in an undertaking. A term in an
+agreement or undertaking generally excusing liability or generally limiting remedies for failure to perform
+obligations is not sufficient to vary obligations prescribed by this article.
+(4) Rights and obligations of an issuer to a beneficiary or a nominated person under a letter of credit are
+independent of the existence, performance, or nonperformance of a contract or arrangement out of which the
+letter of credit arises or which underlies it, including contracts or arrangements between the issuer and the
+applicant and between the applicant and the beneficiary.
+Rendered Wednesday, December 27, 2017 Page 110 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999;⎯Am. 2012, Act 86, Eff. July 1, 2013.
+440.5104 Issuance; authentication.
+Sec. 5104. A letter of credit, confirmation, advice, transfer, amendment, or cancellation may be issued in
+any form that is a record and is authenticated by 1 or more of the following:
+(a) A signature.
+(b) In accordance with the agreement of the parties or the standard practice referred to in section 5108(5).
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5105 Consideration.
+Sec. 5105. Consideration is not required to issue, amend, transfer, or cancel a letter of credit, advice, or
+confirmation.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5106 Credit; issuance; enforcement; revocation; expiration.
+Sec. 5106. (1) A letter of credit is issued and becomes enforceable according to its terms against the issuer
+when the issuer sends or otherwise transmits it to the person requested to advise or to the beneficiary. A letter
+of credit is revocable only if it so provides.
+(2) After a letter of credit is issued, rights and obligations of a beneficiary, applicant, confirmer, and issuer
+are not affected by an amendment or cancellation to which that person has not consented except to the extent
+the letter of credit provides that it is revocable or that the issuer may amend or cancel the letter of credit
+without that consent.
+(3) If there is no stated expiration date or other provision that determines its duration, a letter of credit
+expires 1 year after its stated date of issuance or, if none is stated, after the date on which it is issued.
+(4) A letter of credit that states that it is perpetual expires 5 years after its stated date of issuance, or if none
+is stated, after the date on which it is issued.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5107 Confirmation; rights and obligations; request to advise; notice to transferee
+beneficiary.
+Sec. 5107. (1) A confirmer is directly obligated on a letter of credit and has the rights and obligations of an
+issuer to the extent of its confirmation. The confirmer also has rights against and obligations to the issuer as if
+the issuer were an applicant and the confirmer had issued the letter of credit at the request and for the account
+of the issuer.
+(2) A nominated person who is not a confirmer is not obligated to honor or otherwise give value for a
+presentation.
+(3) A person requested to advise may decline to act as an adviser. An adviser that is not a confirmer is not
+obligated to honor or give value for a presentation. An adviser undertakes to the issuer and to the beneficiary
+accurately to advise the terms of the letter of credit, confirmation, amendment, or advice received by that
+person and undertakes to the beneficiary to check the apparent authenticity of the request to advise. Even if
+the advice is inaccurate, the letter of credit, confirmation, or amendment is enforceable as issued.
+(4) A person who notifies a transferee beneficiary of the terms of a letter of credit, confirmation,
+amendment, or advice has the rights and obligations of an adviser under subsection (3). The terms in the
+notice to the transferee beneficiary may differ from the terms in any notice to the transferor beneficiary to the
+extent permitted by the letter of credit, confirmation, amendment, or advice received by the person who so
+notifies.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5108 Honoring or dishonoring presentation.
+Sec. 5108. (1) Except as otherwise provided in section 5109, an issuer shall honor a presentation that, as
+determined by the standard practice referred to in subsection (5), appears on its face strictly to comply with
+the terms and conditions of the letter of credit. Except as otherwise provided in section 5113 and unless
+otherwise agreed with the applicant, an issuer shall dishonor a presentation that does not appear to comply.
+(2) An issuer has a reasonable time after presentation, but not beyond the end of the seventh business day
+of the issuer after the day of its receipt of documents to do 1 or more of the following:
+(a) To honor.
+(b) If the letter of credit provides for honor to be completed more than 7 business days after presentation,
+to accept a draft or incur a deferred obligation.
+Rendered Wednesday, December 27, 2017 Page 111 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(c) To give notice to the presenter of discrepancies in the presentation.
+(3) Except as otherwise provided in subsection (4), an issuer is precluded from asserting as a basis for
+dishonor any discrepancy if timely notice is not given, or any discrepancy not stated in the notice if timely
+notice is given.
+(4) Failure to give the notice specified in subsection (2) or to mention fraud, forgery, or expiration in the
+notice does not preclude the issuer from asserting as a basis for dishonor fraud or forgery as described in
+section 5109(1) or expiration of the letter of credit before presentation.
+(5) An issuer shall observe standard practice of financial institutions that regularly issue letters of credit.
+Determination of the issuer's observance of the standard practice is a matter of interpretation for the court.
+The court shall offer the parties a reasonable opportunity to present evidence of the standard practice.
+(6) An issuer is not responsible for:
+(a) The performance or nonperformance of the underlying contract, arrangement, or transaction.
+(b) An act or omission of others.
+(c) Observance or knowledge of the usage of a particular trade other than the standard practice referred to
+in subsection (5).
+(7) If an undertaking constituting a letter of credit under section 5102(1)(j) contains nondocumentary
+conditions, an issuer shall disregard the nondocumentary conditions and treat them as if they were not stated.
+(8) An issuer that has dishonored a presentation shall return the documents or hold them at the disposal of,
+and send advice to that effect to, the presenter.
+(9) An issuer that has honored a presentation as permitted or required by this article:
+(a) Is entitled to be reimbursed by the applicant in immediately available funds not later than the date of its
+payment of funds.
+(b) Takes the documents free of claims of the beneficiary or presenter.
+(c) Is precluded from asserting a right of recourse on a draft under sections 3414 and 3415.
+(d) Except as otherwise provided in sections 5110 and 5117, is precluded from restitution of money paid or
+other value given by mistake to the extent the mistake concerns discrepancies in the documents or tender
+which are apparent on the face of the presentation.
+(e) Is discharged to the extent of its performance under the letter of credit unless the issuer honored a
+presentation in which a required signature of a beneficiary was forged.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5109 Forged or fraudulent document; injunction; findings of court.
+Sec. 5109. (1) If a presentation is made that appears on its face strictly to comply with the terms and
+conditions of the letter of credit, but a required document is forged or materially fraudulent, or honor of the
+presentation would facilitate a material fraud by the beneficiary on the issuer or applicant:
+(a) The issuer shall honor the presentation, if honor is demanded by 1 or more of the following:
+(i) A nominated person who has given value in good faith and without notice of forgery or material fraud.
+(ii) A confirmer who has honored its confirmation in good faith.
+(iii) A holder in due course of a draft drawn under the letter of credit which was taken after acceptance by
+the issuer or nominated person.
+(iv) An assignee of the issuer's or nominated person's deferred obligation that was taken for value and
+without notice of forgery or material fraud after the obligation was incurred by the issuer or nominated
+person.
+(b) The issuer, acting in good faith, may honor or dishonor the presentation in any other cause.
+(2) If an applicant claims that a required document is forged or materially fraudulent or that honor of the
+presentation would facilitate a material fraud by the beneficiary on the issuer or applicant, a court of
+competent jurisdiction may temporarily or permanently enjoin the issuer from honoring a presentation or
+grant similar relief against the issuer or other persons only if the court finds all of the following:
+(a) The relief is not prohibited under the law applicable to an accepted draft or deferred obligation incurred
+by the issuer.
+(b) A beneficiary, issuer, or nominated person who may be adversely affected is adequately protected
+against loss that it may suffer because the relief is granted.
+(c) All of the conditions to entitle a person to the relief under the law of this state have been met.
+(d) On the basis of the information submitted to the court, the applicant is more likely than not to succeed
+under its claim of forgery or material fraud and the person demanding honor does not qualify for protection
+under subsection (1)(a).
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+Rendered Wednesday, December 27, 2017 Page 112 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+440.5110 Warranties on presentment or transfer.
+Sec. 5110. (1) If presentation is honored, the beneficiary warrants:
+(a) To the issuer, any other person to whom presentation is made, and the applicant that there is no fraud or
+forgery of the kind described in section 5109(1).
+(b) To the applicant that the drawing does not violate any agreement between the applicant and beneficiary
+or any other agreement intended by them to be augmented by the letter of credit.
+(2) The warranties in subsection (1) are in addition to warranties arising under articles 3, 4, 7, and 8
+because of the presentation or transfer of documents covered by any of those articles.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5111 Wrongful dishonor, repudiation, or breach; rights of claimant or applicant; liability
+of issuer, nominated person, or adviser; attorney fees; liquidated damages.
+Sec. 5111. (1) If an issuer wrongfully dishonors or repudiates its obligation to pay money under a letter of
+credit before presentation, the beneficiary, successor, or nominated person presenting on its own behalf may
+recover from the issuer the amount that is the subject of the dishonor or repudiation. If the issuer's obligation
+under the letter of credit is not for the payment of money, the claimant may obtain specific performance or, at
+the claimant's election, recover an amount equal to the value of performance from the issuer. In either case,
+the claimant may also recover incidental but not consequential damages. The claimant is not obligated to take
+action to avoid damages that might be due from the issuer under this subsection. If, although not obligated to
+do so, the claimant avoids damages, the claimant's recovery from the issuer must be reduced by the amount of
+damages avoided. The issuer has the burden of proving the amount of damages avoided. In the case of
+repudiation the claimant need not present any document.
+(2) If an issuer wrongfully dishonors a draft or demand presented under a letter of credit or honors a draft
+or demand in breach of its obligation to the applicant, the applicant may recover damages resulting from the
+breach, including incidental but not consequential damages, less any amount saved as a result of the breach.
+(3) If an adviser or nominated person other than a confirmer breaches an obligation under this article or an
+issuer breaches an obligation not covered in subsection (1) or (2), a person to whom the obligation is owed
+may recover damages resulting from the breach, including incidental but not consequential damages, less any
+amount saved as a result of the breach. To the extent of the confirmation, a confirmer has the liability of an
+issuer specified in this subsection and subsections (1) and (2).
+(4) An issuer, nominated person, or adviser who is found liable under subsection (1), (2), or (3) shall pay
+interest on the amount owed from the date of wrongful dishonor or other appropriate date.
+(5) Reasonable attorney's fees and other expenses of litigation shall be awarded to the prevailing party in
+an action in which a remedy is sought under this article.
+(6) Damages that would otherwise be payable by a party for breach of an obligation under this article may
+be liquidated by agreement or undertaking, but only in an amount or by a formula that is reasonable in light of
+the harm anticipated.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5112 Right to draw or demand performance under letter of credit; transfer.
+Sec. 5112. (1) Except as otherwise provided in section 5113, unless a letter of credit provides that it is
+transferable, the right of a beneficiary to draw or otherwise demand performance under a letter of credit may
+not be transferred.
+(2) Even if a letter of credit provides that it is transferable, the issuer may refuse to recognize or carry out a
+transfer if either of the following applies:
+(a) The transfer would violate applicable law.
+(b) The transferor or transferee has failed to comply with any requirement stated in the letter of credit or
+any other requirement relating to transfer imposed by the issuer which is within the standard practice referred
+to in section 5108(5) or is otherwise reasonable under the circumstances.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5113 Rights of successor beneficiary.
+Sec. 5113. (1) A successor of a beneficiary may consent to amendments, sign and present documents, and
+receive payment or other items of value in the name of the beneficiary without disclosing its status as a
+successor.
+(2) A successor of a beneficiary may consent to amendments, sign and present documents, and receive
+payment or other items of value in its own name as the disclosed successor of the beneficiary. Except as
+Rendered Wednesday, December 27, 2017 Page 113 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+otherwise provided in subsection (5), an issuer shall recognize a disclosed successor of a beneficiary as
+beneficiary in full substitution for its predecessor upon compliance with the requirements for recognition by
+the issuer of a transfer of drawing rights by operation of law under the standard practice referred to in section
+5108(5) or, in the absence of such a practice, compliance with other reasonable procedures sufficient to
+protect the issuer.
+(3) An issuer is not obliged to determine whether a purported successor is a successor of a beneficiary or
+whether the signature of a purported successor is genuine or authorized.
+(4) Honor of a purported successor's apparently complying presentation under subsection (1) or (2) has the
+consequences specified in section 5108(9) even if the purported successor is not the successor of a
+beneficiary. Documents signed in the name of the beneficiary or of a disclosed successor by a person who is
+neither the beneficiary nor the successor of the beneficiary are forged documents for the purposes of section
+5109.
+(5) An issuer whose rights of reimbursement are not covered by subsection (4) or substantially similar law
+and any confirmer or nominated person may decline to recognize a presentation under subsection (2).
+(6) A beneficiary whose name is changed after the issuance of a letter of credit has the same rights and
+obligations as a successor of a beneficiary under this section.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5114 Proceeds of letter of credit.
+Sec. 5114. (1) In this section, “proceeds of a letter of credit” means the cash, check, accepted draft, or
+other item of value paid or delivered upon honor or giving of value by the issuer or any nominated person
+under the letter of credit. The term does not include a beneficiary's drawing rights or documents presented by
+the beneficiary.
+(2) A beneficiary may assign its right to part or all of the proceeds of a letter of credit. The beneficiary may
+do so before presentation as a present assignment of its right to receive proceeds contingent upon its
+compliance with the terms and conditions of the letter of credit.
+(3) An issuer or nominated person need not recognize an assignment of proceeds of a letter of credit until it
+consents to the assignment.
+(4) An issuer or nominated person has no obligation to give or withhold its consent to an assignment of
+proceeds of a letter of credit, but consent may not be unreasonably withheld if the assignee possesses and
+exhibits the letter of credit and presentation of the letter of credit is a condition to honor.
+(5) Rights of a transferee beneficiary or nominated person are independent of the beneficiary's assignment
+of the proceeds of a letter of credit and are superior to the assignee's right to the proceeds.
+(6) The rights recognized by this section between an assignee and an issuer, transferee beneficiary, or
+nominated person or the issuer's or nominated person's payment of proceeds to an assignee or a third person
+do not affect the rights between the assignee and any person other than the issuer, transferee beneficiary, or
+nominated person. The mode of creating and perfecting a security interest in or granting an assignment of a
+beneficiary's rights to proceeds is governed by article 9 or other law. Against persons other than the issuer,
+transferee beneficiary, or nominated person, the rights and obligations arising upon the creation of a security
+interest or other assignment of a beneficiary's right to proceeds and its perfection are governed by article 9 or
+other law.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1987, Act 16, Imd. Eff. Apr. 24, 1987;⎯Am. 1998, Act 278, Imd. Eff. July 27,
+1998;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5115 Commencement of action.
+Sec. 5115. An action to enforce a right or obligation arising under this article must be commenced within 1
+year after the expiration date of the relevant letter of credit or 1 year after the cause of action accrues,
+whichever occurs later. A cause of action accrues when the breach occurs, regardless of the aggrieved party's
+lack of knowledge of the breach.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5116 Jurisdiction; forum.
+Sec. 5116. (1) The liability of an issuer, nominated person, or adviser for action or omission is governed by
+the law of the jurisdiction chosen by an agreement in the form of a record signed or otherwise authenticated
+by the affected parties in the manner provided in section 5104 or by a provision in the person's letter of credit,
+confirmation, or other undertaking. The jurisdiction whose law is chosen need not bear any relation to the
+transaction.
+(2) Unless subsection (1) applies, the liability of an issuer, nominated person, or adviser for action or
+Rendered Wednesday, December 27, 2017 Page 114 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+omission is governed by the law of the jurisdiction in which the person is located. The person is considered to
+be located at the address indicated in the person's undertaking. If more than 1 address is indicated, the person
+is considered to be located at the address from which the person's undertaking was issued. For the purpose of
+jurisdiction, choice of law, and recognition of interbranch letters of credit, but not enforcement of a judgment,
+all branches of a bank are considered separate juridical entities and a bank is considered to be located at the
+place where its relevant branch is considered to be located under this subsection.
+(3) Except as otherwise provided in this subsection, the liability of an issuer, nominated person, or adviser
+is governed by any rules of custom or practice, such as the uniform customs and practice for documentary
+credits, to which the letter of credit, confirmation, or other undertaking is expressly made subject. If this
+article would govern the liability of an issuer, nominated person, or adviser under subsection (1) or (2), or the
+relevant undertaking incorporates rules of custom or practice, or there is conflict between this article and
+those rules as applied to that undertaking, those rules govern except to the extent of any conflict with the
+nonvariable provisions specified in section 5103(3).
+(4) If there is conflict between this article and article 3, 4, 4a, or 9, this article governs.
+(5) The forum for settling disputes arising out of an undertaking within this article may be chosen in the
+manner and with the binding effect that governing law may be chosen in accordance with subsection (1).
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5117 Rights of subrogation.
+Sec. 5117. (1) An issuer that honors a beneficiary's presentation is subrogated to the rights of the
+beneficiary to the same extent as if the issuer were a secondary obligor of the underlying obligation owed to
+the beneficiary and of the applicant to the same extent as if the issuer were the secondary obligor of the
+underlying obligation owed to the applicant.
+(2) An applicant that reimburses an issuer is subrogated to the rights of the issuer against any beneficiary,
+presenter, or nominated person to the same extent as if the applicant were the secondary obligor of the
+obligations owed to the issuer and has the rights of subrogation of the issuer to the rights of the beneficiary
+stated in subsection (1).
+(3) A nominated person who pays or gives value against a draft or demand presented under a letter of
+credit is subrogated to the rights of all of the following:
+(a) The issuer against the applicant to the same extent as if the nominated person were a secondary obligor
+of the obligation owed to the issuer by the applicant.
+(b) The beneficiary to the same extent as if the nominated person were a secondary obligor of the
+underlying obligation owed to the beneficiary.
+(c) The applicant to the same extent as if the nominated person were a secondary obligor of the underlying
+obligation owed to the applicant.
+(4) Notwithstanding any agreement or term to the contrary, the rights of subrogation stated in subsections
+(1) and (2) do not arise until the issuer honors the letter of credit or otherwise pays and the rights in subsection
+(3) do not arise until the nominated person pays or otherwise gives value. Until then, the issuer, nominated
+person, and the applicant do not derive under this section present or prospective rights forming the basis of a
+claim, defense, or excuse.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 488, Imd. Eff. Jan. 4, 1999.
+440.5118 Document presented under letter of credit; security interest of issuer or nominated
+person.
+Sec. 5118. (1) An issuer or nominated person has a security interest in a document presented under a letter
+of credit to the extent that the issuer or nominated person honors or gives value for the presentation.
+(2) So long as and to the extent that an issuer or nominated person has not been reimbursed or has not
+otherwise recovered the value given with respect to a security interest in a document under subsection (1), the
+security interest continues and is subject to article 9, but all of the following apply:
+(a) A security agreement is not necessary to make the security interest enforceable under section
+9203(2)(c).
+(b) If the document is presented in a medium other than a written or other tangible medium, the security
+interest is perfected.
+(c) If the document is presented in a written or other tangible medium and is not a certificated security,
+chattel paper, a document of title, an instrument, or a letter of credit, the security interest is perfected and has
+priority over a conflicting security interest in the document so long as the debtor does not have possession of
+the document.
+History: Add. 2000, Act 348, Eff. July 1, 2001. 

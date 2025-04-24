@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en" translate="no" class="notranslate">
+<head>
+    <meta name="google" content="notranslate">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UCC Assistant</title>
+
+    <style>
+        /* ---------- Layout & typography ---------- */
+        body {
+            margin: 0;
+            height: 100vh;
+            overflow: hidden;
+            font-family: Arial, sans-serif;
+        }
+
+        #chatbot-window {
+            position: fixed;
+            right: 0;
+            top: 0;
+            width: 50%;
+            max-width: 700px;
+            height: 100%;
+            background: #40414f;
+            color: #dcdcdc;
+            display: flex;
+            flex-direction: column;
+            box-sizing: border-box;
+            border-top-left-radius: 15px;
+            border-bottom-left-radius: 15px;
+        }
+
+        #chatbot-header {
+            padding: 10px;
+            background: #353541;
+            text-align: center;
+            font-size: 1.2em;
+            color: #fff;
+            border-top-left-radius: 15px;
+            position: relative;
+        }
+
+        .close-button,
+        .expand-button {
+            position: absolute;
+            top: 5px;
+            font-size: 1.5em;
+            cursor: pointer;
+            color: #fff;
+        }
+        .close-button { right: 10px; }
+        .expand-button { left: 10px; }
+
+        #chatbot-content {
+            padding: 10px;
+            flex: 1;
+            overflow-y: auto;
+            border-bottom: 1px solid #555;
+            line-height: 1.5;
+            box-sizing: border-box;
+        }
+
+        #chatbot-input {
+            width: calc(100% - 20px);
+            padding: 10px;
+            margin: 10px;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            resize: none;
+            box-sizing: border-box;
+        }
+
+        .user-message {
+            text-align: right;
+            background: #dcf8c6;
+            color: #333;
+            padding: 10px;
+            border-radius: 15px;
+            margin: 5px 0;
+            max-width: 80%;
+            float: right;
+        }
+
+        .chatbot-message {
+            text-align: left;
+            background: #fff;
+            color: #333;
+            padding: 10px;
+            border-radius: 15px;
+            margin: 5px 0;
+            max-width: 80%;
+            display: block;
+        }
+
+        .clearfix::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        /* typing indicator */
+        .typing-indicator {
+            text-align: left;
+            color: #999;
+            font-style: italic;
+            margin: 5px 0;
+            max-width: 80%;
+            display: flex;
+            align-items: center;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chatbot-window">
+    <div id="chatbot-header">
+        <span class="expand-button" title="Expand / shrink" onclick="toggleChatbotSize()">↔</span>
+        <span class="close-button" title="Close" onclick="chatbotWindow.style.display='none'">&times;</span>
+        Uniform Commercial Code Assistant
+    </div>
+
+    <div id="chatbot-content" class="clearfix"></div>
+
+    <textarea
+        id="chatbot-input"
+        aria-label="Type a query"
+        placeholder="Type a query and hit Enter…"
+        rows="1"></textarea>
+</div>
+
+<!-- marked.js for Markdown → HTML -->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<script>
+// Wait for the DOM to fully load
+window.addEventListener('DOMContentLoaded', () => {
+    const chatbotWindow  = document.getElementById('chatbot-window');
+    const chatbotInput   = document.getElementById('chatbot-input');
+    const chatbotContent = document.getElementById('chatbot-content');
+
+    // Toggle chatbot size (50% ↔ 100% width)
+    window.toggleChatbotSize = () => {
+        if (chatbotWindow.style.width === '100%') {
+            chatbotWindow.style.width = '50%';
+            chatbotWindow.style.maxWidth = '700px';
+        } else {
+            chatbotWindow.style.width = '100%';
+            chatbotWindow.style.maxWidth = 'none';
+        }
+    };
+
+    // Send message when Enter is pressed (without Shift)
+    chatbotInput.addEventListener('keydown', async (e) => {
+        if (e.key === 'Enter' && !e.shiftKey && chatbotInput.value.trim() !== '') {
+            e.preventDefault();
+            const userMessage = chatbotInput.value.trim();
+            addMessageToChat('User', userMessage);
+            chatbotInput.value = '';
+
+            // Show typing indicator
+            const indicator = document.createElement('div');
+            indicator.className = 'typing-indicator';
+            indicator.textContent = 'Chatbot is typing…';
+            chatbotContent.appendChild(indicator);
+            chatbotContent.scrollTop = chatbotContent.scrollHeight;
+
+            try {
+                // ---- API request ----
+                // Use the full URL because this file may be opened with the file:// protocol.
+                const response = await fetch('http://localhost:3000/api/query', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ question: userMessage })
+                });
+
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                const data    = await response.json();
+                const answer  = data.finalAnswer;
+
+                indicator.remove();
+                if (answer) {
+                    addMessageToChat('Chatbot', marked.parse(answer));
+                } else {
+                    addMessageToChat('Chatbot', 'No valid answer was returned.');
+                }
+            } catch (err) {
+                console.error(err);
+                indicator.remove();
+                addMessageToChat('Chatbot', 'There was a problem processing your request.');
+            }
+        }
+    });
+
+    // Helper: add a chat bubble
+    function addMessageToChat(sender, content) {
+        const el = document.createElement('div');
+        if (sender === 'User') {
+            el.className = 'user-message';
+            el.textContent = content;
+        } else {
+            el.className = 'chatbot-message';
+            el.innerHTML  = content; // already HTML (Markdown → HTML)
+        }
+        chatbotContent.appendChild(el);
+        chatbotContent.appendChild(Object.assign(document.createElement('div'), { className: 'clearfix' }));
+        chatbotContent.scrollTop = chatbotContent.scrollHeight;
+    }
+});
+</script>
+
+</body>
+</html>

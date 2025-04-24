@@ -1,0 +1,414 @@
+ARTICLE 1
+
+GENERAL PROVISIONS
+
+PART 1
+
+SHORT TITLE, CONSTRUCTION, APPLICATION AND SUBJECT MATTER OF THE ACT
+
+440.1101 Uniform commercial code; short title of act; heading of article.
+Sec. 1101. (1) This act shall be known and may be cited as the "uniform commercial code".
+(2) This article shall be known and may be cited as the "uniform commercial code – general provisions".
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 86, Eff. July 1, 2013.
+440.1102 Applicability of articles.
+Sec. 1102. This article applies to a transaction to the extent that it is governed by another article of this act.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 86, Eff. July 1, 2013.
+440.1103 Construction of act.
+Sec. 1103. (1) This act must be liberally construed and applied to promote the following underlying
+purposes and policies:
+(a) To simplify, clarify, and modernize the law governing commercial transactions.
+(b) To permit the continued expansion of commercial practices through custom, usage, and agreement of
+the parties.
+(c) To make uniform the law among the various jurisdictions.
+(2) Unless displaced by the particular provisions of this act, the principles of law and equity, including the
+law merchant and the law relative to capacity to contract, principal and agent, estoppel, fraud,
+misrepresentation, duress, coercion, mistake, bankruptcy, or other validating or invalidating cause shall
+supplement its provisions.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 86, Eff. July 1, 2013.
+440.1104 Construction of act as to implied repeal by subsequent legislation.
+Sec. 1104. This act being a general act intended as a unified coverage of its subject matter, no part of it
+shall be deemed to be impliedly repealed by subsequent legislation if such construction can reasonably be
+avoided.
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.1105 Repealed. 2012, Act 86, Eff. July 1, 2013.
+Compiler's note: The repealed section pertained to effectiveness of certain provisions in case of contrary agreements.
+440.1106 Meanings.
+Sec. 1106. All of the following apply in this act, unless the statutory context otherwise requires:
+(a) Words in the singular number include the plural, and those in the plural include the singular.
+(b) Words of any gender also refer to any other gender.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 86, Eff. July 1, 2013.
+Rendered Wednesday, December 27, 2017 Page 1 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+440.1107 Repealed. 2012, Act 86, Eff. July 1, 2013.
+Compiler's note: The repealed section pertained to discharge of claims or rights after breach.
+440.1108 Electronic signatures.
+Sec. 1108. This article modifies, limits, and supersedes the electronic signatures in global and national
+commerce act, 15 USC 7001 to 7031, except that nothing in this article modifies, limits, or supersedes section
+7001(c) of that act, 15 USC 7001, or authorizes electronic delivery of any of the notices described in section
+7003(b) of that act, 15 USC 7003.
+History: Add. 2012, Act 86, Eff. July 1, 2013.
+PART 2
+
+GENERAL DEFINITIONS AND PRINCIPLES OF INTERPRETATION
+
+440.1201 Definitions.
+Sec. 1201. (1) Unless the context otherwise requires, words or phrases defined in this section, or in the
+additional definitions contained in other articles of this act that apply to particular articles or parts of this act,
+have the meanings stated.
+(2) Subject to definitions contained in other articles of this act that apply to particular articles or parts of
+this act, and unless the context otherwise requires, as used in this act:
+(a) "Action" in the sense of a judicial proceeding includes recoupment, counterclaim, setoff, suit in equity,
+and any other proceedings in which rights are determined.
+(b) "Aggrieved party" means a party entitled to resort to a remedy.
+(c) "Agreement", as distinguished from contract as defined in subdivision (l), means the bargain of the
+parties in fact, as found in their language or by implication from other circumstances, including course of
+performance, course of dealing, or usage of trade or course of performance as provided in section 1303.
+(d) "Bank" means a person engaged in the business of banking and includes a savings bank, savings and
+loan association, credit union, and trust company.
+(e) "Bearer" means a person in control of a negotiable electronic document of title or a person in
+possession of an instrument, a negotiable tangible document of title, or a certificated security payable to
+bearer or indorsed in blank.
+(f) "Bill of lading" means a document of title evidencing the receipt of goods for shipment issued by a
+person engaged in the business of directly or indirectly transporting or forwarding goods. The term does not
+include a warehouse receipt.
+(g) "Branch" includes a separately incorporated foreign branch of a bank.
+(h) "Burden of establishing" a fact means the burden of persuading the trier of fact that the existence of the
+fact is more probable than its nonexistence.
+(i) "Buyer in ordinary course of business" means a person that buys goods in good faith, without
+knowledge that the sale violates the rights of another person in the goods, and in the ordinary course from a
+person, other than a pawnbroker, in the business of selling goods of that kind. A person buys goods in the
+ordinary course if the sale to the person comports with the usual or customary practices in the kind of business
+in which the seller is engaged or with the seller's own usual or customary practices. A person that sells oil,
+gas, or other minerals at the wellhead or minehead is a person in the business of selling goods of that kind. A
+buyer in ordinary course of business may buy for cash, by exchange of other property, or on secured or
+unsecured credit, and may acquire goods or documents of title under a preexisting contract for sale. Only a
+buyer that takes possession of the goods or has a right to recover the goods from the seller under article 2 may
+be a buyer in ordinary course of business. The term does not include a person that acquires goods in a transfer
+in bulk or as security for or in total or partial satisfaction of a money debt.
+(j) "Conspicuous", with reference to a term, means so written, displayed, or presented that a reasonable
+person against which it is to operate ought to have noticed it. Whether a term is "conspicuous" or not is a
+decision for the court. Conspicuous terms include any of the following:
+(i) A heading in capitals equal to or greater in size than the surrounding text, or in contrasting type, font, or
+color to surrounding text of the same or lesser size.
+(ii) Language in the body of a record or display in larger type than the surrounding text, or in contrasting
+type, font, or color to surrounding text of the same size, or set off from surrounding text of the same size by
+symbols or other marks that call attention to the language.
+(k) "Consumer" means an individual who enters into a transaction primarily for personal, family, or
+household purposes.
+Rendered Wednesday, December 27, 2017 Page 2 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(l) "Contract", as distinguished from agreement as defined in subdivision (c), means the total legal
+obligation that results from the parties' agreement as determined by this act as supplemented by any other
+applicable laws.
+(m) "Creditor" includes a general creditor, a secured creditor, a lien creditor, and any representative of
+creditors, including an assignee for the benefit of creditors, a trustee in bankruptcy, a receiver in equity, and
+an executor or administrator of an insolvent debtor's or assignor's estate.
+(n) "Defendant" includes a person in the position of defendant in a counterclaim, cross-claim, or
+third-party claim.
+(o) "Delivery" means either of the following:
+(i) With respect to an electronic document of title, a voluntary transfer of control.
+(ii) With respect to an instrument, document of title, or chattel paper, a voluntary transfer of possession.
+(p) "Document of title" means a record that in the regular course of business or financing is treated as
+adequately evidencing that the person in possession or control of the record is entitled to receive, control,
+hold, and dispose of the record and the goods the record covers and that purports to be issued by or addressed
+to a bailee and to cover goods in the bailee's possession which are either identified or are fungible portions of
+an identified mass. The term includes a bill of lading, transport document, dock warrant, dock receipt,
+warehouse receipt, and order for delivery of goods. "Electronic document of title" means a document of title
+evidenced by a record consisting of information stored in an electronic medium. "Tangible document of title"
+means a document of title evidenced by a record consisting of information that is inscribed on a tangible
+medium.
+(q) "Fault" means a default, breach, or wrongful act or omission.
+(r) "Fungible goods" means either of the following:
+(i) Goods of which any unit, by nature or usage of trade, is the equivalent of any other like unit.
+(ii) Goods that by agreement are treated as equivalent.
+(s) "Genuine" means free of forgery or counterfeiting.
+(t) "Good faith", except as otherwise provided in article 5, means honesty in fact and the observance of
+reasonable commercial standards of fair dealing.
+(u) "Holder" means any of the following:
+(i) A person in possession of a negotiable instrument that is payable either to bearer or to an identified
+person that is the person in possession.
+(ii) A person in possession of a negotiable tangible document of title if the goods are deliverable either to
+bearer or to the order of the person in possession.
+(iii) A person in control of a negotiable electronic document of title.
+(v) "Insolvency proceedings" includes an assignment for the benefit of creditors or other proceeding
+intended to liquidate or rehabilitate the estate of the person involved.
+(w) "Insolvent" means any of the following:
+(i) Having generally ceased to pay debts in the ordinary course of business other than as a result of a bona
+fide dispute.
+(ii) Being unable to pay debts as they become due.
+(iii) Being insolvent within the meaning of federal bankruptcy law.
+(x) "Money" means a medium of exchange authorized or adopted by a domestic or foreign government.
+The term includes a monetary unit of account established by an intergovernmental organization or by
+agreement between 2 or more countries.
+(y) "Organization" means a person other than an individual.
+(z) "Party", as distinct from "third party", means a person that has engaged in a transaction or made an
+agreement subject to this act.
+(aa) "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability
+company, association, joint venture, government, governmental subdivision, agency, or instrumentality,
+public corporation, or any other legal or commercial entity.
+(bb) "Present value" means the amount as of a date certain of 1 or more sums payable in the future,
+discounted to the date certain by use of either an interest rate specified by the parties if that rate is not
+manifestly unreasonable at the time the transaction is entered into or, if an interest rate is not so specified, a
+commercially reasonable rate that takes into account the facts and circumstances at the time the transaction is
+entered into.
+(cc) "Purchase" means taking by sale, lease, discount, negotiation, mortgage, pledge, lien, security interest,
+issue or reissue, gift, or any other voluntary transaction creating an interest in property.
+(dd) "Purchaser" means a person that takes by purchase.
+(ee) "Record" means information that is inscribed on a tangible medium or that is stored in an electronic or
+Rendered Wednesday, December 27, 2017 Page 3 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+other medium and is retrievable in perceivable form.
+(ff) "Remedy" means any remedial right to which an aggrieved party is entitled with or without resort to a
+tribunal.
+(gg) "Representative" means a person empowered to act for another, including an agent, an officer of a
+corporation or association, and a trustee, executor, or administrator of an estate.
+(hh) "Right" includes remedy.
+(ii) "Security interest" means an interest in personal property or fixtures which secures payment or
+performance of an obligation. The term includes any interest of a consignor and a buyer of accounts, chattel
+paper, a payment intangible, or a promissory note in a transaction that is subject to article 9. The term does
+not include the special property interest of a buyer of goods on identification of those goods to a contract for
+sale under section 2401, but a buyer may also acquire a "security interest" by complying with article 9. Except
+as otherwise provided in section 2505, the right of a seller or lessor of goods under article 2 or 2A to retain or
+acquire possession of the goods is not a "security interest", but a seller or lessor may also acquire a "security
+interest" by complying with article 9. The retention or reservation of title by a seller of goods notwithstanding
+shipment or delivery to the buyer under section 2401 is limited in effect to a reservation of a "security
+interest". Whether a transaction in the form of a lease creates a security interest is determined under section
+1203.
+(jj) "Send" in connection with a writing, record, or notice means any of the following:
+(i) To deposit in the mail or deliver for transmission by any other usual means of communication with
+postage or cost of transmission provided for and properly addressed and, in the case of an instrument, to an
+address specified on the instrument or otherwise agreed, or if there is not an address specified or agreed, to
+any address reasonable under the circumstances.
+(ii) In any other way to cause to be received any record or notice within the time it would have arrived if
+properly sent.
+(kk) "Signed" includes any symbol executed or adopted by a party with present intention to adopt or accept
+a writing.
+(ll) "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States
+Virgin Islands, or any territory or insular possession subject to the jurisdiction of the United States.
+(mm) "Surety" includes a guarantor or other secondary obligor.
+(nn) "Term" means a portion of an agreement that relates to a particular matter.
+(oo) "Unauthorized signature" means a signature made without actual, implied, or apparent authority. The
+term includes a forgery.
+(pp) "Warehouse receipt" means a document of title issued by a person engaged in the business of storing
+goods for hire.
+(qq) "Written" or "writing" includes printing, typewriting, or any other intentional reduction to tangible
+form.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1964, Act 250, Eff. Aug. 28, 1964;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am.
+1987, Act 16, Imd. Eff. Apr. 24, 1987;⎯Am. 1992, Act 101, Eff. Sept. 30, 1992;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012,
+Act 87, Eff. July 1, 2013.
+440.1202 Definitions.
+Sec. 1202. For purposes of this act:
+(a) Subject to subdivision (f), a person has "notice" of a fact if the person has any of the following:
+(i) Actual knowledge of it.
+(ii) Received a notice or notification of it.
+(iii) From all the facts and circumstances known to the person at the time in question, reason to know that
+it exists.
+(b) "Knowledge" means actual knowledge. "Knows" has a corresponding meaning.
+(c) "Discover", "learn", or words of similar import refer to knowledge rather than to reason to know.
+(d) A person "notifies" or "gives" a notice or notification to another person by taking those steps as may be
+reasonably required to inform the other person in ordinary course, whether or not the other person actually
+comes to know of it.
+(e) Subject to subdivision (f), a person "receives" a notice or notification when either of the following
+occurs:
+(i) It comes to that person's attention.
+(ii) It is duly delivered in a form reasonable under the circumstances at the place of business through which
+the contract was made or at another location held out by that person as the place for receipt of those
+communications.
+Rendered Wednesday, December 27, 2017 Page 4 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(f) Notice, knowledge, or a notice or notification received by an organization is effective for a particular
+transaction from the time it is brought to the attention of the individual conducting that transaction and, in any
+event, from the time it would have been brought to the individual's attention if the organization had exercised
+due diligence. An organization exercises due diligence if it maintains reasonable routines for communicating
+significant information to the person conducting the transaction and there is reasonable compliance with the
+routines. Due diligence does not require an individual acting for the organization to communicate information
+unless the communication is part of the individual's regular duties or the individual has reason to know of the
+transaction and that the transaction would be materially affected by the information.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 86, Eff. July 1, 2013.
+440.1203 Transaction in form of lease; "remaining economic life of the goods" and
+"reasonably predictable" fair market rent, fair market value, or cost of performing under
+lease agreement; determination.
+Sec. 1203. (1) Whether a transaction in the form of a lease creates a lease or security interest is determined
+by the facts of each case.
+(2) A transaction in the form of a lease creates a security interest if the consideration that the lessee is to
+pay the lessor for the right to possession and use of the goods is an obligation for the term of the lease and is
+not subject to termination by the lessee, and any of the following are met:
+(a) The original term of the lease is equal to or greater than the remaining economic life of the goods.
+(b) The lessee is bound to renew the lease for the remaining economic life of the goods or is bound to
+become the owner of the goods.
+(c) The lessee has an option to renew the lease for the remaining economic life of the goods for no
+additional consideration or for nominal additional consideration upon compliance with the lease agreement.
+(d) The lessee has an option to become the owner of the goods for no additional consideration or for
+nominal additional consideration upon compliance with the lease agreement.
+(3) A transaction in the form of a lease does not create a security interest merely because any of the
+following are met:
+(a) The present value of the consideration the lessee is obligated to pay the lessor for the right to
+possession and use of the goods is substantially equal to or is greater than the fair market value of the goods at
+the time the lease is entered into.
+(b) The lessee assumes risk of loss of the goods.
+(c) The lessee agrees to pay, with respect to the goods, taxes, insurance, filing, recording, or registration
+fees, or service or maintenance costs.
+(d) The lessee has an option to renew the lease or to become the owner of the goods.
+(e) The lessee has an option to renew the lease for a fixed rent that is equal to or greater than the
+reasonably predictable fair market rent for the use of the goods for the term of the renewal at the time the
+option is to be performed.
+(f) The lessee has an option to become the owner of the goods for a fixed price that is equal to or greater
+than the reasonably predictable fair market value of the goods at the time the option is to be performed.
+(4) Additional consideration is nominal if it is less than the lessee's reasonably predictable cost of
+performing under the lease agreement if the option is not exercised. Additional consideration is not nominal if
+either of the following are met:
+(a) When the option to renew the lease is granted to the lessee, the rent is stated to be the fair market rent
+for the use of the goods for the term of the renewal determined at the time the option is to be performed.
+(b) When the option to become the owner of the goods is granted to the lessee, the price is stated to be the
+fair market value of the goods determined at the time the option is to be performed.
+(5) The "remaining economic life of the goods" and "reasonably predictable" fair market rent, fair market
+value, or cost of performing under the lease agreement must be determined with reference to the facts and
+circumstances at the time the transaction is entered into.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 86, Eff. July 1, 2013.
+440.1204 Value for rights.
+Sec. 1204. Except as otherwise provided in articles 3, 4, and 5, a person gives value for rights if the person
+acquires them for any of the following:
+(a) In return for a binding commitment to extend credit or for the extension of immediately available
+credit, whether or not drawn upon and whether or not a charge-back is provided for in the event of difficulties
+in collection.
+(b) As security for, or in total or partial satisfaction of, a preexisting claim.
+Rendered Wednesday, December 27, 2017 Page 5 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(c) By accepting delivery under a preexisting contract for purchase.
+(d) In return for any consideration sufficient to support a simple contract.
+
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 86, Eff. July 1, 2013.
+
+440.1205 Time for taking action.
+Sec. 1205. (1) Whether a time for taking an action required by this act is reasonable depends on the nature,
+purpose, and circumstances of the action.
+(2) An action is taken seasonably if it is taken at or within the time agreed or, if no time is agreed, at or
+within a reasonable time.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 86, Eff. July 1, 2013.
+440.1206 Presumption.
+Sec. 1206. Whenever this act creates a "presumption" with respect to a fact, or provides that a fact is
+"presumed", the trier of fact must find the existence of the fact unless and until evidence is introduced that
+supports a finding of its nonexistence.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1998, Act 278, Imd. Eff. July 27, 1998;⎯Am. 2012, Act 86, Eff. July 1, 2013.
+440.1207 Repealed. 2012, Act 86, Eff. July 1, 2013.
+Compiler's note: The repealed section pertained to performance or acceptance of reservation of rights.
+440.1208 Repealed. 2012, Act 86, Eff. July 1, 2013.
+Compiler's note: The repealed section pertained to right to accelerate or require collateral.
+440.1209 Repealed. 2012, Act 86, Eff. July 1, 2013.
+Compiler's note: The repealed section pertained to subordination.
+440.1210 Repealed. 2012, Act 86, Eff. July 1, 2013.
+Compiler's note: The repealed section pertained to definitions.
+440.1211 Repealed. 2012, Act 86, Eff. July 1, 2013.
+Compiler's note: The repealed section pertained to contract, security, or instrument, and introduction of euro to agreement.
+PART 3
+
+TERRITORIAL APPLICABILITY AND GENERAL RULES
+
+440.1301 Applicability of law of this state or other state or nation; applicability of act to
+transactions bearing relation to state; provisions specifying applicable law.
+Sec. 1301. (1) Except as otherwise provided in this section, when a transaction bears a reasonable relation
+to this state and also to another state or nation, the parties may agree that the law either of this state or of that
+other state or nation shall govern their rights and duties.
+(2) In the absence of an agreement effective under subsection (1), and except as provided in subsection (3),
+this act applies to transactions bearing an appropriate relation to this state.
+(3) If 1 of the following provisions of this act specifies the applicable law, that provision governs and a
+contrary agreement is effective only to the extent permitted by the law so specified:
+(a) Section 2402.
+(b) Sections 2A105 and 2A106.
+(c) Section 4102.
+(d) Section 4A507.
+(e) Section 5116.
+(f) Section 8110.
+(g) Sections 9301 through 9307.
+History: Add. 2012, Act 86, Eff. July 1, 2013.
+440.1302 Agreements; "unless otherwise agreed"; implication.
+Sec. 1302. (1) Except as otherwise provided in subsection (2) or elsewhere in this act, the effect of any
+provision of this act may be varied by agreement.
+(2) The obligations of good faith, diligence, reasonableness, and care prescribed by this act may not be
+disclaimed by agreement. The parties, by agreement, may determine the standards by which the performance
+of those obligations is to be measured if those standards are not manifestly unreasonable. Whenever this act
+Rendered Wednesday, December 27, 2017 Page 6 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+requires an action to be taken within a reasonable time, a time that is not manifestly unreasonable may be
+fixed by agreement.
+(3) The presence in certain provisions of this act of the phrase "unless otherwise agreed", or words of
+similar import, does not imply that the effect of other provisions may not be varied by agreement under this
+section.
+History: Add. 2012, Act 86, Eff. July 1, 2013.
+440.1303 Course of performance, course of dealing, or usage of trade.
+Sec. 1303. (1) For purposes of this act, a "course of performance" is a sequence of conduct between the
+parties to a particular transaction that exists if both of the following are met:
+(a) The agreement of the parties with respect to the transaction involves repeated occasions for
+performance by a party.
+(b) The other party, with knowledge of the nature of the performance and opportunity for objection to it,
+accepts the performance or acquiesces in it without objection.
+(2) For purposes of this act, a "course of dealing" is a sequence of conduct concerning previous
+transactions between the parties to a particular transaction that is fairly to be regarded as establishing a
+common basis of understanding for interpreting their expressions and other conduct.
+(3) For purposes of this act, a "usage of trade" is any practice or method of dealing having such regularity
+of observance in a place, vocation, or trade as to justify an expectation that it will be observed with respect to
+the transaction in question. The existence and scope of a usage of trade must be proved as facts. If it is
+established that a usage of trade is embodied in a trade code or similar record, the interpretation of the record
+is a question of law.
+(4) A course of performance or course of dealing between the parties or usage of trade in the vocation or
+trade in which they are engaged or of which they are or should be aware is relevant in ascertaining the
+meaning of the parties' agreement, may give particular meaning to specific terms of the agreement, and may
+supplement or qualify the terms of the agreement. A usage of trade applicable in the place in which part of the
+performance under the agreement is to occur may be so utilized as to that part of the performance.
+(5) Except as otherwise provided in subsection (6), the express terms of an agreement and any applicable
+course of performance, course of dealing, or usage of trade must be construed whenever reasonable as
+consistent with each other. All of the following apply if that construction is unreasonable:
+(a) Express terms prevail over course of performance, course of dealing, and usage of trade.
+(b) Course of performance prevails over course of dealing and usage of trade.
+(c) Course of dealing prevails over usage of trade.
+(6) Subject to section 2209, a course of performance is relevant to show a waiver or modification of any
+term inconsistent with the course of performance.
+(7) Evidence of a relevant usage of trade offered by 1 party is not admissible unless that party has given the
+other party notice that the court finds sufficient to prevent unfair surprise to the other party.
+History: Add. 2012, Act 86, Eff. July 1, 2013.
+440.1304 Good faith obligation.
+Sec. 1304. Every contract or duty within this act imposes an obligation of good faith in its performance and
+enforcement.
+History: Add. 2012, Act 86, Eff. July 1, 2013.
+440.1305 Administration of remedies; enforcement of right or obligation.
+Sec. 1305. (1) The remedies provided in this act must be liberally administered to the end that the
+aggrieved party may be put in as good a position as if the other party had fully performed but neither
+consequential or special damages nor penal damages may be had except as specifically provided in this act or
+by other rule of law.
+(2) Any right or obligation declared by this act is enforceable by action unless the provision declaring it
+specifies a different and limited effect.
+History: Add. 2012, Act 86, Eff. July 1, 2013.
+440.1306 Claim or right arising out of alleged breach; discharge.
+Sec. 1306. A claim or right arising out of an alleged breach may be discharged in whole or in part without
+consideration by agreement of the aggrieved party in an authenticated record.
+History: Add. 2012, Act 86, Eff. July 1, 2013.
+440.1307 Prima facie evidence of certain documents.
+Rendered Wednesday, December 27, 2017 Page 7 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+Sec. 1307. A document in due form purporting to be a bill of lading, policy or certificate of insurance,
+official weigher's or inspector's certificate, consular invoice, or any other document authorized or required by
+the contract to be issued by a third party is prima facie evidence of its own authenticity and genuineness and
+of the facts stated in the document by the third party.
+History: Add. 2012, Act 86, Eff. July 1, 2013.
+440.1308 Performance or promise of performance; effect of reservation of rights;
+applicability of subsection (1) to accord and satisfaction.
+Sec. 1308. (1) A party that with explicit reservation of rights performs or promises performance or assents
+to performance in a manner demanded or offered by the other party does not prejudice the rights reserved by
+that performance, promise, or assent. Words such as "without prejudice", "under protest", or the like are
+sufficient.
+(2) Subsection (1) does not apply to an accord and satisfaction.
+History: Add. 2012, Act 86, Eff. July 1, 2013.
+440.1309 Accelerating payment or performance or requiring collateral or additional
+collateral.
+Sec. 1309. A term providing that 1 party or that party's successor in interest may accelerate payment or
+performance or require collateral or additional collateral "at will" or when the party "deems itself insecure", or
+words of similar import, means that the party has power to do so only if that party in good faith believes that
+the prospect of payment or performance is impaired. The burden of establishing lack of good faith is on the
+party against which the power has been exercised.
+History: Add. 2012, Act 86, Eff. July 1, 2013.
+440.1310 Subordination.
+Sec. 1310. An obligation may be issued as subordinated to performance of another obligation of the person
+obligated, or a creditor may subordinate its right to performance of an obligation by agreement with either the
+person obligated or another creditor of the person obligated. Subordination does not create a security interest
+as against either the common debtor or a subordinated creditor.
+History: Add. 2012, Act 86, Eff. July 1, 2013. 

@@ -1,0 +1,597 @@
+Concept Curve Embeddings Indexation
+
+Description of all chunks: the files contain the Articles of the Uniform Commercial Code of the State of Michigan. Below each file is the set of concepts that represent that file, according to the CC‑EI method.
+
+Responses should include the File entries exactly as they are written.
+
+File: Art_01.txt
+General provisions
+UCC applicability
+Liberal construction
+Uniformity of law
+Implied repeal
+Electronic signatures
+General definitions
+Aggrieved party
+Buyer in ordinary course
+Document of title
+Security interest
+Good faith obligation
+Usage of trade
+Lease vs. security interest
+Notice and knowledge
+Reasonable time
+Presumption
+Subordination
+Course of performance
+Prima facie evidence
+
+File: Art_02.txt
+Sales of goods
+Buyer and seller
+Merchant transactions
+Contract formation
+Present sale
+Future goods
+Statute of frauds
+Contract modification
+Firm offer
+Parol evidence rule
+Usage of trade
+Course of dealing
+Course of performance
+Tender of delivery
+Perfect tender rule
+Installment contracts
+Shipment contract
+Risk of loss
+Insurable interest
+Identified goods
+Buyer's acceptance
+Rejection of goods
+Revocation of acceptance
+Buyer's remedies
+Cover
+Buyer's damages
+Specific performance
+Right to reject
+Security interest
+Seller's remedies
+Resale
+Lost volume seller
+Action for the price
+Incidental damages
+Consequential damages
+Liquidated damages
+Limitations on damages
+Statute of limitations
+Good faith
+Reasonable time
+Acceptance of payment
+Accord and satisfaction
+Warranty of title
+Express warranties
+Implied warranty of merchantability
+Implied warranty of fitness
+Disclaimer of warranties
+Limitation of remedies
+Third-party beneficiaries
+Entrusting
+Sale on approval
+Sale or return
+Buyer's inspection
+FOB terms
+FAS terms
+CIF and C&F terms
+Letter of credit
+Document of title
+Bill of lading
+Bulk sales
+
+File: Art_02-A.txt
+Leases
+Consumer lease
+Finance lease
+Lease agreement
+Lease contract
+Leasehold interest
+Lessee
+Lessor
+Commercial unit
+Conforming goods
+Installment lease
+Sublease
+Residual interest
+Lien
+Termination
+Cancellation
+Default
+Acceptance of goods
+Risk of loss
+Buyer's remedies
+Seller's remedies
+Warranties
+Disclaimer of warranties
+Limitation of remedies
+Third-party warranties
+Identification of goods
+Impossibility
+Good faith
+Usage of trade
+Course of dealing
+Course of performance
+Finance arrangements
+Supplier
+Supply contract
+Accessions
+Fixtures
+Encumbrance
+Construction mortgage
+Fixture filing
+Chattel paper
+General intangibles
+Instrument
+Document
+Mortgage
+Security interest
+Value
+Account
+Control
+Commercial reasonableness
+Damages
+Remedies
+Waiver
+Merger clause
+Statute of limitations
+Parol evidence
+Payment terms
+Return of goods
+Severability
+Liquidated damages
+Personal property lease
+
+File: Art_03.txt
+Negotiable instruments
+Drafts
+Notes
+Issuer
+Drawer
+Maker
+Payee
+Holder
+Endorsement
+Endorser
+Negotiation
+Transfer
+Holder in due course
+Shelter rule
+Forgery
+Alteration
+Material alteration
+Incomplete instrument
+Blank endorsement
+Special endorsement
+Restrictive endorsement
+Anomalous endorsement
+Presentment
+Dishonor
+Notice of dishonor
+Acceptance
+Certification
+Stop payment
+Instrument payable on demand
+Instrument payable at a definite time
+Acceleration clause
+Extension clause
+Postdated check
+Stale check
+Check
+Cashier's check
+Teller's check
+Traveler's check
+Certified check
+Certificate of deposit
+Bank draft
+Consumer transaction
+Consumer account
+Accommodation party
+Accommodated party
+Secondary obligor
+Principal obligor
+Unauthorized signature
+Impostor rule
+Fictitious payee
+Bank collection process
+Payment
+Discharge
+Impairment of recourse
+Reacquisition
+Defenses
+Claims in recoupment
+Real defenses
+Personal defenses
+Waiver
+Estoppel
+Bad faith
+Good faith
+Consideration
+Value
+Course of performance
+Usage of trade
+Reasonable time
+Oral modification
+Statute of frauds
+
+File: Art_04.txt
+Bank deposits
+Check collection
+Depositary bank
+Payor bank
+Intermediary bank
+Collecting bank
+Presenting bank
+Midnight deadline
+Clearing-house
+Customer duties
+Holder in due course
+Ordinary care
+Presentment
+Notice of dishonor
+Bank liability
+Remotely created consumer item
+Documentary draft
+Settlement
+Credit risk
+Item processing
+Agreement for presentment
+Bank branch rule
+Suspends payments
+Waiver of time limits
+Discharge of liability
+Provisional settlement
+Electronic presentment
+Loss recovery
+Warranties of bank
+Transfer warranty
+
+File: Art_04-A.txt
+Funds transfer
+Payment order
+Sender
+Receiving bank
+Beneficiary
+Beneficiary's bank
+Originator
+Originator's bank
+Intermediary bank
+Execution of order
+Acceptance
+Security procedure
+Commercial reasonableness
+Refund obligations
+Erroneous orders
+Unauthorized payment
+Reimbursement
+Liability standards
+Communication system
+Cut-off time
+Funds-transfer system
+Acceptance timing
+Notification duty
+Amendment of orders
+Cancellations
+Conflicting rules
+Identifying number
+Name-number mismatch
+Execution date
+Payment date
+Funds-transfer business day
+Proof standards
+Federal regulations
+Electronic fund transfers
+Inconsistent identifications
+Bank identification
+Misapplied payments
+Loss recovery
+Notice of discrepancy
+
+File: Art_05.txt
+Letters of credit
+Applicant
+Issuer
+Beneficiary
+Adviser
+Confirmer
+Documentary presentation
+Honor and dishonor
+Revocation
+Amendment
+Reimbursement
+Independence principle
+Fraud exception
+Forgery
+Notice requirements
+Standard banking practice
+Compliance examination
+Issuer's obligations
+Document examination
+Perpetual letter expiration
+
+File: Art_06.txt
+Bulk transfers
+Repealed article
+Surviving obligations
+Pre-repeal rights
+Transitional provision
+
+File: Art_07.txt
+Documents of title
+Warehouse receipts
+Bills of lading
+Bailee
+Carrier
+Consignor
+Consignee
+Issuer
+Goods in storage
+Negotiable documents
+Nonnegotiable documents
+Electronic documents
+Control of document
+Warehouse duties
+Terms of receipt
+Misdescription liability
+Warehouse lien
+Delivery obligations
+Separation of goods
+Commingled goods
+Overissued receipts
+Warehouse receipt alteration
+Public sale notice
+Hazardous goods
+Lien enforcement
+Breach of duty
+Warehouse liability
+Title transfer
+Buyer in ordinary course
+Document negotiation
+
+File: Art_08.txt
+Investment securities
+Certificated security
+Uncertificated security
+Bearer form
+Registered form
+Security entitlement
+Entitlement holder
+Entitlement order
+Securities intermediary
+Clearing corporation
+Financial asset
+Adverse claim
+Notice of claim
+Security certificate
+Control of security
+Delivery of security
+Indorsement
+Protected purchaser
+Security account
+Broker
+Issuer
+Overissue
+Transfer restrictions
+Instruction for transfer
+Valid security
+Warranties
+Purchaser rights
+Pledge and lien
+Security purchase contract
+Intermediary jurisdiction
+Jurisdiction rules
+Issuance of security
+Fraud defense
+Appropriate person
+Document of title exception
+Security identification
+Fiduciary duties
+Holder in due course
+Securities regulation
+
+File: Art_09_part_1.txt
+Secured transactions
+Security interest
+Collateral definition
+Chattel paper
+Account debtor
+Agricultural lien
+Accession
+Deposit account
+Electronic chattel paper
+Fixtures
+General intangible
+Consumer goods
+Commercial tort claim
+Payment intangible
+Promissory note
+Proceeds
+Security agreement
+Financing statement
+Fixture filing
+Obligor
+Manufactured home
+Purchase-money security interest
+Authenticated record
+Filing office
+Debtor definition
+Secured party
+Lien creditor
+Filing rules
+Software as collateral
+Control of collateral
+
+File: Art_09-part_2.txt
+Effectiveness of security agreement
+Attachment of security interest
+Enforceability conditions
+After-acquired property
+Proceeds and rights
+Purchase-money security interest rules
+Rights in collateral
+Use and disposition
+Security interest in financial assets
+Control of deposit accounts
+
+File: Art_09-part_3.txt
+Perfection of security interests
+Priority rules
+Governing law
+Certificate of title
+Investment property
+Deposit accounts jurisdiction
+Commodity contracts
+Letter-of-credit rights
+Debtor location rules
+Security interests in goods
+
+File: Art_09-part_4.txt
+Automatic perfection
+Temporary perfection
+Supporting obligation
+Security interest in proceeds
+Attachment and perfection
+Perfection by control
+Perfection by possession
+Financing statement filing
+Exemptions to filing
+Perfection in money
+Perfection in goods
+Commodity contracts perfection
+Security interests in securities
+Security interest in electronic documents
+Security interest in chattel paper
+Priority by compliance
+Goods in possession of bailee
+20-day temporary perfection
+Fixture filing exceptions
+Financing statement amendments
+
+File: Art_09-part_5.txt
+Priority rules
+Buyer in ordinary course
+Lessee protection
+Licensee of general intangible
+Lien creditor rights
+Conflicting security interests
+Perfection by filing
+Time of perfection
+Priority in proceeds
+Supporting obligation
+Investment property priority
+Deposit account control
+Priority of purchase-money interest
+Future advances priority
+Transferee rights
+Consignee rights
+Subordination
+Accessions
+Commingled goods
+Fixtures priority
+Chattel paper priority
+Accounts priority
+Proceeds priority
+Agricultural lien priority
+New debtor rules
+Assignment of security interest
+Control vs. possession
+Purchase-money livestock
+Software priority
+Consignment priority
+Certificate of title
+Purchase-money notification
+Conflicting claims
+Perfected vs. unperfected
+Statutory liens
+Change in debtor
+Cross-collateralization
+Transfer of rights
+Change in use
+Proceeds identification
+Inventory priority
+Consumer goods exception
+Notification duty
+Multiple filings
+Financing statement continuation
+Amendment filing
+Termination statement
+Control timing
+Debtor authorization
+Enforcement rights
+Filing deadlines
+Filing jurisdiction
+Security interest disclosure
+Authentication rules
+Collateral misdescription
+Control in deposit accounts
+Security interest maintenance
+Filing office procedures
+Priority date rules
+Security interest in licenses
+
+File: Art_09-part_6.txt
+Filing office duties
+Information statements
+Indexing requirements
+Error in indexing
+Secured party rights
+Debtor's rights
+Post-default remedies
+Disposition of collateral
+Notice of sale
+Commercial reasonableness
+Redemption rights
+Deficiency claim
+Surplus handling
+Strict foreclosure
+Proposal of retention
+Obligor notice
+Judicial enforcement
+Accounting request
+Acceptance of collateral
+Waiver limitations
+Consumer goods protection
+Compliance with obligations
+Collection enforcement
+Transfer after default
+Third-party claims
+Transmitting utilities
+Debtor authentication
+Electronic filings
+Misfiling procedures
+Incorrect statements
+Record destruction
+File retrieval
+Debtor name indexing
+Fixture filing format
+Fee schedule
+Expedited service
+Search request fees
+Filing acceptance
+False filings
+Judicial orders for filing
+Security agreement verification
+Correction statements
+Public access to filings
+Subscription data services
+Assignment indexing
+Amendment process
+Notification of satisfaction
+Wrongful filings
+Data integrity rules
+Administrative rules
+
+File: Art_11.txt
+Repealed provisions
+Effective date transition
+Amendatory act
+Continuation statements
+Prior transaction validity

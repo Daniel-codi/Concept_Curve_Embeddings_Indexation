@@ -1,0 +1,1420 @@
+440.9517 Effect of indexing errors.
+Sec. 9517. The failure of the filing office to index a record correctly does not affect the effectiveness of the
+filed record.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9518 Information statement concerning inaccurate or wrongfully filed record.
+Sec. 9518. (1) A person may file in the filing office an information statement with respect to a record
+indexed there under the person's name if the person believes that the record is inaccurate or was wrongfully
+filed.
+(2) An information statement under subsection (1) must do all of the following:
+(a) Identify the record to which it relates by both of the following:
+(i) The file number assigned to the initial financing statement to which the record relates.
+(ii) If the information statement relates to a record filed or recorded in a filing office described in section
+9501(1)(a), the date that the initial financing statement was filed or recorded and the information specified in
+section 9502(2).
+(b) Indicate that it is an information statement.
+(c) Provide the basis for the person's belief that the record is inaccurate and indicate the manner in which
+the person believes the record should be amended to cure any inaccuracy or provide the basis for the person's
+belief that the record was wrongfully filed.
+(3) A person may file in the filing office an information statement with respect to a record filed there if the
+person is a secured party of record with respect to the financing statement to which the record relates and
+believes that the person that filed the record was not entitled to do so under section 9509(4).
+(4) An information statement under subsection (3) must do all of the following:
+(a) Identify the record to which it relates by both of the following:
+(i) The file number assigned to the initial financing statement to which the record relates.
+(ii) If the information statement relates to a record filed or recorded in a filing office described in section
+9501(1)(a), the date and time that the initial financing statement was filed or recorded and the information
+specified in section 9502(2).
+(b) Indicate that it is an information statement.
+(c) Provide the basis for the person's belief that the person that filed the record was not entitled to do so
+under section 9509(4).
+(5) The filing of an information statement does not affect the effectiveness of an initial financing statement
+or other filed record.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 88, Eff. July 1, 2013.
+SUBPART 2.
+
+DUTIES AND OPERATION OF FILING OFFICE
+
+440.9519 Numbering, maintaining, and indexing records; communicating information
+provided in records.
+Sec. 9519. (1) For each record filed in a filing office, the filing office shall do all of the following:
+Rendered Wednesday, December 27, 2017 Page 190 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(a) Assign a unique number to the filed record.
+(b) Create a record that bears the number assigned to the filed record and the date and time of filing.
+(c) Maintain the filed record for public inspection.
+(d) Index the filed record in accordance with subsections (3), (4), and (5).
+(2) A file number assigned after January 1, 2002 must include a digit that is mathematically derived from
+or related to the other digits of the file number, and aids the filing office in determining whether a number
+communicated as the file number includes a single-digit or transpositional error.
+(3) Except as otherwise provided in subsections (4) and (5), the filing office shall do both of the following:
+(a) Index an initial financing statement according to the name of the debtor and index all filed records
+relating to the initial financing statement in a manner that associates with one another an initial financing
+statement and all filed records relating to the initial financing statement.
+(b) Index a record that provides a name of a debtor that was not previously provided in the financing
+statement to which the record relates also according to the name that was not previously provided.
+(4) If a financing statement is filed as a fixture filing or covers as-extracted collateral or timber to be cut, it
+must be filed for record and the filing office shall index it under both of the following:
+(a) Under the names of the debtor and of each owner of record shown on the financing statement as if they
+were the mortgagors under a mortgage of the real property described.
+(b) To the extent that the law of this state provides for indexing of records of mortgages under the name of
+the mortgagee, under the name of the secured party as if the secured party were the mortgagee thereunder, or,
+if indexing is by description, as if the financing statement were a record of a mortgage of the real property
+described.
+(5) If a financing statement is filed as a fixture filing or covers as-extracted collateral or timber to be cut,
+the filing office shall index an assignment filed under section 9514(1) or an amendment filed under section
+9514(2) under both of the following:
+(a) Under the name of the assignor as grantor.
+(b) To the extent that the law of this state provides for indexing a record of the assignment of a mortgage
+under the name of the assignee, under the name of the assignee.
+(6) The filing office shall maintain a capability to do both of the following:
+(a) To retrieve a record by the name of the debtor and by 1 of the following:
+(i) If the filing office is described in section 9501(1)(a), by the file number assigned to the initial financing
+statement to which the record relates and the date that the record was filed or recorded.
+(ii) If the filing office is described in section 9501(1)(b), by the file number assigned to the initial financing
+statement to which the record relates.
+(b) To associate and retrieve with one another an initial financing statement and each filed record relating
+to the initial financing statement.
+(7) The filing office shall not remove a debtor's name from the index until 1 year after the effectiveness of
+a financing statement naming the debtor lapses under section 9515 with respect to all secured parties of
+record.
+(8) The filing office shall perform the acts required by subsections (1) through (5) at the time and in the
+manner prescribed by filing-office rule, but not later than 2 business days after the filing office receives the
+record in question.
+(9) Subsections (2) and (8) do not apply to a filing office described in section 9501(1)(a).
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+
+440.9520 Acceptance and refusal to accept record; wrongful filing; action to require
+secretary of state to accept record; personal liability; filing by regulated financial
+institution.
+Sec. 9520. (1) A filing office shall refuse to accept a record for filing for a reason set forth in section
+9516(2) or, if the filing office is the secretary of state, subsection (5) and may refuse to accept a record for
+filing only for a reason set forth in section 9516(2) or, if the filing office is the secretary of state, subsection
+(5).
+(2) If a filing office refuses to accept a record for filing, it shall communicate to the person that presented
+the record the fact of and reason for the refusal and the date and time the record would have been filed had the
+filing office accepted it. The communication must be made at the time and in the manner prescribed by
+filing-office rule but, in the case of a filing office described in section 9501(1)(b), in no event more than 2
+business days after the filing office receives the record.
+(3) A filed financing statement satisfying section 9502(1) and (2) is effective, even if the filing office is
+required to refuse to accept it for filing under subsection (1). However, section 9338 applies to a filed
+Rendered Wednesday, December 27, 2017 Page 191 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+financing statement providing information described in section 9516(2)(e) that is incorrect at the time the
+financing statement is filed.
+(4) If a record communicated to a filing office provides information that relates to more than 1 debtor, this
+part applies as to each debtor separately.
+(5) Notwithstanding any other provision of this act, if a person presents a record to the secretary of state for
+filing or recording, the secretary of state may refuse to accept the record for filing or recording if 1 or more of
+the following circumstances exist:
+(a) The record is not required or authorized to be filed or recorded with the secretary of state.
+(b) The record is being filed or recorded for a purpose outside the scope of this article.
+(c) The secretary of state has reasonable cause to believe the record is materially false or fraudulent.
+(d) The record asserts a claim against a current or former employee or officer of a federal, state, county, or
+other local governmental unit that relates to the performance of the officer's or employee's public duties, and
+for which the filer does not hold a properly executed security agreement or judgment from a court of
+competent jurisdiction.
+(e) The record indicates that the debtor and the secured party are substantially the same or that an
+individual debtor is a transmitting utility.
+(6) If a correction statement filed with the secretary of state under section 9518 alleges that a previously
+filed record was wrongfully filed, the secretary of state shall, without undue delay, determine whether the
+contested record was wrongfully filed. To determine whether the record was wrongfully filed, the secretary of
+state may require the person who filed the correction statement or the secured party to provide any additional
+relevant information requested by the secretary of state, including an original or copy of a security agreement
+that is related to the record. If the secretary of state finds that the record was wrongfully filed, the secretary of
+state shall terminate the record and the record is void and ineffective. The secretary of state shall notify the
+secured party named in the contested record of the termination.
+(7) If the secretary of state refuses to accept a record for filing or recording pursuant to subsection (5), the
+person who presented the record to the secretary of state may commence an action under section 9501a to
+require the secretary of state to accept the record for filing or recording. A record ordered by the court to be
+accepted is effective as a filed record from the initial filing date except as against a purchaser of the collateral
+which gives value in reasonable reliance on the absence of the record from the files.
+(8) A filing officer who, acting in a manner that does not subject the filing officer to personal liability
+under the statutes of this state, improperly refuses to accept a record for filing or recording under subsection
+(5) is not personally liable for the improper refusal or determination.
+(9) Subsection (5) does not apply to a financing statement filed by a regulated financial institution or a
+representative of a regulated financial institution. If a regulated financial institution that is attempting to file a
+financing statement is organized under the law of a governmental unit other than this state, the secretary of
+state may request the regulated financial institution or its representative to provide verification of regulation
+or licensure in the jurisdiction under whose law the institution is organized. As used in this subsection,
+"regulated financial institution" means that term as defined in section 9501a.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2008, Act 383, Eff. Mar. 29, 2009.
+440.9521 Form and format of written initial financing statement and amendment.
+Sec. 9521. (1) Except for a reason set forth in section 9516(2) or 9520(5), a filing office that accepts
+written records for filing shall not refuse to accept a written initial financing statement that conforms to the
+form and format of the UCC financing statement (Form UCC1)(rev. 04/20/11) or the UCC financing
+statement addendum (Form UCC1Ad)(rev. 04/20/11), promulgated by the American law institute and the
+uniform law commission, or to the form and format of any other revision to or version of either of those forms
+that are promulgated by the American law institute and the uniform law commission and adopted by the
+secretary of state.
+(2) Except for a reason set forth in section 9516(2) or 9520(5), a filing office that accepts written records
+for filing shall not refuse to accept a written financing statement amendment that conforms to the form and
+format of the UCC financing statement amendment (Form UCC3)(rev. 04/20/11) or the UCC financing
+statement amendment addendum (Form UCC3Ad)(rev. 04/20/11), promulgated by the American law institute
+and the uniform law commission, or to the form and format of any other revision to or version of either of
+those forms that are promulgated by the American law institute and the uniform law commission and adopted
+by the secretary of state.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2008, Act 383, Eff. Mar. 29, 2009;⎯Am. 2012, Act 88, Eff. July 1, 2013.
+440.9522 Maintenance and destruction of records.
+Rendered Wednesday, December 27, 2017 Page 192 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+Sec. 9522. (1) The filing office shall maintain a record of the information provided in a filed financing
+statement for at least 1 year after the effectiveness of the financing statement has lapsed under section 9515
+with respect to all secured parties of record. The record must be retrievable by using the name of the debtor
+and 1 of the following:
+(a) If the record was filed or recorded in the filing office described in section 9501(1)(a), by using the file
+number assigned to the initial financing statement to which the record relates and the date that the record was
+filed or recorded.
+(b) If record was filed in the filing office described in section 9501(1)(b), by using the file number
+assigned to the initial financing statement to which the record relates.
+(2) Except to the extent that a statute governing disposition of public records provides otherwise, the filing
+office immediately may destroy any written record evidencing a financing statement. However, if the filing
+office destroys a written record, it shall maintain another record of the financing statement that complies with
+subsection (1).
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9523 Request for acknowledgment of filing; duties of filing office; communication;
+medium; subscription; fee.
+Sec. 9523. (1) If a person that files a written record requests an acknowledgment of the filing, the filing
+office shall send to the person an image of the record showing the number assigned to the record pursuant to
+section 9519(1)(a) and the date and time of the filing of the record. However, if the person furnishes a copy of
+the record to the filing office, the filing office may instead do both of the following:
+(a) Note upon the copy the number assigned to the record pursuant to section 9519(1)(a) and the date and
+time of the filing of the record.
+(b) Send the copy to the person.
+(2) If a person files a record other than a written record, the filing office shall communicate to the person
+an acknowledgment that provides all of the following:
+(a) The information in the record.
+(b) The number assigned to the record pursuant to section 9519(1)(a).
+(c) The date and time of the filing of the record.
+(3) The filing office shall communicate or otherwise make available in a record 1 or more of the following
+information to any person that requests it:
+(a) Whether there is on file on a date and time specified by the filing office, but not a date earlier than 3
+business days before the filing office receives the request, any financing statement that meets all of the
+following:
+(i) Designates a particular debtor or, if the request so states, designates a particular debtor at the address
+specified in the request.
+(ii) Has not lapsed under section 9515 with respect to all secured parties of record.
+(iii) If the request so states, has lapsed under section 9515 and a record of which is maintained by the filing
+office under section 9522(1).
+(b) The date and time of filing of each financing statement.
+(c) The information provided in each financing statement.
+(4) In complying with its duty under subsection (3), the filing office may communicate information in any
+medium. However, if requested, the filing office shall communicate information by issuing its written
+certificate or another record that can be admitted into evidence in the courts of this state without extrinsic
+evidence of its authenticity.
+(5) The filing office shall perform the acts required by subsections (1) through (4) at the time and in the
+manner prescribed by filing-office rule, but, in the case of a filing office described in section 9501(1)(b), not
+later than 2 business days after the filing office receives the request.
+(6) Not later than January 1, 2018, the secretary of state shall sell or license to the public on a nonexclusive
+basis, in bulk, by subscription, images of all records filed in it under this part each month, or bulk data from
+the filed records, in a format established by the secretary of state and in 1 or more mediums available to the
+secretary of state. The secretary of state shall charge a subscription fee of $500.00 per month to a person that
+subscribes to receive images or data under this subsection.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2017, Act 175, Imd. Eff. Nov. 21, 2017.
+440.9524 Delay by filing office.
+Sec. 9524. Delay by the filing office beyond a time limit prescribed by this part is excused if both of the
+following apply:
+Rendered Wednesday, December 27, 2017 Page 193 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(a) The delay is caused by interruption of communication or computer facilities, war, emergency
+conditions, failure of equipment, or other circumstances beyond control of the filing office.
+(b) The filing office exercises reasonable diligence under the circumstances.
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+
+440.9525 Fee for filing and indexing record; other fees.
+Sec. 9525. (1) Except as otherwise provided in subsection (3) or (4), the fee for filing and indexing a
+record under this part is $15.00.
+(2) A filing office shall charge a person a fee for responding to a request for a search of the records filed
+with a filing office concerning a debtor, including issuance of a certificate describing each presently effective
+record filed concerning the debtor if requested. The fee is $6.00, plus 1 or more of the following, if
+applicable:
+(a) If the person requests expediting of the regular search process, an additional fee of $25.00.
+(b) If the person requests copies of the presently effective records disclosed by the search, an additional fee
+of $2.00 per page.
+(c) If the filing office is the secretary of state and the person requests that the secretary of state include an
+impression of the official seal of the secretary of state on the certificate, an additional fee of $6.00.
+(3) This section does not require a fee with respect to a record of a mortgage that is effective as a financing
+statement filed as a fixture filing or as a financing statement covering as-extracted collateral or timber to be
+cut under section 9502(3). However, the recording fees that otherwise would be applicable to the record of the
+mortgage under section 2567 of the revised judicature act of 1961, 1961 PA 236, MCL 600.2567, apply.
+(4) There is no fee for filing and indexing a correction statement filed with the office of the secretary of
+state under section 9518, filed by an individual named as a debtor on a record indexed by the secretary of
+state.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2004, Act 212, Eff. Jan. 1, 2005;⎯Am. 2016, Act 229, Eff. Oct. 1, 2016.
+440.9526 Filing-office rules.
+Sec. 9526. (1) The secretary of state shall adopt and publish rules to implement this article. The
+filing-office rules must be consistent with this article and adopted and published in accordance with the
+administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328.
+(2) To keep the filing-office rules and practices of the filing office in harmony with the rules and practices
+of filing offices in other jurisdictions that enact substantially this part, and to keep the technology used by the
+filing office compatible with the technology used by filing offices in other jurisdictions that enact
+substantially this part, the secretary of state, so far as is consistent with the purposes, policies, and provisions
+of this article, in adopting, amending, and repealing filing-office rules, shall do all of the following:
+(a) Consult with filing offices in other jurisdictions that enact substantially this part.
+(b) Consult the most recent version of the model rules promulgated by the international association of
+corporate administrators or any successor organization.
+(c) Take into consideration the rules and practices of, and the technology used by, filing offices in other
+jurisdictions that enact substantially this part.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+Administrative rules: R 440.101 et seq. of the Michigan Administrative Code.
+440.9527 Repealed. 2008, Act 383, Eff. Mar. 29, 2009.
+Compiler's note: The repealed section pertained to submission of report by secretary of state on the operation of the filing office.
+PART 6
+
+DEFAULT
+
+SUBPART 1.
+
+DEFAULT AND ENFORCEMENT OF SECURITY INTEREST
+
+440.9601 Rights after default; judicial enforcement; consignor or buyer of accounts, chattel
+paper, payment intangibles, or promissory notes.
+Sec. 9601. (1) After default, a secured party has the rights provided in this part and, except as otherwise
+provided in section 9602, those provided by agreement of the parties. A secured party may do 1 or more of
+the following:
+(a) May reduce a claim to judgment, foreclose, or otherwise enforce the claim, security interest, or
+agricultural lien by any available judicial procedure.
+Rendered Wednesday, December 27, 2017 Page 194 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(b) If the collateral is documents, may proceed either as to the documents or as to the goods they cover.
+(2) A secured party in possession of collateral or control of collateral under section 7106, 9104, 9105,
+9106, or 9107 has the rights and duties provided in section 9207.
+(3) The rights under subsections (1) and (2) are cumulative and may be exercised simultaneously.
+(4) Except as otherwise provided in subsection (7) and section 9605, after default, a debtor and an obligor
+have the rights provided in this part and by agreement of the parties.
+(5) If a secured party has reduced its claim to judgment, the lien of any levy that may be made upon the
+collateral by virtue of an execution based upon the judgment relates back to the earliest of the following:
+(a) The date of perfection of the security interest or agricultural lien in the collateral.
+(b) The date of filing a financing statement covering the collateral.
+(c) Any date specified in a statute under which the agricultural lien was created.
+(6) A sale pursuant to an execution is a foreclosure of the security interest or agricultural lien by judicial
+procedure within the meaning of this section. A secured party may purchase at the sale and thereafter hold the
+collateral free of any other requirements of this article.
+(7) Except as otherwise provided in section 9607(3), this part imposes no duties upon a secured party that
+is a consignor or is a buyer of accounts, chattel paper, payment intangibles, or promissory notes.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.9602 Waiver and variance of rights and duties.
+Sec. 9602. Except as otherwise provided in section 9624, to the extent that they give rights to a debtor or
+obligor and impose duties on a secured party, the debtor or obligor may not waive or vary the rules stated in
+the following listed sections:
+(a) Section 9207(2)(d)(iii), which deals with use and operation of the collateral by the secured party.
+(b) Section 9210, which deals with requests for an accounting and requests concerning a list of collateral
+and statement of account.
+(c) Section 9607(3), which deals with collection and enforcement of collateral.
+(d) Sections 9608(1) and 9615(3) to the extent that they deal with application or payment of noncash
+proceeds of collection, enforcement, or disposition.
+(e) Sections 9608(1) and 9615(4) to the extent that they require accounting for or payment of surplus
+proceeds of collateral.
+(f) Section 9609 to the extent that it imposes upon a secured party that takes possession of collateral
+without judicial process the duty to do so without breach of the peace.
+(g) Sections 9610(2), 9611, 9613, and 9614, which deal with disposition of collateral.
+(h) Section 9615(6), which deals with calculation of a deficiency or surplus when a disposition is made to
+the secured party, a person related to the secured party, or a secondary obligor.
+(i) Section 9616, which deals with explanation of the calculation of a surplus or deficiency.
+(j) Sections 9620, 9621, and 9622, which deal with acceptance of collateral in satisfaction of obligation.
+(k) Section 9623, which deals with redemption of collateral.
+(l) Section 9624, which deals with permissible waivers.
+(m) Sections 9625 and 9626, which deal with the secured party's liability for failure to comply with this
+article.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9603 Agreement on standards concerning rights and duties.
+Sec. 9603. (1) The parties may determine by agreement the standards measuring the fulfillment of the
+rights of a debtor or obligor and the duties of a secured party under a rule stated in section 9602 if the
+standards are not manifestly unreasonable.
+(2) Subsection (1) does not apply to the duty under section 9609 to refrain from breaching the peace.
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+
+440.9604 Procedure if security agreement covers real property or fixtures.
+Sec. 9604. (1) If a security agreement covers both personal and real property, a secured party may do either
+of the following:
+(a) Proceed under this part as to the personal property without prejudicing any rights with respect to the
+real property.
+(b) Proceed as to both the personal property and the real property in accordance with the rights with respect
+to the real property, in which case the other provisions of this part do not apply.
+(2) Subject to subsection (3), if a security agreement covers goods that are or become fixtures, a secured
+Rendered Wednesday, December 27, 2017 Page 195 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+party may do either of the following:
+(a) Proceed under this part.
+(b) Proceed in accordance with the rights with respect to real property, in which case the other provisions
+of this part do not apply.
+(3) Subject to the other provisions of this part, if a secured party holding a security interest in fixtures has
+priority over all owners and encumbrancers of the real property, the secured party, after default, may remove
+the collateral from the real property.
+(4) A secured party that removes collateral shall promptly reimburse any encumbrancer or owner of the
+real property, other than the debtor, for the cost of repair of any physical injury caused by the removal. The
+secured party need not reimburse the encumbrancer or owner for any diminution in value of the real property
+caused by the absence of the goods removed or by any necessity of replacing them. A person entitled to
+reimbursement may refuse permission to remove until the secured party gives adequate assurance for the
+performance of the obligation to reimburse.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9605 Unknown debtor or secondary obligor.
+Sec. 9605. A secured party does not owe a duty based on its status as secured party to either of the
+following:
+(a) To a person that is a debtor or obligor, unless the secured party knows all of the following:
+(i) That the person is a debtor or obligor.
+(ii) The identity of the person.
+(iii) How to communicate with the person.
+(b) To a secured party or lienholder that has filed a financing statement against a person, unless the secured
+party knows both of the following:
+(i) That the person is a debtor.
+(ii) The identity of the person.
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+
+440.9606 Time of default for agricultural lien.
+Sec. 9606. For purposes of this part, a default occurs in connection with an agricultural lien at the time the
+secured party becomes entitled to enforce the lien in accordance with the statute under which it was created.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9607 Collection and enforcement by secured party.
+Sec. 9607. (1) If so agreed, and in any event after default, a secured party may do 1 or more of the
+following:
+(a) Notify an account debtor or other person obligated on collateral to make payment or otherwise render
+performance to or for the benefit of the secured party.
+(b) Take any proceeds to which the secured party is entitled under section 9315.
+(c) Enforce the obligations of an account debtor or other person obligated on collateral and exercise the
+rights of the debtor with respect to the obligation of the account debtor or other person obligated on collateral
+to make payment or otherwise render performance to the debtor, and with respect to any property that secures
+the obligations of the account debtor or other person obligated on the collateral.
+(d) If it holds a security interest in a deposit account perfected by control under section 9104(1)(a), apply
+the balance of the deposit account to the obligation secured by the deposit account.
+(e) If it holds a security interest in a deposit account perfected by control under section 9104(1)(b) or (c),
+instruct the bank to pay the balance of the deposit account to or for the benefit of the secured party.
+(2) If necessary to enable a secured party to exercise under subsection (1)(c) the right of a debtor to enforce
+a mortgage nonjudicially, the secured party may record both of the following in the office in which a record
+of the mortgage is recorded:
+(a) A copy of the security agreement that creates or provides for a security interest in the obligation
+secured by the mortgage.
+(b) The secured party's sworn affidavit in recordable form stating both of the following:
+(i) That a default has occurred with respect to the obligation secured by the mortgage.
+(ii) That the secured party is entitled to enforce the mortgage nonjudicially.
+(3) A secured party shall proceed in a commercially reasonable manner if the secured party meets both of
+the following:
+(a) Undertakes to collect from or enforce an obligation of an account debtor or other person obligated on
+Rendered Wednesday, December 27, 2017 Page 196 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+collateral.
+(b) Is entitled to charge back uncollected collateral or otherwise to full or limited recourse against the
+debtor or a secondary obligor.
+(4) A secured party may deduct from the collections made pursuant to subsection (3) reasonable expenses
+of collection and enforcement, including reasonable attorney fees and legal expenses incurred by the secured
+party.
+(5) This section does not determine whether an account debtor, bank, or other person obligated on
+collateral owes a duty to a secured party.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 88, Eff. July 1, 2013.
+440.9608 Application of proceeds of collection or enforcement; liability for deficiency and
+right to surplus.
+Sec. 9608. (1) If a security interest or agricultural lien secures payment or performance of an obligation,
+the following rules apply:
+(a) A secured party shall apply or pay over for application the cash proceeds of collection or enforcement
+under section 9607 in the following order to:
+(i) The reasonable expenses of collection and enforcement and, to the extent provided for by agreement
+and not prohibited by law, reasonable attorney fees and legal expenses incurred by the secured party.
+(ii) The satisfaction of obligations secured by the security interest or agricultural lien under which the
+collection or enforcement is made.
+(iii) The satisfaction of obligations secured by any subordinate security interest in or other lien on the
+collateral subject to the security interest or agricultural lien under which the collection or enforcement is made
+if the secured party receives an authenticated demand for proceeds before distribution of the proceeds is
+completed.
+(b) If requested by a secured party, a holder of a subordinate security interest or other lien shall furnish
+reasonable proof of the interest or lien within a reasonable time. Unless the holder complies, the secured party
+need not comply with the holder's demand under subdivision (a)(iii).
+(c) A secured party need not apply or pay over for application noncash proceeds of collection and
+enforcement under section 9607 unless the failure to do so would be commercially unreasonable. A secured
+party that applies or pays over for application noncash proceeds shall do so in a commercially reasonable
+manner.
+(d) A secured party shall account to and pay a debtor for any surplus, and the obligor is liable for any
+deficiency.
+(2) If the underlying transaction is a sale of accounts, chattel paper, payment intangibles, or promissory
+notes, the debtor is not entitled to any surplus, and the obligor is not liable for any deficiency.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9609 Secured party's right to take possession after default.
+Sec. 9609. (1) After default, a secured party may do 1 or more of the following:
+(a) Take possession of the collateral.
+(b) Without removal, render equipment unusable and dispose of collateral on a debtor's premises under
+section 9610.
+(2) A secured party may proceed under subsection (1) either pursuant to judicial process, or without
+judicial process if it proceeds without breach of the peace.
+(3) If so agreed, and in any event after default, a secured party may require the debtor to assemble the
+collateral and make it available to the secured party at a place to be designated by the secured party that is
+reasonably convenient to both parties.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9610 Disposition of collateral after default.
+Sec. 9610. (1) After default, a secured party may sell, lease, license, or otherwise dispose of any or all of
+the collateral in its present condition or following any commercially reasonable preparation or processing.
+(2) Every aspect of a disposition of collateral, including the method, manner, time, place, and other terms,
+must be commercially reasonable. If commercially reasonable, a secured party may dispose of collateral by
+public or private proceedings, by 1 or more contracts, as a unit or in parcels, and at any time and place and on
+any terms.
+(3) A secured party may purchase collateral either at a public disposition, or at a private disposition only if
+the collateral is of a kind that is customarily sold on a recognized market or the subject of widely distributed
+Rendered Wednesday, December 27, 2017 Page 197 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+standard price quotations.
+(4) A contract for sale, lease, license, or other disposition includes the warranties relating to title,
+possession, quiet enjoyment, and the like which by operation of law accompany a voluntary disposition of
+property of the kind subject to the contract.
+(5) A secured party may disclaim or modify warranties under subsection (4) either in a manner that would
+be effective to disclaim or modify the warranties in a voluntary disposition of property of the kind subject to
+the contract of disposition, or by communicating to the purchaser a record evidencing the contract for
+disposition and including an express disclaimer or modification of the warranties.
+(6) A record is sufficient to disclaim warranties under subsection (5) if it indicates “There is no warranty
+relating to title, possession, quiet enjoyment, or the like in this disposition” or uses words of similar import.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9611 Notification before disposition of collateral.
+Sec. 9611. (1) As used in this section, “notification date” means the earlier of the date on which 1 of the
+following occurs:
+(a) A secured party sends to the debtor and any secondary obligor an authenticated notification of
+disposition.
+(b) The debtor and any secondary obligor waive the right to notification.
+(2) Except as otherwise provided in subsection (4), a secured party that disposes of collateral under section
+9610 shall send to the persons specified in subsection (3) a reasonable authenticated notification of
+disposition.
+(3) To comply with subsection (2), the secured party shall send an authenticated notification of disposition
+to all of the following:
+(a) The debtor.
+(b) Any secondary obligor.
+(c) If the collateral is other than consumer goods, all of the following, as applicable:
+(i) Any other person from which the secured party has received, before the notification date, an
+authenticated notification of a claim of an interest in the collateral.
+(ii) Any other secured party or lienholder that, 10 days before the notification date, held a security interest
+in or other lien on the collateral perfected by the filing of a financing statement that identified the collateral,
+was indexed under the debtor's name as of that date, and was filed in the office in which to file a financing
+statement against the debtor covering the collateral as of that date.
+(iii) Any other secured party that, 10 days before the notification date, held a security interest in the
+collateral perfected by compliance with a statute, regulation, or treaty described in section 9311(1).
+(4) Subsection (2) does not apply if the collateral is perishable or threatens to decline speedily in value or
+is of a type customarily sold on a recognized market.
+(5) A secured party complies with the requirement for notification prescribed by subsection (3)(c)(ii) if the
+secured party does both of the following:
+(a) Not later than 20 days or earlier than 30 days before the notification date, the secured party requests, in
+a commercially reasonable manner, information concerning financing statements indexed under the debtor's
+name in the office indicated in subsection (3)(c)(ii).
+(b) Before the notification date, 1 of the following applies:
+(i) The secured party did not receive a response to the request for information.
+(ii) The secured party received a response to the request for information and sent an authenticated
+notification of disposition to each secured party or other lienholder named in that response whose financing
+statement covered the collateral.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9612 Timeliness of notification before disposition of collateral.
+Sec. 9612. (1) Except as otherwise provided in subsection (2), whether a notification is sent within a
+reasonable time is a question of fact.
+(2) In a transaction other than a consumer transaction, a notification of disposition sent after default and 10
+days or more before the earliest time of disposition set forth in the notification is sent within a reasonable time
+before the disposition.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9613 Contents and form of notification before disposition of collateral; generally.
+Sec. 9613. Except in a consumer-goods transaction, the following rules apply:
+Rendered Wednesday, December 27, 2017 Page 198 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(a) The contents of a notification of disposition are sufficient if the notification does all of the following:
+(i) Describes the debtor and the secured party.
+(ii) Describes the collateral that is the subject of the intended disposition.
+(iii) States the method of intended disposition.
+(iv) States that the debtor is entitled to an accounting of the unpaid indebtedness and states the charge, if
+any, for an accounting.
+(v) States the time and place of a public disposition or the time after which any other disposition is to be
+made.
+(b) Whether the contents of a notification that lacks any of the information specified in subdivision (a) are
+nevertheless sufficient is a question of fact.
+(c) The contents of a notification providing substantially the information specified in subdivision (a) are
+sufficient, even if the notification includes information not specified by that paragraph or minor errors that are
+not seriously misleading.
+(d) A particular phrasing of the notification is not required.
+(e) The following form of notification and the form appearing in section 9614(c), when completed, each
+provides sufficient information:
+ NOTIFICATION OF DISPOSITION OF COLLATERAL
+
+To: 	 [Name of debtor, obligor, or other
+
+ person to which the notification is
+
+sent]
+
+From: [Name, address, and telephone number
+
+ of secured party]
+
+Name of Debtor(s): [Include only if debtor(s) are not
+
+ an addressee]
+
+[For a public disposition:]
+
+We will sell [or lease or license, as applicable] the [describe collateral] [to the highest qualified bidder] in
+public as follows:
+Day and Date: _______________
+
+Time: _______________
+
+Place: _______________
+
+[For a private disposition:]
+
+We will sell [or lease or license, as applicable] the [describe collateral] privately sometime after [day and
+date].
+You are entitled to an accounting of the unpaid indebtedness secured by the property that we intend to sell
+[or lease or license, as applicable] [for a charge of $_____________]. You may request an accounting by
+calling us at [telephone number].
+ [End of Form]
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9614 Contents and form of notification before disposition of collateral; consumer-goods
+transaction.
+Sec. 9614. In a consumer-goods transaction, the following rules apply:
+(a) A notification of disposition must provide all of the following information:
+(i) The information specified in section 9613(a).
+(ii) A description of any liability for a deficiency of the person to which the notification is sent.
+(iii) A telephone number from which the amount that must be paid to the secured party to redeem the
+collateral under section 9623 is available.
+(iv) A telephone number or mailing address from which additional information concerning the disposition
+and the obligation secured is available.
+(b) A particular phrasing of the notification is not required.
+(c) The following form of notification, when completed, provides sufficient information:
+[Name and address of secured party]
+
+[Date]
+
+ NOTICE OF OUR PLAN TO SELL PROPERTY
+
+[Name and address of any obligor who is also a debtor]
+
+Subject: [Identification of Transaction]
+
+ We have your [describe collateral], because you broke 
+
+promises in our agreement.
+
+[For a public disposition:]
+
+Rendered Wednesday, December 27, 2017 Page 199 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan	 Courtesy of www.legislature.mi.gov
+ We will sell [describe collateral] at public sale. A sale
+
+could include a lease or license. The sale will be held as
+
+follows:
+
+ Date: __________________
+
+ Time: __________________
+
+ Place: __________________
+
+ You may attend the sale and bring bidders if you want.
+
+ [For a private disposition:]
+
+ We will sell [describe collateral] at private sale sometime
+
+after [date]. A sale could include a lease or license.
+
+ The money that we get from the sale (after paying our 
+
+costs) will reduce the amount you owe. If we get less money
+
+than you owe, you [will or will not, as applicable] still owe
+
+us the difference. If we get more money than you owe, you will
+
+get the extra money, unless we must pay it to someone else.
+
+ You can get the property back at any time before we sell
+
+it by paying us the full amount you owe (not just the past due
+
+payments), including our expenses. To learn the exact amount
+
+you must pay, call us at [telephone number].
+
+ If you want us to explain to you in writing how we have
+
+figured the amount that you owe us, you may call us at
+
+[telephone number] [or write us at [secured party's address]]
+
+and request a written explanation. [We will charge you
+
+$___________for the explanation if we sent you another written
+
+explanation of the amount you owe us within the last 6 months.]
+
+ If you need more information about the sale, call us at
+
+[telephone number] [or write us at [secured party's address]].
+
+ We are sending this notice to the following other people
+
+who have an interest in [describe collateral] or who owe money
+
+under your agreement: [Names of all other debtors and obligors,
+
+if any].
+
+ [End of Form]
+
+(d) A notification in the form of subdivision (c) is sufficient, even if additional information appears at the
+end of the form.
+(e) A notification in the form of subdivision (c) is sufficient, even if it includes errors in information not
+required by subdivision (a), unless the error is misleading with respect to rights arising under this article.
+(f) If a notification under this section is not in the form of subdivision (c), law other than this article
+determines the effect of including information not required by subdivision (a).
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9615 Application of proceeds of disposition; liability for deficiency and right to surplus.
+Sec. 9615. (1) A secured party shall apply or pay over for application the cash proceeds of disposition
+under section 9610 in the following order:
+(a) To the reasonable expenses of retaking, holding, preparing for disposition, processing, and disposing,
+and, to the extent provided for by agreement and not prohibited by law, reasonable attorney fees and legal
+expenses incurred by the secured party.
+(b) To the satisfaction of obligations secured by the security interest or agricultural lien under which the
+disposition is made.
+(c) To the satisfaction of obligations secured by any subordinate security interest in or other subordinate
+lien on the collateral if both of the following, if applicable, are met:
+(i) The secured party receives from the holder of the subordinate security interest or other lien an
+authenticated demand for proceeds before distribution of the proceeds is completed.
+(ii) In a case in which a consignor has an interest in the collateral, the subordinate security interest or other
+lien is senior to the interest of the consignor.
+(d) To a secured party that is a consignor of the collateral if the secured party receives from the consignor
+an authenticated demand for proceeds before distribution of the proceeds is completed.
+(2) If requested by a secured party, a holder of a subordinate security interest or other lien shall furnish
+reasonable proof of the interest or lien within a reasonable time. Unless the holder does so, the secured party
+need not comply with the holder's demand under subsection (1)(c).
+(3) A secured party need not apply or pay over for application noncash proceeds of disposition under
+Rendered Wednesday, December 27, 2017 Page 200 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+section 9610 unless the failure to do so would be commercially unreasonable. A secured party that applies or
+pays over for application noncash proceeds shall do so in a commercially reasonable manner.
+(4) If the security interest under which a disposition is made secures payment or performance of an
+obligation, after making the payments and applications required by subsection (1) and permitted by subsection
+(3), both of the following apply:
+(a) Unless subsection (1)(d) requires the secured party to apply or pay over cash proceeds to a consignor,
+the secured party shall account to and pay a debtor for any surplus.
+(b) The obligor is liable for any deficiency.
+(5) If the underlying transaction is a sale of accounts, chattel paper, payment intangibles, or promissory
+notes, the debtor is not entitled to any surplus, and the obligor is not liable for any deficiency.
+(6) The surplus or deficiency following a disposition is calculated based on the amount of proceeds that
+would have been realized in a disposition complying with this part to a transferee other than the secured party,
+a person related to the secured party, or a secondary obligor if both of the following apply:
+(a) The transferee in the disposition is the secured party, a person related to the secured party, or a
+secondary obligor.
+(b) The amount of proceeds of the disposition is significantly below the range of proceeds that a complying
+disposition to a person other than the secured party, a person related to the secured party, or a secondary
+obligor would have brought.
+(7) All of the following apply to a secured party that receives cash proceeds of a disposition in good faith
+and without knowledge that the receipt violates the rights of the holder of a security interest or other lien that
+is not subordinate to the security interest or agricultural lien under which the disposition is made:
+(a) The secured party takes the cash proceeds free of the security interest or other lien.
+(b) The secured party is not obligated to apply the proceeds of the disposition to the satisfaction of
+obligations secured by the security interest or other lien.
+(c) The secured party is not obligated to account to or pay the holder of the security interest or other lien
+for any surplus.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9616 Explanation of calculation of surplus or deficiency.
+Sec. 9616. (1) As used in this section:
+(a) “Explanation” means a writing that does all of the following:
+(i) States the amount of the surplus or deficiency.
+(ii) Provides an explanation in accordance with subsection (3) of how the secured party calculated the
+surplus or deficiency.
+(iii) States, if applicable, that future debits, credits, charges, including additional credit service charges or
+interest, rebates, and expenses may affect the amount of the surplus or deficiency.
+(iv) Provides a telephone number or mailing address from which additional information concerning the
+transaction is available.
+(b) “Request” means a record that meets all of the following:
+(i) Authenticated by a debtor or consumer obligor.
+(ii) Requesting that the recipient provide an explanation.
+(iii) Sent after disposition of the collateral under section 9610.
+(2) In a consumer-goods transaction in which the debtor is entitled to a surplus or a consumer obligor is
+liable for a deficiency under section 9615, the secured party shall do 1 or both of the following:
+(a) Send an explanation to the debtor or consumer obligor, as applicable, after the disposition and in
+accordance with both of the following:
+(i) Sent before or when the secured party accounts to the debtor and pays any surplus or first makes written
+demand on the consumer obligor after the disposition for payment of the deficiency.
+(ii) Sent within 14 days after receipt of a request.
+(b) In the case of a consumer obligor who is liable for a deficiency, within 14 days after receipt of a
+request, send to the consumer obligor a record waiving the secured party's right to a deficiency.
+(3) To comply with subsection (1)(a)(ii), a writing must provide the following information in the following
+order:
+(a) The aggregate amount of obligations secured by the security interest under which the disposition was
+made, and, if the amount reflects a rebate of unearned interest or credit service charge, an indication of that
+fact, calculated as of a specified date, that is 1 of the following:
+(i) If the secured party takes or receives possession of the collateral after default, not more than 35 days
+before the secured party takes or receives possession.
+Rendered Wednesday, December 27, 2017 Page 201 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(ii) If the secured party takes or receives possession of the collateral before default or does not take
+possession of the collateral, not more than 35 days before the disposition.
+(b) The amount of proceeds of the disposition.
+(c) The aggregate amount of the obligations after deducting the amount of proceeds.
+(d) The amount, in the aggregate or by type, and types of expenses, including expenses of retaking,
+holding, preparing for disposition, processing, and disposing of the collateral, and attorney fees secured by the
+collateral that are known to the secured party and relate to the current disposition.
+(e) The amount, in the aggregate or by type, and types of credits, including rebates of interest or credit
+service charges, to which the obligor is known to be entitled and that are not reflected in the amount in
+subdivision (a).
+(f) The amount of the surplus or deficiency.
+(4) A particular phrasing of the explanation is not required. An explanation complying substantially with
+the requirements of subsection (1) is sufficient, even if it includes minor errors that are not seriously
+misleading.
+(5) A debtor or consumer obligor is entitled without charge to 1 response to a request under this section
+during any 6-month period in which the secured party did not send to the debtor or consumer obligor an
+explanation pursuant to subsection (2)(a). The secured party may require payment of a charge not exceeding
+$25.00 for each additional response.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2001, Act 145, Eff. Jan. 1, 2002.
+440.9617 Rights of transferee of collateral.
+Sec. 9617. (1) A secured party's disposition of collateral after default does all of the following:
+(a) Transfers to a transferee for value all of the debtor's rights in the collateral.
+(b) Discharges the security interest under which the disposition is made.
+(c) Discharges any subordinate security interest or other subordinate lien.
+(2) A transferee that acts in good faith takes free of the rights and interests described in subsection (1),
+even if the secured party fails to comply with this article or the requirements of any judicial proceeding.
+(3) If a transferee does not take free of the rights and interests described in subsection (1), the transferee
+takes the collateral subject to all of the following:
+(a) The debtor's rights in the collateral.
+(b) The security interest or agricultural lien under which the disposition is made.
+(c) Any other security interest or other lien.
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+
+440.9618 Rights and duties of certain secondary obligors.
+Sec. 9618. (1) A secondary obligor acquires the rights and becomes obligated to perform the duties of the
+secured party after all of the following:
+(a) The secondary obligor receives an assignment of a secured obligation from the secured party.
+(b) The secondary obligor receives a transfer of collateral from the secured party and agrees to accept the
+rights and assume the duties of the secured party.
+(c) The secondary obligor is subrogated to the rights of a secured party with respect to collateral.
+(2) An assignment, transfer, or subrogation described in subsection (1) results in both of the following:
+(a) It is not a disposition of collateral under section 9610.
+(b) It relieves the secured party of further duties under this article.
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+
+440.9619 Transfer of record or legal title.
+Sec. 9619. (1) As used in this section, “transfer statement” means a record authenticated by a secured party
+stating all of the following:
+(a) That the debtor has defaulted in connection with an obligation secured by specified collateral.
+(b) That the secured party has exercised its postdefault remedies with respect to the collateral.
+(c) That, by reason of the exercise, a transferee has acquired the rights of the debtor in the collateral.
+(d) The name and mailing address of the secured party, debtor, and transferee.
+(2) A transfer statement entitles the transferee to the transfer of record of all rights of the debtor in the
+collateral specified in the statement in any official filing, recording, registration, or certificate-of-title system
+covering the collateral. If a transfer statement is presented with the applicable fee and request form to the
+official or office responsible for maintaining the system, the official or office shall do all of the following:
+(a) Accept the transfer statement.
+Rendered Wednesday, December 27, 2017 Page 202 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(b) Promptly amend its records to reflect the transfer.
+(c) If applicable, issue a new appropriate certificate of title in the name of the transferee.
+(3) A transfer of the record or legal title to collateral to a secured party under subsection (2) or otherwise is
+not of itself a disposition of collateral under this article and does not of itself relieve the secured party of its
+duties under this article.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9620 Acceptance of collateral in full or partial satisfaction of obligation; compulsory
+disposition of collateral.
+Sec. 9620. (1) Except as otherwise provided in subsection (7), a secured party may accept collateral in full
+or partial satisfaction of the obligation it secures only if all of the following are met:
+(a) The debtor consents to the acceptance under subsection (3).
+(b) The secured party does not receive, within the time set forth in subsection (4), a notification of
+objection to the proposal authenticated by 1 of the following:
+(i) A person to which the secured party was required to send a proposal under section 9621.
+(ii) Any other person, other than the debtor, holding an interest in the collateral subordinate to the security
+interest that is the subject of the proposal.
+(c) If the collateral is consumer goods, the collateral is not in the possession of the debtor when the debtor
+consents to the acceptance.
+(d) Subsection (5) does not require the secured party to dispose of the collateral or the debtor waives the
+requirement pursuant to section 9624.
+(2) A purported or apparent acceptance of collateral under this section is ineffective unless both of the
+following occur:
+(a) The secured party consents to the acceptance in an authenticated record or sends a proposal to the
+debtor.
+(b) The conditions of subsection (1) are met.
+(3) All of the following apply for purposes of this section:
+(a) A debtor consents to an acceptance of collateral in partial satisfaction of the obligation it secures only if
+the debtor agrees to the terms of the acceptance in a record authenticated after default.
+(b) A debtor consents to an acceptance of collateral in full satisfaction of the obligation it secures only if
+the debtor agrees to the terms of the acceptance in a record authenticated after default or the secured party
+meets all of the following requirements:
+(i) Sends to the debtor after default a proposal that is unconditional or subject only to a condition that
+collateral not in the possession of the secured party be preserved or maintained.
+(ii) In the proposal, proposes to accept collateral in full satisfaction of the obligation it secures.
+(iii) Does not receive a notification of objection authenticated by the debtor within 20 days after the
+proposal is sent.
+(4) To be effective under subsection (1)(b), a notification of objection must be received by the secured
+party within or before 1 of the following:
+(a) In the case of a person to which the proposal was sent pursuant to section 9621, within 20 days after
+notification was sent to that person.
+(b) In other cases, 1 of the following:
+(i) Within 20 days after the last notification was sent pursuant to section 9621.
+(ii) If a notification was not sent, before the debtor consents to the acceptance under subsection (3).
+(5) A secured party that has taken possession of collateral shall dispose of the collateral pursuant to section
+9610 within the time specified in subsection (6) if 1 of the following is met:
+(a) Sixty percent of the cash price has been paid in the case of a purchase-money security interest in
+consumer goods.
+(b) Sixty percent of the principal amount of the obligation secured has been paid in the case of a
+non-purchase-money security interest in consumer goods.
+(6) To comply with subsection (5), the secured party shall dispose of the collateral within 1 of the
+following:
+(a) Within 90 days after taking possession.
+(b) Within any longer period to which the debtor and all secondary obligors have agreed in an agreement to
+that effect entered into and authenticated after default.
+(7) In a consumer transaction, a secured party may not accept collateral in partial satisfaction of the
+obligation it secures.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+Rendered Wednesday, December 27, 2017 Page 203 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+440.9621 Notification of proposal to accept collateral.
+Sec. 9621. (1) A secured party that desires to accept collateral in full or partial satisfaction of the obligation
+it secures shall send its proposal to all of the following:
+(a) Any person from which the secured party has received, before the debtor consented to the acceptance,
+an authenticated notification of a claim of an interest in the collateral.
+(b) Any other secured party or lienholder that, 10 days before the debtor consented to the acceptance, held
+a security interest in or other lien on the collateral perfected by the filing of a financing statement that met all
+of the following:
+(i) Identified the collateral.
+(ii) Was indexed under the debtor's name as of that date.
+(iii) Was filed in the office or offices in which to file a financing statement against the debtor covering the
+collateral as of that date.
+(c) Any other secured party that, 10 days before the debtor consented to the acceptance, held a security
+interest in the collateral perfected by compliance with a statute, regulation, or treaty described in section
+9311(1).
+(2) A secured party that desires to accept collateral in partial satisfaction of the obligation it secures shall
+send its proposal to any secondary obligor in addition to the persons described in subsection (1).
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9622 Effect of acceptance of collateral.
+Sec. 9622. (1) A secured party's acceptance of collateral in full or partial satisfaction of the obligation it
+secures does all of the following:
+(a) Discharges the obligation to the extent consented to by the debtor.
+(b) Transfers to the secured party all of a debtor's rights in the collateral.
+(c) Discharges the security interest or agricultural lien that is the subject of the debtor's consent and any
+subordinate security interest or other subordinate lien.
+(d) Terminates any other subordinate interest.
+(2) A subordinate interest is discharged or terminated under subsection (1), even if the secured party fails
+to comply with this article.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9623 Right to redeem collateral.
+Sec. 9623. (1) A debtor, any secondary obligor, or any other secured party or lienholder may redeem
+collateral.
+(2) To redeem collateral, a person shall tender both of the following:
+(a) Fulfillment of all obligations secured by the collateral.
+(b) The reasonable expenses and attorney fees described in section 9615(1)(a).
+(3) A redemption may occur at any time before a secured party has done 1 of the following:
+(a) Has collected collateral under section 9607.
+(b) Has disposed of collateral or entered into a contract for its disposition under section 9610.
+(c) Has accepted collateral in full or partial satisfaction of the obligation it secures under section 9622.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9624 Waiver.
+Sec. 9624. (1) A debtor or secondary obligor may waive the right to notification of disposition of collateral
+under section 9611 only by an agreement to that effect entered into and authenticated after default.
+(2) A debtor may waive the right to require disposition of collateral under section 9620(5) only by an
+agreement to that effect entered into and authenticated after default.
+(3) Except in a consumer-goods transaction, a debtor or secondary obligor may waive the right to redeem
+collateral under section 9623 only by an agreement to that effect entered into and authenticated after default.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+SUBPART 2.
+
+NONCOMPLIANCE WITH ARTICLE
+
+440.9625 Remedies for secured party's failure to comply with article.
+Sec. 9625. (1) If it is established that a secured party is not proceeding in accordance with this article, a
+court may order or restrain collection, enforcement, or disposition of collateral on appropriate terms and
+Rendered Wednesday, December 27, 2017 Page 204 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+conditions.
+(2) Subject to subsections (3), (4), and (6), a person is liable for damages in the amount of any loss caused
+by a failure to comply with this article. Loss caused by a failure to comply may include loss resulting from the
+debtor's inability to obtain, or increased costs of, alternative financing.
+(3) Except as otherwise provided in section 9628, both of the following apply:
+(a) A person that, at the time of the failure, was a debtor, was an obligor, or held a security interest in or
+other lien on the collateral may recover damages under subsection (2) for its loss.
+(b) If the collateral is consumer goods, a person that was a debtor or a secondary obligor at the time a
+secured party failed to comply with this part may recover for that failure in any event an amount not less than
+the credit service charge paid plus 10% of the principal amount of the obligation or the time-price differential
+paid plus 10% of the cash price.
+(4) A debtor whose deficiency is eliminated under section 9626 may recover damages for the loss of any
+surplus. However, a debtor or secondary obligor whose deficiency is eliminated or reduced under section
+9626 may not otherwise recover under subsection (2) for noncompliance with the provisions of this part
+relating to collection, enforcement, disposition, or acceptance. Regardless of whether the debtor's or
+secondary obligor's deficiency is eliminated or reduced under section 9626 or other applicable law, any
+damages recovered by the debtor or secondary obligor under subsection (3) shall be reduced by the amount
+that the sum of the secured obligation, expenses, and attorney's fees exceeds the proceeds of collection,
+enforcement, disposition, or acceptance.
+(5) In addition to any damages recoverable under subsection (2), the debtor, consumer obligor, or person
+named as a debtor in a filed record, as applicable, may recover $500.00 in each case from a person that does 1
+or more of the following:
+(a) Fails to comply with section 9208.
+(b) Fails to comply with section 9209.
+(c) Files a record that the person is not entitled to file under section 9509(1).
+(d) Fails to cause the secured party of record to file or send a termination statement as required by section
+9513(1) or (3).
+(e) Fails to comply with section 9616(2)(a) and whose failure is part of a pattern, or consistent with a
+practice, of noncompliance.
+(f) Fails to comply with section 9616(2)(b).
+(6) A debtor or consumer obligor may recover damages under subsection (2) and, in addition, $500.00 in
+each case from a person that, without reasonable cause, fails to comply with a request under section 9210. A
+recipient of a request under section 9210 that never claimed an interest in the collateral or obligations that are
+the subject of a request under that section has a reasonable excuse for failure to comply with the request
+within the meaning of this subsection.
+(7) If a secured party fails to comply with a request regarding a list of collateral or a statement of account
+under section 9210, the secured party may claim a security interest only as shown in the list or statement
+included in the request as against a person that is reasonably misled by the failure.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2014, Act 104, Imd. Eff. Apr. 10, 2014.
+440.9626 Action in which deficiency or surplus is in issue.
+Sec. 9626. In an action arising from a transaction in which the amount of a deficiency or surplus is in issue,
+the following rules apply:
+(a) A secured party need not prove compliance with the provisions of this part relating to collection,
+enforcement, disposition, or acceptance unless the debtor or a secondary obligor places the secured party's
+compliance in issue.
+(b) If the secured party's compliance is placed in issue, the secured party has the burden of establishing that
+the collection, enforcement, disposition, or acceptance was conducted in accordance with this part.
+(c) Except as otherwise provided in section 9628, if a secured party fails to prove that the collection,
+enforcement, disposition, or acceptance was conducted in accordance with the provisions of this part relating
+to collection, enforcement, disposition, or acceptance, the liability of a debtor or a secondary obligor for a
+deficiency is limited to an amount by which the sum of the secured obligation, expenses, and attorney fees
+exceeds the greater of 1 of the following:
+(i) The proceeds of the collection, enforcement, disposition, or acceptance.
+(ii) The amount of proceeds that would have been realized had the noncomplying secured party proceeded
+in accordance with the provisions of this part relating to collection, enforcement, disposition, or acceptance.
+(d) For purposes of subdivision (c)(ii), the amount of proceeds that would have been realized is equal to
+the sum of the secured obligation, expenses, and attorney fees unless the secured party proves that the amount
+Rendered Wednesday, December 27, 2017 Page 205 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+is less than that sum.
+(e) If a deficiency or surplus is calculated under section 9615(6), the debtor or obligor has the burden of
+establishing that the amount of proceeds of the disposition is significantly below the range of prices that a
+complying disposition to a person other than the secured party, a person related to the secured party, or a
+secondary obligor would have brought.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2014, Act 104, Imd. Eff. Apr. 10, 2014.
+440.9627 Determination of whether conduct was commercially reasonable.
+Sec. 9627. (1) The fact that a greater amount could have been obtained by a collection, enforcement,
+disposition, or acceptance at a different time or in a different method from that selected by the secured party is
+not of itself sufficient to preclude the secured party from establishing that the collection, enforcement,
+disposition, or acceptance was made in a commercially reasonable manner.
+(2) A disposition of collateral is made in a commercially reasonable manner if the disposition is made in
+the usual manner on any recognized market, at the price current in any recognized market at the time of the
+disposition, or otherwise in conformity with reasonable commercial practices among dealers in the type of
+property that was the subject of the disposition.
+(3) A collection, enforcement, disposition, or acceptance is commercially reasonable if it has been
+approved in a judicial proceeding, by a bona fide creditors' committee, by a representative of creditors, or by
+an assignee for the benefit of creditors.
+(4) Approval under subsection (3) need not be obtained, and lack of approval does not mean that the
+collection, enforcement, disposition, or acceptance is not commercially reasonable.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9628 Nonliability and limitation on liability of secured party; liability of secondary
+obligor.
+Sec. 9628. (1) Unless a secured party knows that a person is a debtor or obligor, knows the identity of the
+person, and knows how to communicate with the person, both of the following apply:
+(a) The secured party is not liable to the person, or to a secured party or lienholder that has filed a
+financing statement against the person, for failure to comply with this article.
+(b) The secured party's failure to comply with this article does not affect the liability of the person for a
+deficiency.
+(2) A secured party is not liable because of its status as secured party to either of the following:
+(a) To a person that is a debtor or obligor, unless the secured party knows all of the following:
+(i) That the person is a debtor or obligor.
+(ii) The identity of the person.
+(iii) How to communicate with the person.
+(b) To a secured party or lienholder that has filed a financing statement against a person, unless the secured
+party knows both of the following:
+(i) That the person is a debtor.
+(ii) The identity of the person.
+(3) A secured party is not liable to any person, and a person's liability for a deficiency is not affected,
+because of any act or omission arising out of the secured party's reasonable belief that a transaction is not a
+consumer-goods transaction or a consumer transaction or that goods are not consumer goods, if the secured
+party's belief is based on its reasonable reliance on 1 or more of the following:
+(a) A debtor's representation concerning the purpose for which collateral was to be used, acquired, or held.
+(b) An obligor's representation concerning the purpose for which a secured obligation was incurred.
+(4) A secured party is not liable to any person under section 9625(3)(b) for its failure to comply with
+section 9616.
+(5) A secured party is not liable under section 9625(3)(b) more than once with respect to any 1 secured
+obligation.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+PART 7
+
+TRANSITION
+
+440.9701 “This amendatory act” defined.
+Sec. 9701. As used in this part, “this amendatory act” means the amendatory act that added this part.
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+
+Rendered Wednesday, December 27, 2017 Page 206 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+440.9702 Savings clause.
+Sec. 9702. (1) Except as otherwise provided in this part, this amendatory act applies to a transaction or lien
+within its scope, even if the transaction or lien was entered into or created before this amendatory act takes
+effect.
+(2) Except as otherwise provided in subsection (3) and sections 9703 through 9709, both of the following
+apply:
+(a) Transactions and liens that were not governed by this article before this amendatory act takes effect,
+were validly entered into or created before this amendatory act takes effect, and would be subject to this
+amendatory act if they had been entered into or created after this amendatory act takes effect, and the rights,
+duties, and interests flowing from those transactions and liens remain valid after this amendatory act takes
+effect.
+(b) The transactions and liens may be terminated, completed, consummated, and enforced as required or
+permitted by this amendatory act or by the law that otherwise would apply if this amendatory act had not
+taken effect.
+(3) This amendatory act does not affect an action, case, or proceeding commenced before this amendatory
+act takes effect.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9703 Security interest perfected before effective date.
+Sec. 9703. (1) A security interest that is enforceable immediately before this amendatory act takes effect
+and would have priority over the rights of a person that becomes a lien creditor at that time is a perfected
+security interest under this amendatory act if, when this amendatory act takes effect, the applicable
+requirements for enforceability and perfection under this amendatory act are satisfied without further action.
+(2) Except as otherwise provided in section 9705, if, immediately before this amendatory act takes effect, a
+security interest is enforceable and would have priority over the rights of a person that becomes a lien creditor
+at that time, but the applicable requirements for enforceability or perfection under this amendatory act are not
+satisfied when this amendatory act takes effect, all of the following apply to the security interest:
+(a) The security interest is a perfected security interest for 1 year after this amendatory act takes effect.
+(b) The security interest remains enforceable thereafter only if the security interest becomes enforceable
+under section 9203 before the year expires.
+(c) The security interest remains perfected thereafter only if the applicable requirements for perfection
+under this amendatory act are satisfied before the year expires.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9704 Security interest unperfected before effective date.
+Sec. 9704. All of the following apply to a security interest that is enforceable immediately before this
+amendatory act takes effect but which would be subordinate to the rights of a person that becomes a lien
+creditor at that time:
+(a) The security interest remains an enforceable security interest for 1 year after this amendatory act takes
+effect.
+(b) The security interest remains enforceable thereafter if the security interest becomes enforceable under
+section 9203 when this amendatory act takes effect or within 1 year thereafter.
+(c) The security interest becomes perfected under 1 of the following:
+(i) Without further action, when this amendatory act takes effect if the applicable requirements for
+perfection under this amendatory act are satisfied before or at that time.
+(ii) When the applicable requirements for perfection are satisfied if the requirements are satisfied after that
+time.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9705 Effectiveness of action taken before effective date.
+Sec. 9705. (1) If action, other than the filing of a financing statement, is taken before this amendatory act
+takes effect and the action would have resulted in priority of a security interest over the rights of a person that
+becomes a lien creditor had the security interest become enforceable before this amendatory act takes effect,
+the action is effective to perfect a security interest that attaches under this amendatory act within 1 year after
+this amendatory act takes effect. An attached security interest becomes unperfected 1 year after this
+amendatory act takes effect unless the security interest becomes a perfected security interest under this
+amendatory act before the expiration of that period.
+(2) The filing of a financing statement before this amendatory act takes effect is effective to perfect a
+Rendered Wednesday, December 27, 2017 Page 207 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+security interest to the extent the filing would satisfy the applicable requirements for perfection under this
+amendatory act.
+(3) This amendatory act does not render ineffective an effective financing statement that, before this
+amendatory act takes effect, is filed and satisfies the applicable requirements for perfection under the law of
+the jurisdiction governing perfection as provided in section 9103 before this amendatory act takes effect.
+However, except as otherwise provided in subsections (4) and (5) and section 9706, the financing statement
+ceases to be effective at the earlier of the following:
+(a) The time the financing statement would have ceased to be effective under the law of the jurisdiction in
+which it is filed.
+(b) June 30, 2006.
+(4) The filing of a continuation statement after this amendatory act takes effect does not continue the
+effectiveness of the financing statement filed before this amendatory act takes effect. However, upon the
+timely filing of a continuation statement after this amendatory act takes effect and in accordance with the law
+of the jurisdiction governing perfection as provided in part 3, the effectiveness of a financing statement filed
+in the same office in that jurisdiction before this amendatory act takes effect continues for the period provided
+by the law of that jurisdiction.
+(5) Subsection (3)(b) applies to a financing statement that, before this amendatory act takes effect, is filed
+against a transmitting utility and satisfies the applicable requirements for perfection under the law of the
+jurisdiction governing perfection as provided in section 9103 before this amendatory act takes effect only to
+the extent that part 3 provides that the law of a jurisdiction other than the jurisdiction in which the financing
+statement is filed governs perfection of a security interest in collateral covered by the financing statement.
+(6) A financing statement that includes a financing statement filed before this amendatory act takes effect
+and a continuation statement filed after this amendatory act takes effect is effective only to the extent that it
+satisfies the requirements of part 5 for an initial financing statement.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9706 When initial financing statement suffices to continue effectiveness of financing
+statement.
+Sec. 9706. (1) The filing of an initial financing statement in the office specified in section 9501 continues
+the effectiveness of a financing statement filed before this amendatory act takes effect if all of the following
+apply:
+(a) The filing of an initial financing statement in that office would be effective to perfect a security interest
+under this amendatory act.
+(b) The pre-effective-date financing statement was filed in an office in another state or another office in
+this state.
+(c) The initial financing statement satisfies subsection (3).
+(2) The filing of an initial financing statement under subsection (1) continues the effectiveness of the
+pre-effective-date financing statement if both of the following apply:
+(a) If the initial financing statement is filed before this amendatory act takes effect, for the period provided
+in section 9403 before this amendatory act takes effect with respect to a financing statement.
+(b) If the initial financing statement is filed after this amendatory act takes effect, for the period provided
+in section 9515 with respect to an initial financing statement.
+(3) To be effective for purposes of subsection (1), an initial financing statement must do all of the
+following:
+(a) Satisfy the requirements of part 5 for an initial financing statement.
+(b) Identify the pre-effective-date financing statement by indicating the office in which the financing
+statement was filed and providing the dates of filing and file numbers, if any, of the financing statement and
+of the most recent continuation statement filed with respect to the financing statement.
+(c) Indicate that the pre-effective-date financing statement remains effective.
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+
+440.9707 Pre-effective-date financing statement.
+Sec. 9707. (1) As used in this section, “pre-effective-date financing statement” means a financing
+statement filed before this amendatory act takes effect.
+(2) After this amendatory act takes effect, a person may add or delete collateral covered by, continue or
+terminate the effectiveness of, or otherwise amend the information provided in, a pre-effective-date financing
+statement only in accordance with the law of the jurisdiction governing perfection as provided in part 3.
+However, the effectiveness of a pre-effective-date financing statement also may be terminated in accordance
+Rendered Wednesday, December 27, 2017 Page 208 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+with the law of the jurisdiction in which the financing statement is filed.
+(3) Except as otherwise provided in subsection (4), if the law of this state governs perfection of a security
+interest, the information in a pre-effective-date financing statement may be amended after this amendatory act
+takes effect only if 1 of the following is met:
+(a) The pre-effective-date financing statement and an amendment are filed in the office specified in section
+9501.
+(b) An amendment is filed in the office specified in section 9501 concurrently with, or after the filing in
+that office of, an initial financing statement that satisfies section 9706(3).
+(c) An initial financing statement that provides the information as amended and satisfies section 9706(3) is
+filed in the office specified in section 9501.
+(4) If the law of this state governs perfection of a security interest, the effectiveness of a pre-effective-date
+financing statement may be continued only under section 9705(4) and (6) or 9706.
+(5) Whether or not the law of this state governs perfection of a security interest, the effectiveness of a
+pre-effective-date financing statement filed in this state may be terminated after this amendatory act takes
+effect by filing a termination statement in the office in which the pre-effective-date financing statement is
+filed, unless an initial financing statement that satisfies section 9706(3) has been filed in the office specified
+by the law of the jurisdiction governing perfection as provided in part 3 as the office in which to file a
+financing statement.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9708 Persons entitled to file initial financing statement or continuation statement.
+Sec. 9708. A person may file an initial financing statement or a continuation statement under this part if
+both of the following apply:
+(a) The secured party of record authorizes the filing.
+(b) The filing is necessary under this part to do 1 of the following:
+(i) To continue the effectiveness of a financing statement filed before this amendatory act takes effect.
+(ii) To perfect or continue the perfection of a security interest.
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+
+440.9709 Priority.
+Sec. 9709. (1) This amendatory act determines the priority of conflicting claims to collateral. However, if
+the relative priorities of the claims were established before this amendatory act takes effect, this article as in
+effect before this amendatory act takes effect determines priority.
+(2) For purposes of section 9322(1), the priority of a security interest that becomes enforceable under
+section 9203 of this amendatory act dates from the time this amendatory act takes effect if the security interest
+is perfected under this amendatory act by the filing of a financing statement before this amendatory act takes
+effect which would not have been effective to perfect the security interest under this article as in effect before
+this amendatory act takes effect. This subsection does not apply to conflicting security interests each of which
+is perfected by the filing of a financing statement described in this subsection.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+PART 8
+
+TRANSITION PROVISIONS FOR 2010 AMENDMENTS
+
+440.9801 Definitions.
+Sec. 9801. As used in this part:
+(a) "Pre-effective-date financing statement" means a financing statement filed before the effective date of
+this amendatory act.
+(b) "This amendatory act" means the amendatory act that added this part.
+(c) "This amended article" means this article as amended by this amendatory act.
+
+History: Add. 2012, Act 88, Eff. July 1, 2013.
+
+440.9802 Applicability; scope.
+Sec. 9802. (1) Except as otherwise provided in this part, this amendatory act applies to a transaction or lien
+within its scope, even if the transaction or lien was entered into or created before the effective date of this
+amendatory act.
+(2) This amendatory act does not affect an action, case, or proceeding commenced before the effective date
+of this amendatory act.
+History: Add. 2012, Act 88, Eff. July 1, 2013.
+Rendered Wednesday, December 27, 2017 Page 209 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+440.9803 Perfected security interest before effective date of amendatory act.
+Sec. 9803. (1) A security interest that is a perfected security interest immediately before the effective date
+of this amendatory act is a perfected security interest under this amended article if, on the effective date of
+this amendatory act, the applicable requirements for attachment and perfection under this amended article are
+satisfied without further action.
+(2) Except as otherwise provided in section 9805, if, immediately before the effective date of this
+amendatory act, a security interest is a perfected security interest, but the applicable requirements for
+perfection under this amended article are not satisfied on the effective date of this amendatory act, the security
+interest remains perfected thereafter only if the applicable requirements for perfection under this amended
+article are satisfied within 1 year after the effective date of this amendatory act.
+History: Add. 2012, Act 88, Eff. July 1, 2013.
+440.9804 Unperfected security interest before effective date of amendatory act.
+Sec. 9804. A security interest that is an unperfected security interest immediately before the effective date
+of this amendatory act becomes a perfected security interest when either of the following occurs:
+(a) Without further action, on the effective date of this amendatory act if the applicable requirements for
+perfection under this amended article are satisfied before or at that time.
+(b) When the applicable requirements for perfection are satisfied if the requirements are satisfied after the
+effective date of this amendatory act.
+History: Add. 2012, Act 88, Eff. July 1, 2013.
+440.9805 Filing of financing statement or continuation statement before effective date of
+amendatory act.
+Sec. 9805. (1) The filing of a financing statement before the effective date of this amendatory act is
+effective to perfect a security interest to the extent that the filing would satisfy the applicable requirements for
+perfection under this amended article.
+(2) This amendatory act does not render ineffective an effective financing statement that is filed before the
+effective date of this amendatory act and satisfies the applicable requirements for perfection under the law of
+the jurisdiction governing perfection as provided in this article as it existed before the effective date of this
+amendatory act. However, except as otherwise provided in subsections (3) and (4) and section 9806, the
+financing statement ceases to be effective at 1 of the following times, as applicable:
+(a) If the financing statement is filed in this state, at the time the financing statement would have ceased to
+be effective had this amendatory act not taken effect.
+(b) If the financing statement is filed in another jurisdiction, at the earlier of the following:
+(i) The time the financing statement would have ceased to be effective under the law of that jurisdiction.
+(ii) June 30, 2018.
+(3) The filing of a continuation statement after the effective date of this amendatory act does not continue
+the effectiveness of a financing statement filed before the effective date of this amendatory act. However,
+upon the timely filing of a continuation statement after the effective date of this amendatory act and in
+accordance with the law of the jurisdiction governing perfection as provided in this amended article, the
+effectiveness of a financing statement filed in the same office in that jurisdiction before the effective date of
+this amendatory act continues for the period provided by the law of that jurisdiction.
+(4) Subsection (2)(b)(ii) applies to a financing statement that is filed before the effective date of this
+amendatory act against a transmitting utility and satisfies the applicable requirements for perfection under the
+law of the jurisdiction governing perfection as provided in this article before the effective date of this
+amendatory act, only to the extent that this amended article provides that the law of a jurisdiction other than
+the jurisdiction in which the financing statement is filed governs perfection of a security interest in collateral
+covered by the financing statement.
+(5) A financing statement that includes a financing statement filed before the effective date of this
+amendatory act and a continuation statement filed after the effective date of this amendatory act is effective
+only to the extent that it satisfies the requirements of part 5 as amended by this amendatory act for an initial
+financing statement. A financing statement that indicates that the debtor is a decedent's estate indicates that
+the collateral is being administered by a personal representative within the meaning of section 9503(1)(b) as
+amended by this amendatory act. A financing statement that indicates that the debtor is a trust or is a trustee
+acting with respect to property held in trust indicates that the collateral is held in a trust within the meaning of
+section 9503(1)(c) as amended by this amendatory act.
+History: Add. 2012, Act 88, Eff. July 1, 2013.
+Rendered Wednesday, December 27, 2017 Page 210 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+440.9806 Continuation of effectiveness of pre-effective-date financing statement; filing of
+initial financing statement.
+Sec. 9806. (1) The filing of an initial financing statement in the office specified in section 9501 continues
+the effectiveness of a pre-effective-date financing statement if all of the following are met:
+(a) The filing of an initial financing statement in that office would be effective to perfect a security interest
+under this amended article.
+(b) The pre-effective-date financing statement was filed in an office in another state.
+(c) The initial financing statement satisfies subsection (3).
+(2) The filing of an initial financing statement under subsection (1) continues the effectiveness of the
+pre-effective-date financing statement for 1 of the following periods:
+(a) If the initial financing statement is filed before the effective date of this amendatory act, for the period
+provided in section 9515 as it existed before the effective date of this amendatory act with respect to an initial
+financing statement.
+(b) If the initial financing statement is filed after the effective date of this amendatory act, for the period
+provided in section 9515 as amended by this amendatory act with respect to an initial financing statement.
+(3) To be effective for purposes of subsection (1), an initial financing statement must do all of the
+following:
+(a) Satisfy the requirements of part 5 as amended by this amendatory act for an initial financing statement.
+(b) Identify the pre-effective-date financing statement by indicating the office in which the financing
+statement was filed and providing the dates of filing and file numbers, if any, of the financing statement and
+of the most recent continuation statement filed with respect to the financing statement.
+(c) Indicate that the pre-effective-date financing statement remains effective.
+
+History: Add. 2012, Act 88, Eff. July 1, 2013.
+
+440.9807 Amending information in pre-effective-date financing statement; filing termination
+statement.
+Sec. 9807. (1) After the effective date of this amendatory act, a person may add or delete collateral covered
+by, continue or terminate the effectiveness of, or otherwise amend the information provided in, a
+pre-effective-date financing statement only in accordance with the law of the jurisdiction governing perfection
+as provided in this amended article. However, the effectiveness of a pre-effective-date financing statement
+also may be terminated in accordance with the law of the jurisdiction in which the financing statement is filed.
+(2) Except as otherwise provided in subsection (3), if the law of this state governs perfection of a security
+interest, the information in a pre-effective-date financing statement may be amended after the effective-date
+of this amendatory act only if 1 of the following is met:
+(a) The pre-effective-date financing statement and an amendment are filed in the office specified in section
+9501.
+(b) An amendment is filed in the office specified in section 9501 concurrently with, or after the filing in
+that office of, an initial financing statement that satisfies section 9806(3).
+(c) An initial financing statement that provides the information as amended and satisfies section 9806(3) is
+filed in the office specified in section 9501.
+(3) If the law of this state governs perfection of a security interest, the effectiveness of a pre-effective-date
+financing statement may be continued only under section 9805(3) and (5) or 9806.
+(4) Whether or not the law of this state governs perfection of a security interest, the effectiveness of a
+pre-effective-date financing statement filed in this state may be terminated after the effective date of this
+amendatory act by filing a termination statement in the office in which the pre-effective-date financing
+statement is filed, unless an initial financing statement that satisfies section 9806(3) has been filed in the
+office specified by the law of the jurisdiction governing perfection as provided in this amended article as the
+office in which to file a financing statement.
+History: Add. 2012, Act 88, Eff. July 1, 2013.
+440.9808 Filing initial financing statement or continuation statement; conditions.
+Sec. 9808. A person may file an initial financing statement or a continuation statement under this part if all
+of the following are met:
+(a) The secured party of record authorizes the filing.
+(b) The filing is necessary under this part to do any of the following:
+(i) To continue the effectiveness of a financing statement filed before the effective date of this amendatory
+act.
+Rendered Wednesday, December 27, 2017 Page 211 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(ii) To perfect or continue the perfection of a security interest.
+
+History: Add. 2012, Act 88, Eff. July 1, 2013.
+
+440.9809 Priority of conflicting claims to collateral; establishment before effective date of
+amendatory act.
+Sec. 9809. This amendatory act determines the priority of conflicting claims to collateral. However, if the
+relative priorities of the claims were established before the effective date of this amendatory act, this article as
+it existed before the effective date of this amendatory act determines priority.
+History: Add. 2012, Act 88, Eff. July 1, 2013.
+EFFECTIVE DATE AND REPEALER
+440.9991 Effective date of act; application to future transactions.
+Sec. 9991. This act shall become effective on January 1, 1964. It applies to transactions entered into and
+events occurring after that date.
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.9992 Repeal.
+Sec. 9992. The following acts and parts of acts, as amended, are hereby repealed:
+(1) Revised Statutes of 1846.
+Chapter Section Numbers Compiled Law Sections (1948)
+81 7 to 16 566.137 to 566.146
+(2) Public Acts.
+Year Public Act Section Compiled Law
+of Act Number Numbers Sections (1948)
+1877 57 566.191
+1881 117 566.201 and 566.202
+1893 81 469.291 to 469.293
+1895 220 2 to 6 444.2 to 444.6
+1895 220 8 444.8
+1895 220 11 444.11
+1895 220 12 444.12
+1895 220 14 to 22 444.14 to 444.22
+1899 84 442.301 to 442.303
+1901 236 468.321
+1905 223 442.1 to 442.3
+1905 265 439.1 to 439.191
+1907 95 487.661
+1909 303 1 to 49 443.1 to 443.49
+1909 303 56 to 58 443.56 to 443.58
+1911 165 1 to 43 482.1 to 482.43
+1911 165 51 to 56 482.51 to 482.56
+1913 100 440.1 to 440.78
+1913 106 441.1 to 441.25
+1915 64 442.101
+1919 386 487.641
+1919 378 487.671
+1925 348 487.681 and 487.682
+1925 390 487.621
+1929 200 442.51 to 442.53
+1931 327 26 450.26
+1931 240 487.601 to 487.617
+1933 154 442.151
+1937 341 48 487.48
+Rendered Wednesday, December 27, 2017 Page 212 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+
+
+
+
+1937 341 154 487.154
+
+1937 341 213 487.213
+1939 290 566.401 to 566.412
+1939 305 3 to 14 566.303 to 566.314
+1943 187 566.501
+1947 180 570.501 to 570.512
+1950 (Ex. Sess.) 27 23 to 27 492.123 to 492.127
+1952 19 555.401 to 555.419
+1961 236 2150 600.2150
+1961 236 5401 to 5445 600.5401 to 600.5445
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.9993 Saving clause.
+Sec. 9993. Transactions validly entered into before the effective date specified in section 9991 and the
+rights, duties and interests flowing from them remain valid thereafter and may be terminated, completed,
+consummated or enforced as required or permitted by any statute or other law amended or repealed by this act
+as though such repeal or amendment had not occurred.
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.9994 Effect of Article 7.
+Sec. 9994. The article on documents of title (article 7) does not repeal or modify any laws prescribing the
+form or contents of documents of title or the services or facilities to be afforded by bailees, or otherwise
+regulating bailees' businesses in respects not specifically dealt with herein. The fact that such laws are
+violated does not affect the status of a document of title which otherwise complies with the definition of a
+document of title (section 1201).
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1964, Act 250, Eff. Aug. 28, 1964;⎯Am. 1998, Act 278, Imd. Eff. July 27, 1998.

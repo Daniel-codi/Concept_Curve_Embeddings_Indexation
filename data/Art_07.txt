@@ -1,0 +1,725 @@
+ARTICLE 7
+
+WAREHOUSE RECEIPTS, BILLS OF LADING AND OTHER DOCUMENTS OF TITLE
+
+PART 1
+
+GENERAL
+
+440.7101 Uniform commercial code—documents of title; short title of article.
+Sec. 7101. This article shall be known and may be cited as "uniform commercial code—documents of
+title".
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7102 Uniform commercial code; documents of title; definitions.
+Sec. 7102. (1) As used in this article, unless the context otherwise requires:
+(a) "Bailee" means a person that by a warehouse receipt, bill of lading, or other document of title
+acknowledges possession of goods and contracts to deliver them.
+(b) "Carrier" means a person that issues a bill of lading.
+(c) "Consignee" means a person named in a bill of lading to which or to whose order the bill promises
+delivery.
+(d) "Consignor" means a person named in a bill of lading as the person from which the goods have been
+received for shipment.
+(e) "Delivery order" means a record that contains an order to deliver goods directed to a warehouseman,
+carrier, or other person that in the ordinary course of business issues warehouse receipts or bills of lading.
+(f) "Good faith" means honesty in fact and the observance of reasonable commercial standards of fair
+dealing.
+(g) "Goods" means all things that are treated as movable for the purposes of a contract for storage or
+transportation.
+(h) "Issuer" means a bailee that issues a document of title or, in the case of an unaccepted delivery order,
+the person that orders the possessor of goods to deliver. The term includes any person for which an agent or
+employee purports to act in issuing a document if the agent or employee has real or apparent authority to issue
+documents, even if the issuer did not receive any goods, the goods were misdescribed, or in any other respect
+the agent or employee violated the issuer's instructions.
+(i) "Person entitled under the document" means the holder, in the case of a negotiable document of title, or
+the person to which delivery of the goods is to be made by the terms of, or pursuant to instructions in a record
+under, a nonnegotiable document of title.
+(j) "Record" means information that is inscribed on a tangible medium or that is stored in an electronic or
+other medium and is retrievable in perceivable form.
+(k) "Sign" means any of the following, with present intent to authenticate or adopt a record:
+(i) To execute or adopt a tangible symbol.
+(ii) To attach to or logically associate with the record an electronic sound, symbol, or process.
+(l) "Shipper" means a person that enters into a contract of transportation with a carrier.
+(m) "Warehouse" means a person engaged in the business of storing goods for hire.
+(2) All of the following definitions from other articles apply to this article:
+(a) "Contract for sale" as defined in section 2106.
+(b) "Lessee in the ordinary course of business" as defined in section 2A103.
+(c) "Receipt of goods" as defined in section 2103.
+(3) Article 1 contains general definitions and principles of construction and interpretation applicable
+throughout this article.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7103 Article subject to governmental treaty, statute, or regulatory statute; electronic
+Rendered Wednesday, December 27, 2017 Page 116 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+signatures.
+Sec. 7103. (1) This article is subject to any treaty or statute of the United States or regulatory statute of this
+state to the extent the treaty, statute, or regulatory statute is applicable.
+(2) This article does not modify or repeal any law prescribing the form or content of a document of title or
+the services or facilities to be afforded by a bailee, or otherwise regulating a bailee's business in respects not
+specifically treated in this article. However, violation of such a law does not affect the status of a document of
+title that otherwise is within the definition of a document of title.
+(3) This act modifies, limits, and supersedes the electronic signatures in global and national commerce act,
+15 USC 7001 to 7031, but does not modify, limit, or supersede 15 USC 7001(a) or authorize electronic
+delivery of any of the notices described in 15 USC 7003(b).
+(4) To the extent there is a conflict between the uniform electronic transactions act, 2000 PA 305, MCL
+450.831 to 450.849, and this article, this article governs.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7104 Negotiable and nonnegotiable warehouse receipt, bill of lading, or other document
+of title.
+Sec. 7104. (1) Except as otherwise provided in subsection (3), a document of title is negotiable if by its
+terms the goods are to be delivered to bearer or to the order of a named person.
+(2) A document of title other than one described in subsection (1) is nonnegotiable. A bill of lading that
+states that the goods are consigned to a named person is not made negotiable by a provision that the goods are
+to be delivered only against an order in a record signed by the same or another named person.
+(3) A document of title is nonnegotiable if, at the time it is issued, the document has a conspicuous legend,
+however expressed, that it is nonnegotiable.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7105 Tangible document of title as substitute for electronic document; electronic
+document title as substitute for tangible document of title; conditions.
+Sec. 7105. (1) Upon request of a person entitled under an electronic document of title, the issuer of the
+electronic document may issue a tangible document of title as a substitute for the electronic document if both
+of the following are met:
+(a) The person entitled under the electronic document surrenders control of the document to the issuer.
+(b) The tangible document when issued contains a statement that it is issued in substitution for the
+electronic document.
+(2) All of the following apply upon issuance of a tangible document of title in substitution for an electronic
+document of title in accordance with subsection (1):
+(a) The electronic document ceases to have any effect or validity.
+(b) The person that procured issuance of the tangible document warrants to all subsequent persons entitled
+under the tangible document that the warrantor was a person entitled under the electronic document when the
+warrantor surrendered control of the electronic document to the issuer.
+(3) Upon request of a person entitled under a tangible document of title, the issuer of the tangible
+document may issue an electronic document of title as a substitute for the tangible document if both of the
+following are met:
+(a) The person entitled under the tangible document surrenders possession of the document to the issuer.
+(b) The electronic document when issued contains a statement that it is issued in substitution for the
+tangible document.
+(4) All of the following apply upon issuance of an electronic document of title in substitution for a tangible
+document of title in accordance with subsection (3):
+(a) The tangible document ceases to have any effect or validity.
+(b) The person that procured issuance of the electronic document warrants to all subsequent persons
+entitled under the electronic document that the warrantor was a person entitled under the tangible document
+when the warrantor surrendered possession of the tangible document to the issuer.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7106 Person having control of electronic document.
+Sec. 7106. (1) A person has control of an electronic document of title if a system employed for evidencing
+the transfer of interests in the electronic document reliably establishes that person as the person to which the
+electronic document was issued or transferred.
+(2) A system satisfies subsection (1), and a person is considered to have control of an electronic document
+Rendered Wednesday, December 27, 2017 Page 117 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+of title, if the document is created, stored, and assigned in a manner that meets all of the following:
+(a) A single authoritative copy of the document exists that is unique, identifiable, and, except as otherwise
+provided in subdivisions (d), (e), and (f), unalterable.
+(b) The authoritative copy described in subdivision (a) identifies the person asserting control as 1 of the
+following:
+(i) The person to which the document was issued.
+(ii) If the authoritative copy indicates that the document has been transferred, the person to which the
+document was most recently transferred.
+(c) The authoritative copy described in subdivision (a) is communicated to and maintained by the person
+asserting control or its designated custodian.
+(d) Copies or amendments that add or change an identified assignee of the authoritative copy described in
+subdivision (a) can be made only with the consent of the person asserting control.
+(e) Each copy of the authoritative copy described in subdivision (a) and any copy of a copy is readily
+identifiable as a copy that is not the authoritative copy.
+(f) Any amendment of the authoritative copy described in subdivision (a) is readily identifiable as
+authorized or unauthorized.
+History: Add. 2012, Act 87, Eff. July 1, 2013.
+PART 2
+
+WAREHOUSE RECEIPTS: SPECIAL PROVISIONS
+
+440.7201 Warehouse receipt; issuance; storage under government bond.
+Sec. 7201. (1) A warehouse receipt may be issued by any warehouse.
+(2) If distilled spirits, agricultural commodities, or any other goods are stored under a statute requiring a
+bond against withdrawal or a license for the issuance of receipts in the nature of warehouse receipts, a receipt
+issued for the goods is considered to be a warehouse receipt even if issued by a person that is the owner of the
+goods and is not a warehouse.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7202 Terms of receipt; form; contrary provisions.
+Sec. 7202. (1) A warehouse receipt need not be in any particular form.
+(2) Unless a warehouse receipt provides for each of the following, the warehouse is liable for damages
+caused to a person injured by its omission:
+(a) A statement of the location of the warehouse where the goods are stored.
+(b) The date of issue of the receipt.
+(c) The unique identification code of the receipt.
+(d) A statement whether the goods received will be delivered to the bearer, to a named person, or to a
+named person or its order.
+(e) The rate of storage and handling charges, unless goods are stored under a field warehousing
+arrangement, in which case a statement of that fact is sufficient on a nonnegotiable receipt.
+(f) A description of the goods or the packages containing them.
+(g) The signature of the warehouse or its agent.
+(h) If the receipt is issued for goods that the warehouse owners, either solely, jointly, or in common with
+others, a statement of the fact of that ownership.
+(i) A statement of the amount of advances made and of liabilities incurred for which the warehouse claims
+a lien or security interest, unless the precise amount of advances made or liabilities incurred, at the time of the
+issue of the receipt, is unknown to the warehouse or to its agent that issued the receipt, in which case a
+statement of the fact that advances have been made or liabilities incurred and the purpose of the advances or
+liabilities is sufficient.
+(3) A warehouse may insert in its receipt any terms that are not contrary to the provisions of this act and do
+not impair its obligation of delivery under section 7403 or its duty of care under section 7204. Any contrary
+provisions are ineffective.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7203 Liability for nonreceipt or misdescription.
+Sec. 7203. A party to or purchaser for value in good faith of a document of title, other than a bill of lading,
+that relies upon the description of the goods in the document may recover from the issuer damages caused by
+the nonreceipt or misdescription of the goods, except to the extent that any of the following apply:
+Rendered Wednesday, December 27, 2017 Page 118 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(a) The document conspicuously indicates that the issuer does not know whether all or any part of the
+goods in fact were received or conform to the description, such as a case in which the description is in terms
+of marks or labels or kind, quantity, or condition, or the receipt or description is qualified by "contents,
+condition, and quality unknown", "said to contain", or words of similar import, if the indication is true.
+(b) The party or purchaser has notice of the nonreceipt or misdescription.
+
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+
+440.7204 Duty of care; contractual limitation of warehouse liability; provisions as to time and
+manner of presenting claims and commencing actions.
+Sec. 7204. (1) A warehouse is liable for damages for loss of or injury to the goods caused by its failure to
+exercise care with regard to the goods that a reasonably careful person would exercise under similar
+circumstances. Unless otherwise agreed, the warehouse is not liable for damages that could not have been
+avoided by the exercise of that care.
+(2) Damages may be limited by a term in a warehouse receipt or storage agreement limiting the amount of
+liability in case of loss or damage beyond which the warehouse is not liable. Such a limitation is not effective
+with respect to the warehouse's liability for conversion to its own use. On request of the bailor in a record at
+the time of signing the storage agreement or within a reasonable time after receipt of the warehouse receipt,
+the warehouse's liability may be increased on part or all of the goods covered by the storage agreement or the
+warehouse receipt. In this event, increased rates may be charged based on an increased valuation of the goods.
+(3) Reasonable provisions as to the time and manner of presenting claims and commencing actions based
+on the bailment may be included in the warehouse receipt or storage agreement.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7205 Fungible goods; buyer's title.
+Sec. 7205. A buyer in the ordinary course of business of fungible goods sold and delivered by a warehouse
+that is also in the business of buying and selling those goods takes the goods free of any claim under a
+warehouse receipt even if the receipt is negotiable and has been duly negotiated.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7206 Termination of storage at warehouse's option; removal or sale; notice; delivery;
+satisfaction of lien.
+Sec. 7206. (1) A warehouse, by giving notice to the person on whose account the goods are held and any
+other person known to claim an interest in the goods, may require payment of any charges and removal of the
+goods from the warehouse at the termination of the period of storage fixed by the document of title or, if a
+period is not fixed, within a stated period not less than 30 days after the warehouse gives notice. If the goods
+are not removed before the date specified in the notice, the warehouse may sell them pursuant to section 7210.
+(2) If a warehouse in good faith believes that goods are about to deteriorate or decline in value to less than
+the amount of its lien within the time provided in subsection (1) and section 7210, the warehouse may specify
+in the notice given under subsection (1) any reasonable shorter time for removal of the goods and, if the goods
+are not removed, may sell them at public sale held not less than 1 week after a single advertisement or
+posting.
+(3) If, as a result of a quality or condition of the goods of which the warehouse did not have notice at the
+time of deposit, the goods are a hazard to other property, the warehouse facilities, or other persons, the
+warehouse may sell the goods at public or private sale without advertisement or posting on reasonable
+notification to all persons known to claim an interest in the goods. If the warehouse, after a reasonable effort,
+is unable to sell the goods, it may dispose of them in any lawful manner and does not incur liability by reason
+of that disposition.
+(4) A warehouse shall deliver the goods to any person entitled to them under this article upon due demand
+made at any time before sale or other disposition under this section.
+(5) A warehouse may satisfy its lien from the proceeds of any sale or disposition under this section but
+shall hold the balance for delivery on the demand of any person to which the warehouse would have been
+bound to deliver the goods.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7207 Separation of goods; commingling of fungible goods; overissued receipts.
+Sec. 7207. (1) Unless the warehouse receipt provides otherwise, a warehouse shall keep separate the goods
+covered by each receipt so as to permit at all times identification and delivery of those goods. However,
+different lots of fungible goods may be commingled.
+Rendered Wednesday, December 27, 2017 Page 119 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(2) If different lots of fungible goods are commingled, the goods are owned in common by the persons
+entitled thereto and the warehouse is severally liable to each owner for that owner's share. If, because of
+overissue, a mass of fungible goods is insufficient to meet all the receipts the warehouse has issued against it,
+the persons entitled include all holders to which overissued receipts have been duly negotiated.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7208 Alteration of warehouse receipts.
+Sec. 7208. If a blank in a negotiable tangible warehouse receipt has been filled in without authority, a good
+faith purchaser for value and without notice of the lack of authority may treat the insertion as authorized. Any
+other unauthorized alteration leaves any tangible or electronic warehouse receipt enforceable against the
+issuer according to its original tenor.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7209 Warehouse's lien; security interest; "household goods" defined; loss of lien.
+Sec. 7209. (1) A warehouse has a lien against the bailor on the goods covered by a warehouse receipt or
+storage agreement or on the proceeds of those goods in its possession for charges for storage or transportation,
+including demurrage and terminal charges, insurance, labor, or other charges, present or future, in relation to
+the goods, and for expenses necessary for preservation of the goods or reasonably incurred in their sale
+pursuant to law. If the person on whose account the goods are held is liable for similar charges or expenses in
+relation to other goods whenever deposited and it is stated in the warehouse receipt or storage agreement that
+a lien is claimed for charges and expenses in relation to other goods, the warehouse also has a lien against the
+goods covered by the warehouse receipt or storage agreement or on the proceeds of those goods in its
+possession for those charges and expenses, whether or not the other goods have been delivered by the
+warehouse. However, as against a person to which a negotiable warehouse receipt is duly negotiated, a
+warehouse's lien is limited to charges in an amount or at a rate specified in the warehouse receipt or, if no
+charges are so specified, to a reasonable charge for storage of the specific goods covered by the receipt
+subsequent to the date of the receipt.
+(2) A warehouse may also reserve a security interest against the bailor for the maximum amount specified
+on the receipt for charges other than those specified in subsection (1), such as for money advanced and
+interest. The security interest is governed by article 9.
+(3) A warehouse's lien for charges and expenses under subsection (1) or a security interest under
+subsection (2) is also effective against any person that so entrusted the bailor with possession of the goods
+that a pledge of them by the bailor to a good faith purchaser for value would have been valid. However, the
+lien or security interest is not effective against a person that before issuance of a document of title had a legal
+interest or a perfected security interest in the goods and that did not do any of the following:
+(a) Deliver or entrust the goods or any document of title covering the goods to the bailor or the bailor's
+nominee with any of the following:
+(i) Actual or apparent authority to ship, store, or sell.
+(ii) Power to obtain delivery under section 7403.
+(iii) Power of disposition under section 2403, 2A304(2), 2A305(2), 9320, or 9321 or other statute or rule of
+law.
+(b) Acquiesce in the procurement by the bailor or its nominee of any document.
+(4) A warehouse's lien on household goods for charges and expenses in relation to the goods under
+subsection (1) is also effective against all persons if the depositor was the legal possessor of the goods at the
+time of deposit. As used in this subsection, "household goods" means furniture, furnishings, or personal
+effects used by the depositor in a dwelling.
+(5) A warehouse loses its lien on any goods that it voluntarily delivers or unjustifiably refuses to deliver.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7210 Warehouse's lien; enforcement procedure; liability for noncompliance.
+Sec. 7210. (1) Except as otherwise provided in subsection (2), a warehouse's lien may be enforced by
+public or private sale of the goods, in bulk or in packages, at any time or place and on any terms that are
+commercially reasonable, after notifying all persons known to claim an interest in the goods. The notification
+must include a statement of the amount due, the nature of the proposed sale, and the time and place of any
+public sale. The fact that a better price could have been obtained by a sale at a different time or in a method
+different from that selected by the warehouse is not of itself sufficient to establish that the sale was not made
+in a commercially reasonable manner. A warehouse sells in a commercially reasonable manner if the
+warehouse sells the goods in the usual manner in any recognized market for the goods, sells at the price
+Rendered Wednesday, December 27, 2017 Page 120 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+current in that market at the time of the sale, or otherwise sells in conformity with commercially reasonable
+practices among dealers in the type of goods sold. A sale of more goods than apparently necessary to be
+offered to ensure satisfaction of the obligation is not commercially reasonable, except in cases covered by the
+preceding sentence.
+(2) A warehouse may enforce its lien on goods, other than goods stored by a merchant in the course of its
+business, only if the following requirements are satisfied:
+(a) All persons known to claim an interest in the goods must be notified.
+(b) The notification must include an itemized statement of the claim, a description of the goods subject to
+the lien, a demand for payment within a specified time not less than 10 days after receipt of the notification,
+and a conspicuous statement that unless the claim is paid within that time the goods will be advertised for sale
+and sold by auction at a specified time and place.
+(c) The sale must conform to the terms of the notification.
+(d) The sale must be held at the nearest suitable place to where the goods are held or stored.
+(e) After the expiration of the time given in the notification, an advertisement of the sale must be published
+once a week for 2 weeks consecutively in a newspaper of general circulation where the sale is to be held. The
+advertisement must include a description of the goods, the name of the person on whose account the goods are
+being held, and the time and place of the sale. The sale must take place at least 15 days after the first
+publication. If there is no newspaper of general circulation where the sale is to be held, the advertisement
+must be posted at least 10 days before the sale in not fewer than 6 conspicuous places in the neighborhood of
+the proposed sale.
+(3) Before any sale pursuant to this section, any person claiming a right in the goods may pay the amount
+necessary to satisfy the lien and the reasonable expenses incurred in complying with this section. In that
+event, the goods may not be sold but must be retained by the warehouse subject to the terms of the receipt and
+this article.
+(4) A warehouse may buy at any public sale held pursuant to this section.
+(5) A purchaser in good faith of goods sold to enforce a warehouse's lien takes the goods free of any rights
+of persons against which the lien was valid, despite the warehouse's noncompliance with this section.
+(6) A warehouse may satisfy its lien from the proceeds of any sale pursuant to this section but shall hold
+the balance, if any, for delivery on demand to any person to which the warehouse would have been bound to
+deliver the goods.
+(7) The rights provided by this section are in addition to all other rights allowed by law to a creditor against
+a debtor.
+(8) If a lien is on goods stored by a merchant in the course of its business, the lien may be enforced in
+accordance with subsection (1) or (2).
+(9) A warehouse is liable for damages caused by failure to comply with the requirements for sale under this
+section and, in case of willful violation, is liable for conversion.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1964, Act 250, Eff. Aug. 28, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+PART 3
+
+BILLS OF LADING: SPECIAL PROVISIONS
+
+440.7301 Negotiable bill of lading; issuer's liability for misdating, nonreceipt, or
+misdescription; goods loaded by issuer of bill of lading; bulk; statement of shipper's
+weight, load, and count; guarantee; liability.
+Sec. 7301. (1) A consignee of a nonnegotiable bill of lading which has given value in good faith, or a
+holder to which a negotiable bill has been duly negotiated, relying upon the description of the goods in the bill
+or upon the date shown in the bill, may recover from the issuer damages caused by the misdating of the bill or
+the nonreceipt or misdescription of the goods, except to the extent that the bill indicates that the issuer does
+not know whether any part or all of the goods in fact were received or conform to the description, such as in a
+case in which the description is in terms of marks or labels or kind, quantity, or condition or the receipt or
+description is qualified by "contents or condition of contents of packages unknown", "said to contain",
+"shipper's weight, load, and count", or words of similar import, if that indication is true.
+(2) All of the following apply if goods are loaded by the issuer of a bill of lading:
+(a) The issuer shall count the packages of goods if shipped in packages and ascertain the kind and quantity
+if shipped in bulk.
+(b) Words such as "shipper's weight, load, and count", or words of similar import indicating that the
+description was made by the shipper are ineffective except as to goods concealed in packages.
+(3) If bulk goods are loaded by a shipper that makes available to the issuer of a bill of lading adequate
+Rendered Wednesday, December 27, 2017 Page 121 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+facilities for weighing those goods, the issuer shall ascertain the kind and quantity within a reasonable time
+after receiving the shipper's request in a record to do so. In that case, "shipper's weight" or words of similar
+import are ineffective.
+(4) The issuer of a bill of lading, by including in the bill the words "shipper's weight, load, and count", or
+words of similar import, may indicate that the goods were loaded by the shipper, and, if that statement is true,
+the issuer is not liable for damages caused by the improper loading. However, omission of those words does
+not imply liability for damages caused by improper loading.
+(5) A shipper guarantees to an issuer the accuracy at the time of shipment of the description, marks, labels,
+number, kind, quantity, condition, and weight, as furnished by the shipper, and the shipper shall indemnify the
+issuer against damage caused by inaccuracies in those particulars. This right of indemnity does not limit the
+issuer's responsibility or liability under the contract of carriage to any person other than the shipper.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7302 Through bill of lading or other document of title; variance as to overseas
+undertaking; obligations of persons other than issuer; obligations of persons to issuer.
+Sec. 7302. (1) The issuer of a through bill of lading or other document of title embodying an undertaking
+to be performed in part by a person acting as its agent or by a performing carrier, is liable to any person
+entitled to recover on the bill or other document for any breach by the other person or the performing carrier
+of its obligation under the bill or other document. However, to the extent that the bill or other document
+covers an undertaking to be performed overseas or in territory not contiguous to the continental United States
+or an undertaking including matters other than transportation, this liability for breach by the other person or
+the performing carrier may be varied by agreement of the parties.
+(2) If goods covered by a through bill of lading or other document of title embodying an undertaking to be
+performed in part by a person other than the issuer are received by that person, the person is subject, with
+respect to its own performance while the goods are in its possession, to the obligation of the issuer. The
+person's obligation is discharged by delivery of the goods to another person pursuant to the bill or other
+document and does not include liability for breach by any other person or by the issuer.
+(3) The issuer of a through bill of lading or other document of title described in subsection (1) is entitled to
+recover all of the following from the performing carrier, or other person in possession of the goods when the
+breach of the obligation under the bill or other document occurred:
+(a) The amount it may be required to pay to any person entitled to recover on the bill or other document for
+the breach, as may be evidenced by any receipt, judgment, or transcript of judgment.
+(b) The amount of any expense reasonably incurred by the issuer in defending any action commenced by
+any person entitled to recover on the bill or other document for the breach.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7303 Diversion; reconsignment; change of instructions.
+Sec. 7303. (1) Unless the bill of lading otherwise provides, a carrier may deliver the goods to a person or
+destination other than that stated in the bill or may otherwise dispose of the goods, without liability for
+misdelivery, on instructions from any of the following:
+(a) The holder of a negotiable bill.
+(b) The consignor on a nonnegotiable bill, even if the consignee has given contrary instructions.
+(c) The consignee on a nonnegotiable bill in the absence of contrary instructions from the consignor, if the
+goods have arrived at the billed destination or if the consignee is in possession of the tangible bill or in control
+of the electronic bill.
+(d) The consignee on a nonnegotiable bill, if the consignee is entitled as against the consignor to dispose of
+the goods.
+(2) Unless instructions described in subsection (1) are included in a negotiable bill of lading, a person to
+which the bill is duly negotiated may hold the bailee according to the original terms.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7304 Bills of lading in set of parts.
+Sec. 7304. (1) Except as customary in international transportation, a tangible bill of lading may not be
+issued in a set of parts. The issuer is liable for damages caused by violation of this subsection.
+(2) If a tangible bill of lading is lawfully issued in a set of parts, each of which contains an identification
+code and is expressed to be valid only if the goods have not been delivered against any other part, the whole
+of the parts constitutes 1 bill.
+(3) If a tangible negotiable bill of lading is lawfully issued in a set of parts and different parts are
+Rendered Wednesday, December 27, 2017 Page 122 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+negotiated to different persons, the title of the holder to which the first due negotiation is made prevails as to
+both the document of title and the goods even if any later holder may have received the goods from the carrier
+in good faith and discharged the carrier's obligation by surrendering its part.
+(4) A person that negotiates or transfers a single part of a tangible bill of lading issued in a set is liable to
+holders of that part as if it were the whole set.
+(5) The bailee shall deliver in accordance with part 4 against the first presented part of a tangible bill of
+lading lawfully issued in a set. Delivery in this manner discharges the bailee's obligation on the whole bill.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7305 Destination and substitute bills.
+Sec. 7305. (1) Instead of issuing a bill of lading to the consignor at the place of shipment, a carrier, at the
+request of the consignor, may procure the bill to be issued at destination or at any other place designated in
+the request.
+(2) Upon request of any person entitled as against a carrier to control the goods while in transit and on
+surrender of possession or control of any outstanding bill of lading or other receipt covering the goods, the
+issuer, subject to section 7105, may procure a substitute bill to be issued at any place designated in the
+request.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7306 Altered bills of lading.
+Sec. 7306. An unauthorized alteration or filling in of a blank in a bill of lading leaves the bill enforceable
+according to its original tenor.
+History: 1962, Act 174, Eff. Jan. 1, 1964.
+440.7307 Carrier's lien.
+Sec. 7307. (1) A carrier has a lien on the goods covered by a bill of lading or on the proceeds of those
+goods in its possession for charges after the date of the carrier's receipt of the goods for storage or
+transportation, including demurrage and terminal charges, and for expenses necessary for preservation of the
+goods incident to their transportation or reasonably incurred in their sale pursuant to law. However, against a
+purchaser for value of a negotiable bill of lading, a carrier's lien is limited to charges stated in the bill or the
+applicable tariffs or, if no charges are stated, a reasonable charge.
+(2) A lien for charges and expenses under subsection (1) on goods that the carrier was required by law to
+receive for transportation is effective against the consignor or any person entitled to the goods unless the
+carrier had notice that the consignor lacked authority to subject the goods to those charges and expenses. Any
+other lien under subsection (1) is effective against the consignor and any person that permitted the bailor to
+have control or possession of the goods unless the carrier had notice that the bailor lacked authority.
+(3) A carrier loses its lien on any goods that it voluntarily delivers or unjustifiably refuses to deliver.
+
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+
+440.7308 Carrier's lien; enforcement; procedure; liability for noncompliance.
+Sec. 7308. (1) A carrier's lien on goods may be enforced by public or private sale of the goods, in bulk or
+in packages, at any time or place and on any terms that are commercially reasonable, after notifying all
+persons known to claim an interest in the goods. The notification must include a statement of the amount due,
+the nature of the proposed sale, and the time and place of any public sale. The fact that a better price could
+have been obtained by a sale at a different time or in a method different from that selected by the carrier is not
+of itself sufficient to establish that the sale was not made in a commercially reasonable manner. The carrier
+sells goods in a commercially reasonable manner if the carrier sells the goods in the usual manner in any
+recognized market for that type of goods, sells at the price current in that market at the time of the sale, or
+otherwise sells in conformity with commercially reasonable practices among dealers in the type of goods sold.
+A sale of more goods than apparently necessary to be offered to ensure satisfaction of the obligation is not
+commercially reasonable except in cases covered by the preceding sentence.
+(2) Before any sale pursuant to this section, any person claiming a right in the goods may pay the amount
+necessary to satisfy the lien and the reasonable expenses incurred in complying with this section. In that
+event, the goods may not be sold but must be retained by the carrier subject to the terms of the bill of lading
+and this article.
+(3) A carrier may buy at any public sale pursuant to this section.
+(4) A purchaser in good faith of goods sold to enforce a carrier's lien takes the goods free of any rights of
+persons against which the lien was valid, despite the carrier's noncompliance with this section.
+Rendered Wednesday, December 27, 2017 Page 123 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(5) A carrier may satisfy its lien from the proceeds of any sale pursuant to this section but shall hold the
+balance, if any, for delivery on demand to any person to which the carrier would have been bound to deliver
+the goods.
+(6) The rights provided by this section are in addition to all other rights allowed by law to a creditor against
+a debtor.
+(7) A carrier's lien may be enforced pursuant to either subsection (1) or the procedure set forth in section
+7210(2).
+(8) A carrier is liable for damages caused by failure to comply with the requirements for sale under this
+section and, in case of willful violation, is liable for conversion.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7309 Carrier's duty of care; contractual provisions as to liability.
+Sec. 7309. (1) A carrier that issues a bill of lading, whether negotiable or nonnegotiable, shall exercise the
+degree of care in relation to the goods which a reasonably careful person would exercise under similar
+circumstances. This subsection does not affect any statute, regulation, or rule of law that imposes liability
+upon a common carrier for damages not caused by its negligence.
+(2) Damages may be limited by a term in the bill of lading or in a transportation agreement that the
+carrier's liability may not exceed a value stated in the bill or transportation agreement if the carrier's rates are
+dependent upon value and the consignor is afforded an opportunity to declare a higher value and the
+consignor is advised of the opportunity. However, such a limitation is not effective with respect to the
+carrier's liability for conversion to its own use.
+(3) Reasonable provisions as to the time and manner of presenting claims and commencing actions based
+on the shipment may be included in a bill of lading or a transportation agreement.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+PART 4
+
+WAREHOUSE RECEIPTS AND BILLS OF LADING: GENERAL OBLIGATIONS
+
+440.7401 Irregularities in issue of document of title.
+Sec. 7401. The obligations imposed by this article on an issuer apply to a document of title even if any of
+the following apply:
+(a) The document does not comply with the requirements of this article or of any other statute, rule, or
+regulation regarding its issuance, form, or content.
+(b) The issuer violated laws regulating the conduct of its business.
+(c) The goods covered by the document were owned by the bailee when the document was issued.
+(d) The person issuing the document is not a warehouse but the document purports to be a warehouse
+receipt.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7402 Duplicate document of title; overissue.
+Sec. 7402. A duplicate or any other document of title purporting to cover goods already represented by an
+outstanding document of the same issuer does not confer any right in the goods, except as provided in the case
+of tangible bills of lading in a set of parts, overissue of documents for fungible goods, substitutes for lost,
+stolen, or destroyed documents, or substitute documents issued pursuant to section 7105. The issuer is liable
+for damages caused by its overissue or failure to identify a duplicate document by a conspicuous notation.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7403 Delivery; exceptions; satisfaction of bailee's lien; cancellation or indication of
+partial delivery.
+Sec. 7403. (1) A bailee shall deliver the goods to a person entitled under a document of title if the person
+complies with subsections (2) and (3), unless and to the extent that the bailee establishes any of the following:
+(a) Delivery of the goods to a person whose receipt was rightful as against the claimant.
+(b) Damages to or delay, loss, or destruction of the goods for which the bailee is not liable.
+(c) Previous sale or other disposition of the goods in lawful enforcement of a lien or on a warehouse's
+lawful termination of storage.
+(d) The exercise by a seller of its right to stop delivery pursuant to section 2705 or by a lessor of its right to
+stop delivery pursuant to section 2A526.
+(e) A diversion, reconsignment, or other disposition pursuant to section 7303.
+Rendered Wednesday, December 27, 2017 Page 124 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(f) Release, satisfaction, or any other personal defense against the claimant.
+(g) Any other lawful excuse.
+(2) A person claiming goods covered by a document of title shall satisfy the bailee's lien if the bailee so
+requests or if the bailee is prohibited by law from delivering the goods until the charges are paid.
+(3) Unless a person claiming the goods is a person against which the document of title does not confer a
+right under section 7503(1), both of the following apply:
+(a) The person claiming under a document shall surrender possession or control of any outstanding
+negotiable document covering the goods for cancellation or indication of partial deliveries.
+(b) The bailee shall cancel the document or conspicuously indicate in the document the partial delivery or
+the bailee is liable to any person to which the document is duly negotiated.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7404 Bailee's delivery in good faith according to document of title.
+Sec. 7404. A bailee that in good faith has received goods and delivered or otherwise disposed of the goods
+according to the terms of a document of title or pursuant to this article is not liable for the goods even if any
+of the following apply:
+(a) The person from which the bailee received the goods did not have authority to procure the document or
+to dispose of the goods.
+(b) The person to which the bailee delivered the goods did not have authority to receive the goods.
+
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+
+PART 5
+
+WAREHOUSE RECEIPTS AND BILLS OF LADING: NEGOTIATION AND TRANSFER
+
+440.7501 Negotiable document of title; indorsement; notice of arrival.
+Sec. 7501. (1) All of the following rules apply to a negotiable tangible document of title:
+(a) If the document's original terms run to the order of a named person, the document is negotiated by the
+named person's indorsement and delivery. After the named person's indorsement in blank or to bearer, any
+person may negotiate the document by delivery alone.
+(b) If the document's original terms run to bearer, it is negotiated by delivery alone.
+(c) If the document's original terms run to the order of a named person and it is delivered to the named
+person, the effect is the same as if the document had been negotiated.
+(d) Negotiation of the document after it has been indorsed to a named person requires indorsement by the
+named person and delivery.
+(e) A document is duly negotiated if it is negotiated in the manner stated in this subsection to a holder that
+purchases it in good faith, without notice of any defense against or claim to it on the part of any person, and
+for value, unless it is established that the negotiation is not in the regular course of business or financing or
+involves receiving the document in settlement or payment of a monetary obligation.
+(2) All of the following rules apply to a negotiable electronic document of title:
+(a) If the document's original terms run to the order of a named person or to bearer, the document is
+negotiated by delivery of the document to another person. Indorsement by the named person is not required to
+negotiate the document.
+(b) If the document's original terms run to the order of a named person and the named person has control of
+the document, the effect is the same as if the document had been negotiated.
+(c) A document is duly negotiated if it is negotiated in the manner stated in this subsection to a holder that
+purchases it in good faith, without notice of any defense against or claim to it on the part of any person, and
+for value, unless it is established that the negotiation is not in the regular course of business or financing or
+involves taking delivery of the document in settlement or payment of a monetary obligation.
+(3) Indorsement of a nonnegotiable document neither makes it negotiable nor adds to the transferee's
+rights.
+(4) The naming in a negotiable bill of a person to be notified of the arrival of the goods does not limit the
+negotiability of the bill or constitute notice to a purchaser of the bill of any interest of that person in the
+goods.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7502 Negotiation; rights acquired.
+Sec. 7502. (1) Subject to sections 7205 and 7503, a holder to which a negotiable document of title is duly
+negotiated acquires all of the following:
+Rendered Wednesday, December 27, 2017 Page 125 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(a) Title to the document.
+(b) Title to the goods.
+(c) All rights accruing under the law of agency or estoppel, including rights to goods delivered to the bailee
+after the document was issued.
+(d) The direct obligation of the issuer to hold or deliver the goods according to the terms of the document
+free of any defense or claim by the issuer except those arising under the terms of the document or under this
+article. However, in the case of a delivery order, the bailee's obligation accrues only upon the bailee's
+acceptance of the delivery order and the obligation acquired by the holder is that the issuer and any indorser
+will procure the acceptance of the bailee.
+(2) Subject to section 7503, title and rights acquired by due negotiation are not defeated by any stoppage of
+the goods represented by the document of title or by surrender of the goods by the bailee and are not impaired
+even if any of the following occur:
+(a) The due negotiation or any prior due negotiation constituted a breach of duty.
+(b) Any person has been deprived of possession of a negotiable tangible document or control of a
+negotiable electronic document by misrepresentation, fraud, accident, mistake, duress, loss, theft, or
+conversion.
+(c) A previous sale or other transfer of the goods or document has been made to a third person.
+
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+
+440.7503 Documents of title to goods; defeat in certain cases.
+Sec. 7503. (1) A document of title confers no right in goods against a person that before issuance of the
+document had a legal interest or a perfected security interest in the goods and that did not do any of the
+following:
+(a) Deliver or entrust the goods or any document of title covering the goods to the bailor or his or her
+nominee with any of the following:
+(i) Actual or apparent authority to ship, store, or sell.
+(ii) Power to obtain delivery under section 7403.
+(iii) Power of disposition under section 2403, 2A304(2), 2A305(2), 9320, or 9321(3) or other statute or
+rule of law.
+(b) Acquiesce in the procurement by the bailor or its nominee of any document.
+(2) Title to goods based upon an unaccepted delivery order is subject to the rights of any person to which a
+negotiable warehouse receipt or bill of lading covering the goods has been duly negotiated. Such a title may
+be defeated under section 7504 to the same extent as the rights of the issuer or a transferee from the issuer.
+(3) Title to goods based upon a bill of lading issued to a freight forwarder is subject to the rights of any
+person to which a bill issued by the freight forwarder is duly negotiated. However, delivery by the carrier in
+accordance with part 4 of this article pursuant to its own bill of lading discharges the carrier's obligation to
+deliver.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7504 Documents of title; transfer by delivery in absence of due negotiation; effect;
+defeat of transfer rights; diversion or change of shipping instructions; stoppage of
+delivery.
+Sec. 7504. (1) A transferee of a document of title, whether negotiable or nonnegotiable, to which the
+document has been delivered but not duly negotiated, acquires the title and rights that its transferor had or had
+actual authority to convey.
+(2) In the case of a transfer of a nonnegotiable document of title, until but not after the bailee receives
+notice of the transfer, the rights of the transferee may be defeated by any of the following:
+(a) By those creditors of the transferor which could treat the transfer as void under section 2402 or 2A308.
+(b) By a buyer from the transferor in ordinary course of business if the bailee has delivered the goods to the
+buyer or received notification of the buyer's rights.
+(c) By a lessee from the transferor in ordinary course of business if the bailee has delivered the goods to
+the lessee or received notification of the lessee's rights.
+(d) As against the bailee, by good-faith dealings of the bailee with the transferor.
+(3) A diversion or other change of shipping instructions by the consignor in a nonnegotiable bill of lading
+which causes the bailee not to deliver the goods to the consignee defeats the consignee's title to the goods if
+the goods have been delivered to a buyer in ordinary course of business or a leasee in ordinary course of
+business and, in any event, defeats the consignee's rights against the bailee.
+(4) Delivery of the goods pursuant to a nonnegotiable document of title may be stopped by a seller under
+Rendered Wednesday, December 27, 2017 Page 126 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+section 2705 or a lessor under section 2A526, subject to the requirements of due notification in those sections.
+A bailee that honors the seller's or lessor's instructions is entitled to be indemnified by the seller or lessor
+against any resulting loss or expense.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7505 Documents of title; liability of indorser.
+Sec. 7505. The indorsement of a tangible document of title issued by a bailee does not make the indorser
+liable for any default by the bailee or by previous indorsers.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7506 Documents of title; delivery without indorsement; right to have indorsement
+supplied.
+Sec. 7506. The transferee of a negotiable tangible document of title has a specifically enforceable right to
+have its transferor supply any necessary indorsement, but the transfer becomes a negotiation only as of the
+time the indorsement is supplied.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7507 Documents of title; warranties on negotiation or delivery for value.
+Sec. 7507. If a person negotiates or delivers a document of title for value, otherwise than as a mere
+intermediary under section 7508, unless otherwise agreed, the transferor, in addition to any warranty made in
+selling or leasing the goods, warrants to its immediate purchaser only the following:
+(a) That the document is genuine.
+(b) That the transferor does not have knowledge of any fact that would impair the document's validity or
+worth.
+(c) That the negotiation or delivery is rightful and fully effective with respect to the title to the document
+and the goods it represents.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7508 Documents of title; warranties of collecting bank.
+Sec. 7508. A collecting bank or other intermediary known to be entrusted with documents of title on behalf
+of another or with collection of a draft or other claim against delivery of documents warrants by the delivery
+of the documents only its own good faith and authority even if the collecting bank or other intermediary has
+purchased or made advances against the claim or draft to be collected.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7509 Documents of title; adequacy as contract for sale, lease, or conditions of a credit.
+Sec. 7509. Whether a document of title is adequate to fulfill the obligations of a contract for sale, a contract
+for lease, or the conditions of a letter of credit is determined by article 2, 2A, or 5.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+PART 6
+
+WAREHOUSE RECEIPTS AND BILLS OF LADING: MISCELLANEOUS PROVISIONS
+
+440.7601 Lost, stolen, or destroyed documents of title; delivery of goods or issuance of
+substitute document; indemnity.
+Sec. 7601. (1) If a document of title is lost, stolen, or destroyed, a court may order delivery of the goods or
+issuance of a substitute document and the bailee may without liability to any person comply with the order. If
+the document was negotiable, a court may not order delivery of the goods or issuance of a substitute
+document without the claimant's posting security unless it finds that any person that may suffer loss as a result
+of nonsurrender of possession or control of the document is adequately protected against the loss. If the
+document was nonnegotiable, the court may require security. The court may also order payment of the bailee's
+reasonable costs and attorney fees in any action under this subsection.
+(2) A bailee that, without a court order, delivers goods to a person claiming under a missing negotiable
+document of title is liable to any person injured by that delivery. If the delivery is not in good faith, the bailee
+is liable for conversion. Delivery in good faith is not conversion if the claimant posts security with the bailee
+in an amount at least double the value of the goods at the time of posting to indemnify any person injured by
+the delivery which files a notice of claim within 1 year after the delivery.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+Rendered Wednesday, December 27, 2017 Page 127 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+440.7602 Judicial process; surrender of document of title; purchaser for value.
+Sec. 7602. Unless a document of title was originally issued upon delivery of the goods by a person that did
+not have power to dispose of them, a lien does not attach by virtue of any judicial process to goods in the
+possession of a bailee for which a negotiable document of title is outstanding unless possession or control of
+the document is first surrendered to the bailee or the document's negotiation is enjoined. The bailee may not
+be compelled to deliver the goods pursuant to process until possession or control of the document is
+surrendered to the bailee or to the court. A purchaser of the document for value without notice of the process
+or injunction takes free of the lien imposed by judicial process.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.7603 Conflicting claims; interpleader.
+Sec. 7603. If more than 1 person claims title to or possession of the goods, the bailee is excused from
+delivery until the bailee has had a reasonable time to ascertain the validity of the adverse claims or to
+commence an action for interpleader. The bailee may assert an interpleader either in defending an action for
+nondelivery of the goods or by original action.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+PART 7
+
+MISCELLANEOUS PROVISIONS
+
+440.7701 Applicability of amendatory act.
+Sec. 7701. (1) The amendatory act that added this section applies to a document of title that is issued or a
+bailment that arises on or after the effective date of that amendatory act.
+(2) The amendatory act that added this section does not apply to a document of title that is issued or a
+bailment that arises before the effective date of that amendatory act even if the document of title or bailment
+would be subject to that amendatory act if the document of title had been issued or bailment had arisen on or
+after the effective date of that amendatory act.
+(3) The amendatory act that added this section does not apply to a right of action that has accrued before
+the effective date of that amendatory act.
+History: Add. 2012, Act 87, Eff. July 1, 2013.
+440.7702 Document of title issued or bailment that arises before effective date of amendatory
+act.
+Sec. 7702. A document of title issued or a bailment that arises before the effective date of the amendatory
+act that added this section and the rights, obligations, and interests flowing from that document or bailment
+are governed by any statute amended or repealed by that amendatory act as if amendment or repeal had not
+occurred and may be terminated, completed, consummated, or enforced under that statute.
+History: Add. 2012, Act 87, Eff. July 1, 2013. 

@@ -1,0 +1,2 @@
+SmartSelector selecciona uno o más de estos contextos válidos para la pregunta:
+   - Uniform Commercial Code

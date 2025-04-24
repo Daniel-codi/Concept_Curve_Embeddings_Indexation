@@ -1,0 +1,1266 @@
+440.9317 Interests that take priority over or take free of unperfected security interest or
+agricultural lien.
+Sec. 9317. (1) A security interest or agricultural lien is subordinate to the rights of 1 or more of the
+following:
+(a) A person entitled to priority under section 9322.
+(b) Except as otherwise provided in subsection (5), a person that becomes a lien creditor before the earlier
+of the following:
+(i) The time the security interest or agricultural lien is perfected.
+(ii) The time 1 of the conditions specified in section 9203(2)(c) is met and a financing statement covering
+the collateral is filed.
+(2) Except as otherwise provided in subsection (5), a buyer, other than a secured party, of tangible chattel
+paper, tangible documents, goods, instruments, or a certificated security takes free of a security interest or
+agricultural lien if the buyer gives value and receives delivery of the collateral without knowledge of the
+security interest or agricultural lien and before it is perfected.
+(3) Except as otherwise provided in subsection (5), a lessee of goods takes free of a security interest or
+agricultural lien if the lessee gives value and receives delivery of the collateral without knowledge of the
+security interest or agricultural lien and before it is perfected.
+(4) A licensee of a general intangible or a buyer, other than a secured party, of collateral other than
+tangible chattel paper, tangible documents, goods, instruments, or a certificated security takes free of a
+security interest if the licensee or buyer gives value without knowledge of the security interest and before it is
+perfected.
+(5) Except as otherwise provided in sections 9320 and 9321, if a person files a financing statement with
+respect to a purchase-money security interest before or within 20 days after the debtor receives delivery of the
+collateral, the security interest takes priority over the rights of a buyer, lessee, or lien creditor that arise
+between the time the security interest attaches and the time of filing.
+Rendered Wednesday, December 27, 2017 Page 168 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.9318 No interest retained in right to payment that is sold; rights and title of seller of
+account or chattel paper with respect to creditors and purchasers.
+Sec. 9318. (1) A debtor that has sold an account, chattel paper, payment intangibles, or promissory note
+does not retain a legal or equitable interest in the collateral sold.
+(2) For purposes of determining the rights of creditors of, and purchasers for value of an account or chattel
+paper from, a debtor that has sold an account or chattel paper, while the buyer's security interest is
+unperfected, the debtor is deemed to have rights and title to the account or chattel paper identical to those the
+debtor sold.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+440.9319 Rights and title of consignee with respect to creditors and purchasers.
+Sec. 9319. (1) Except as otherwise provided in subsection (2), for purposes of determining the rights of
+creditors of, and purchasers for value of goods from, a consignee, while the goods are in the possession of the
+consignee, the consignee is deemed to have rights and title to the goods identical to those the consignor had or
+had power to transfer.
+(2) For purposes of determining the rights of a creditor of a consignee, law other than this article
+determines the rights and title of a consignee while goods are in the consignee's possession if, under this part,
+a perfected security interest held by the consignor would have priority over the rights of the creditor.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9320 Buyer of goods.
+Sec. 9320. (1) Except as otherwise provided in subsection (5), a buyer in ordinary course of business, other
+than a person buying farm products from a person engaged in farming operations, takes free of a security
+interest created by the buyer's seller, even if the security interest is perfected and the buyer knows of its
+existence.
+(2) Except as otherwise provided in subsection (5), a buyer of goods from a person who used or bought the
+goods for use primarily for personal, family, or household purposes takes free of a security interest, even if
+perfected, if the buyer buys without knowledge of the security interest, for value, primarily for the buyer's
+personal, family, or household purposes, and before the filing of a financing statement covering the goods.
+(3) To the extent that it affects the priority of a security interest over a buyer of goods under subsection (2),
+the period of effectiveness of a filing made in the jurisdiction in which the seller is located is governed by
+section 9316(1) and (2).
+(4) A buyer in ordinary course of business buying oil, gas, or other minerals at the wellhead or minehead
+or after extraction takes free of an interest arising out of an encumbrance.
+(5) Subsections (1) and (2) do not affect a security interest in goods in the possession of the secured party
+under section 9313.
+(6) Subsections (7) to (14) shall apply in the case of a person buying farm products from a person engaged
+in farming operations.
+(7) If requested by the secured party, a debtor engaged in farming operations who gives a security interest
+in farm products shall provide to the secured party a written list identifying potential buyers and points of
+delivery of the farm products. Except as otherwise provided by subsection (8), the number of potential buyers
+for each commodity shall not exceed 5. If a potential buyer has more than 1 point of delivery, each additional
+point of delivery shall be counted as a potential buyer.
+(8) A debtor engaged in farming operations who provides a written list of potential buyers to a secured
+party pursuant to subsection (7) shall not sell farm products that secure the debt to a buyer who is not
+identified on the list without the prior written consent of the secured party. A person who knowingly or
+intentionally violates this subsection is guilty of a felony, punishable by imprisonment for not more than 3
+years or a fine of not more than $10,000.00, or both. If appropriate given the facts and circumstances of the
+case, the court shall place the person on probation upon the condition that restitution be made to the secured
+party. Payment of, or application of the proceeds to, the debt upon which the security interest is based is an
+absolute defense to a prosecution under this subsection if the payment or application is made prior to
+commencement of prosecution.
+(9) A secured party who is provided with a written list of potential buyers pursuant to subsection (7) may
+notify buyers identified on the list of the security interest as provided in this subsection. A secured party shall
+not notify a person not identified on the list, except that the secured party may notify a buyer concerning
+whom the secured party has given prior written consent pursuant to subsection (8) or to whom the secured
+Rendered Wednesday, December 27, 2017 Page 169 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+party has reasonable cause to believe the debtor is about to sell the farm products. A notice provided pursuant
+to this subsection shall be in writing and shall be mailed by certified mail or delivered by another method by
+which receipt can be verified. The notice may be in a form agreed upon in writing by the buyer and the
+secured party, but in absence of such an agreement the notice shall be an original financing statement or a
+carbon, photographic, or other reproduction of an original or a statement that contains all of the following:
+(a) The full name and address of the debtor.
+(b) The full name and address of the secured party.
+(c) A description of the collateral.
+(d) The date and location of the filing of the security interest.
+(e) The date and signature of the secured party.
+(10) If the debt that is the basis of the security interest is satisfied, the secured party shall notify in writing
+each potential buyer to whom the secured party sent notice under subsection (9). The notice may be given
+within a time period agreed upon in writing by the buyer and the secured party, but in absence of such an
+agreement the notice shall be given within 11 days after the debt is satisfied.
+(11) A secured party who does any of the following is guilty of a misdemeanor, punishable by
+imprisonment for not more than 90 days or a fine of not more than $1,000.00, or both:
+(a) Knowingly or intentionally gives false or misleading information in a notice provided pursuant to
+subsection (9).
+(b) Sends notice to a potential buyer other than as permitted in subsection (9).
+(c) Fails to notify a potential buyer of the satisfaction of a debt within the time period prescribed by
+subsection (10).
+(12) A buyer of farm products who receives notice pursuant to subsection (9) of a security interest in the
+farm products shall make payment for the farm products by check or other instrument made payable to the
+seller and the secured party jointly, except that payment may be made directly to the secured party if
+authorized in writing by the seller. This subsection does not apply to any payment or partial payment made
+before notice under subsection (9) has been received by the buyer. A buyer of farm products who violates this
+subsection is guilty of a misdemeanor, punishable by imprisonment for not more than 90 days or a fine of not
+more than $1,000.00, or both. Payment of the debt upon which the security interest is based is an absolute
+defense to a prosecution under this subsection if payment is made prior to commencement of prosecution.
+(13) As used in subsections (6) to (12), “person buying farm products” or “buyer” includes a commission
+merchant or selling agent who sells farm products in the ordinary course of business for a person engaged in
+farming operations.
+(14) A buyer in ordinary course of business who receives notice pursuant to subsection (9), who buys farm
+products from a person engaged in farming operations, and who withholds all or part of the proceeds of the
+sale from the seller in order to satisfy a debt owed by the seller to the buyer, takes subject to a security interest
+in those farm products created by the seller, unless the debt owed by the seller to the buyer was secured by a
+prior perfected security interest. For purposes of this subsection, “debt” does not include the cost of
+harvesting; processing, including packaging, freezing, canning, and drying; storing; marketing; or transporting
+farm products to market.
+(15) Except as otherwise provided by subsection (16), a commission merchant or selling agent who sells
+farm products, in the ordinary course of business, for a person engaged in farming operations is not liable to
+the holder of a security interest in those farm products even though the security interest is perfected and even
+though the commission merchant or selling agent knows of its existence.
+(16) A commission merchant or selling agent who sells farm products, in the ordinary course of business,
+for a person engaged in farming operations, and who receives notice pursuant to subsection (9), shall not be
+protected from liability under subsection (15) if the commission merchant or selling agent withholds from the
+seller all or part of the proceeds of a sale of the farm products in order to satisfy a debt owed by the seller to
+the commission merchant or selling agent, unless the debt was secured by a prior perfected security interest.
+For purposes of this subsection, “debt” does not include the cost of harvesting; processing, including
+packaging, freezing, canning, and drying; storing; marketing; or transporting farm products to market.
+(17) A prosecution under subsections (12) to (14) shall not be commenced after the expiration of 2 years
+following the date the violation occurred.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9321 Licensee of general intangible and lessee of goods in ordinary course of business.
+Sec. 9321. (1) As used in this section, “licensee in ordinary course of business” means a person that
+becomes a licensee of a general intangible in good faith, without knowledge that the license violates the rights
+of another person in the general intangible, and in the ordinary course from a person in the business of
+Rendered Wednesday, December 27, 2017 Page 170 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+licensing general intangibles of that kind. A person becomes a licensee in the ordinary course if the license to
+the person comports with the usual or customary practices in the kind of business in which the licensor is
+engaged or with the licensor's own usual or customary practices.
+(2) A licensee in ordinary course of business takes its rights under a nonexclusive license free of a security
+interest in the general intangible created by the licensor, even if the security interest is perfected and the
+licensee knows of its existence.
+(3) A lessee in ordinary course of business takes its leasehold interest free of a security interest in the
+goods created by the lessor, even if the security interest is perfected and the lessee knows of its existence.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9322 Priorities among conflicting security interests in and agricultural liens on same
+collateral.
+Sec. 9322. (1) Except as otherwise provided in this section, priority among conflicting security interests
+and agricultural liens in the same collateral is determined according to the following rules:
+(a) Conflicting perfected security interests and agricultural liens rank according to priority in time of filing
+or perfection. Priority dates from the earlier of the time a filing covering the collateral is first made or the
+security interest or agricultural lien is first perfected, if there is no period thereafter when there is neither
+filing nor perfection.
+(b) A perfected security interest or agricultural lien has priority over a conflicting unperfected security
+interest or agricultural lien.
+(c) The first security interest or agricultural lien to attach or become effective has priority if conflicting
+security interests and agricultural liens are unperfected.
+(2) For the purposes of subsection (1)(a), both of the following apply:
+(a) The time of filing or perfection as to a security interest in collateral is also the time of filing or
+perfection as to a security interest in proceeds.
+(b) The time of filing of perfection as to a security interest in collateral supported by a supporting
+obligation is also the time of filing or perfection as to a security interest in the supporting obligation.
+(3) Except as otherwise provided in subsection (6), a security interest in collateral that qualifies for priority
+over a conflicting security interest under section 9327, 9328, 9329, 9330, or 9331 also has priority over a
+conflicting security interest in 1 or more of the following:
+(a) Any supporting obligation for the collateral.
+(b) Proceeds of the collateral if all of the following are met:
+(i) The security interest in proceeds is perfected.
+(ii) The proceeds are cash proceeds or of the same type as the collateral.
+(iii) In the case of proceeds that are proceeds of proceeds, all intervening proceeds are cash proceeds,
+proceeds of the same type as the collateral, or an account relating to the collateral.
+(4) Subject to subsection (5) and except as otherwise provided in subsection (6), if a security interest in
+chattel paper, deposit accounts, negotiable documents, instruments, investment property, or letter-of-credit
+rights is perfected by a method other than filing, conflicting perfected security interests in proceeds of the
+collateral rank according to priority in time of filing.
+(5) Subsection (4) applies only if the proceeds of the collateral are not cash proceeds, chattel paper,
+negotiable documents, instruments, investment property, or letter-of-credit rights.
+(6) Subsections (1) through (5) are subject to all of the following:
+(a) Subsection (7) and the other provisions of this part.
+(b) Section 4210 with respect to a security interest of a collecting bank.
+(c) Section 5118 with respect to a security interest of an issuer or nominated person.
+(d) Section 9110 with respect to a security interest arising under article 2 or 2A.
+(7) A perfected agricultural lien on collateral has priority over a conflicting security interest in or
+agricultural lien on the same collateral if the statute creating the agricultural lien so provides.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9323 Future advances.
+Sec. 9323. (1) Except as otherwise provided in subsection (3), for purposes of determining the priority of a
+perfected security interest under section 9322(1)(a), perfection of the security interest dates from the time an
+advance is made to the extent that the security interest secures an advance that meets both of the following:
+(a) Is made while the security interest is perfected only under 1 of the following:
+(i) Under section 9309 when it attaches.
+(ii) Temporarily under section 9312(5), (6), or (7).
+Rendered Wednesday, December 27, 2017 Page 171 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(b) Is not made pursuant to a commitment entered into before or while the security interest is perfected by
+a method other than under section 9309 or 9312(5), (6), or (7).
+(2) Except as otherwise provided in subsection (3), a security interest is subordinate to the rights of a
+person that becomes a lien creditor to the extent that the security interest secures an advance made more than
+45 days after the person becomes a lien creditor unless the advance is made without knowledge of the lien, or
+pursuant to a commitment entered into without knowledge of the lien.
+(3) Subsections (1) and (2) do not apply to a security interest held by a secured party that is a buyer of
+accounts, chattel paper, payment intangibles, or promissory notes or a consignor.
+(4) Except as otherwise provided in subsection (5), a buyer of goods other than a buyer in ordinary course
+of business takes free of a security interest to the extent that it secures advances made after the earlier of the
+following:
+(a) The time the secured party acquires knowledge of the buyer's purchase.
+(b) Forty-five days after the purchase.
+(5) Subsection (4) does not apply if the advance is made pursuant to a commitment entered into without
+knowledge of the buyer's purchase and before the expiration of the 45-day period.
+(6) Except as otherwise provided in subsection (7), a lessee of goods, other than a lessee in ordinary course
+of business, takes the leasehold interest free of a security interest to the extent that it secures advances made
+after the earlier of the following:
+(a) The time the secured party acquires knowledge of the lease.
+(b) Forty-five days after the lease contract becomes enforceable.
+(7) Subsection (6) does not apply if the advance is made pursuant to a commitment entered into without
+knowledge of the lease and before the expiration of the 45-day period.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9324 Priority of purchase-money security interests.
+Sec. 9324. (1) Except as otherwise provided in subsection (7), a perfected purchase-money security interest
+in goods other than inventory or livestock has priority over a conflicting security interest in the same goods,
+and, except as otherwise provided in section 9327, a perfected security interest in its identifiable proceeds also
+has priority, if the purchase-money security interest is perfected when the debtor receives possession of the
+collateral or within 20 days thereafter.
+(2) Subject to subsection (3) and except as otherwise provided in subsection (7), a perfected
+purchase-money security interest in inventory has priority over a conflicting security interest in the same
+inventory, has priority over a conflicting security interest in chattel paper or an instrument constituting
+proceeds of the inventory and in proceeds of the chattel paper, if so provided in section 9330, and, except as
+otherwise provided in section 9327, also has priority in identifiable cash proceeds of the inventory to the
+extent the identifiable cash proceeds are received on or before the delivery of the inventory to a buyer, if all of
+the following are met:
+(a) The purchase-money security interest is perfected when the debtor receives possession of the inventory.
+(b) The purchase-money secured party sends an authenticated notification to the holder of the conflicting
+security interest.
+(c) The holder of the conflicting security interest receives the notification within 5 years before the debtor
+receives possession of the inventory.
+(d) The notification states that the person sending the notification has or expects to acquire a
+purchase-money security interest in inventory of the debtor and describes the inventory.
+(3) Subsection (2)(b) through (d) apply only if the holder of the conflicting security interest had filed a
+financing statement covering the same types of inventory before 1 of the following:
+(a) If the purchase-money security interest is perfected by filing, before the date of the filing.
+(b) If the purchase-money security interest is temporarily perfected without filing or possession under
+section 9312(6), before the beginning of the 20-day period thereunder.
+(4) Subject to subsection (5) and except as otherwise provided in subsection (7), a perfected
+purchase-money security interest in livestock that are farm products has priority over a conflicting security
+interest in the same livestock, and, except as otherwise provided in section 9327, a perfected security interest
+in their identifiable proceeds and identifiable products in their unmanufactured states also has priority, if all of
+the following are met:
+(a) The purchase-money security interest is perfected when the debtor receives possession of the livestock.
+(b) The purchase-money secured party sends an authenticated notification to the holder of the conflicting
+security interest.
+(c) The holder of the conflicting security interest receives the notification within 6 months before the
+Rendered Wednesday, December 27, 2017 Page 172 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+debtor receives possession of the livestock.
+(d) The notification states that the person sending the notification has or expects to acquire a
+purchase-money security interest in livestock of the debtor and describes the livestock.
+(5) Subsection (4)(b) through (d) apply only if the holder of the conflicting security interest had filed a
+financing statement covering the same types of livestock before 1 of the following:
+(a) If the purchase-money security interest is perfected by filing, before the date of the filing.
+(b) If the purchase-money security interest is temporarily perfected without filing or possession under
+section 9312(6), before the beginning of the 20-day period thereunder.
+(6) Except as otherwise provided in subsection (7), a perfected purchase-money security interest in
+software has priority over a conflicting security interest in the same collateral, and, except as otherwise
+provided in section 9327, a perfected security interest in its identifiable proceeds also has priority, to the
+extent that the purchase-money security interest in the goods in which the software was acquired for use has
+priority in the goods and proceeds of the goods under this section.
+(7) If more than 1 security interest qualifies for priority in the same collateral under subsection (1), (2), (4),
+or (6), 1 of the following applies:
+(a) A security interest securing an obligation incurred as all or part of the price of the collateral has priority
+over a security interest securing an obligation incurred for value given to enable the debtor to acquire rights in
+or the use of collateral.
+(b) In all other cases, section 9322(1) applies to the qualifying security interest.
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+
+440.9325 Priority of security interests in transferred collateral.
+Sec. 9325. (1) Except as otherwise provided in subsection (2), a security interest created by a debtor is
+subordinate to a security interest in the same collateral created by another person if all of the following are
+met:
+(a) The debtor acquired the collateral subject to the security interest created by the other person.
+(b) The security interest created by the other person was perfected when the debtor acquired the collateral.
+(c) There is no period thereafter when the security interest is unperfected.
+(2) Subsection (1) subordinates a security interest only if the security interest otherwise would have
+priority solely under section 9322(1) or 9324, or arose solely under section 2711(3) or 2A508(5).
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9326 Priority of security interests created by new debtor.
+Sec. 9326. (1) Subject to subsection (2), a security interest that is created by a new debtor in collateral in
+which the new debtor has or acquires rights and is perfected solely by a filed financing statement that would
+be ineffective to perfect the security interest but for the application of section 9316(9)(a) or 9508 is
+subordinate to a security interest in the same collateral that is perfected other than by such a filed financing
+statement.
+(2) The other provisions of this part determine the priority among conflicting security interests in the same
+collateral perfected by filed financing statements described in subsection (1). However, if the security
+agreements to which a new debtor became bound as debtor were not entered into by the same original debtor,
+the conflicting security interests rank according to priority in time of the new debtor's having become bound.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 88, Eff. July 1, 2013.
+440.9327 Priority of security interests in deposit account.
+Sec. 9327. The following rules govern priority among conflicting security interests in the same deposit
+account:
+(a) A security interest held by a secured party having control of the deposit account under section 9104 has
+priority over a conflicting security interest held by a secured party that does not have control.
+(b) Except as otherwise provided in subdivisions (c) and (d), security interests perfected by control under
+section 9314 rank according to priority in time of obtaining control.
+(c) Except as otherwise provided in subdivision (d), a security interest held by the bank with which the
+deposit account is maintained has priority over a conflicting security interest held by another secured party.
+(d) A security interest perfected by control under section 9104(1)(c) has priority over a security interest
+held by the bank with which the deposit account is maintained.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9328 Priority of security interests in investment property.
+Rendered Wednesday, December 27, 2017 Page 173 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+Sec. 9328. The following rules govern priority among conflicting security interests in the same investment
+property:
+(a) A security interest held by a secured party having control of investment property under section 9106
+has priority over a security interest held by a secured party that does not have control of the investment
+property.
+(b) Except as otherwise provided in subdivisions (c) and (d), conflicting security interests held by secured
+parties each of which has control under section 9106 rank according to priority in time of 1 of the following:
+(i) If the collateral is a security, obtaining control.
+(ii) If the collateral is a security entitlement carried in a securities account, according to 1 of the following:
+(A) If the secured party obtained control under section 8106(4)(a), the secured party's becoming the person
+for which the securities account is maintained.
+(B) If the secured party obtained control under section 8106(4)(b), the securities intermediary's agreement
+to comply with the secured party's entitlement orders with respect to security entitlements carried or to be
+carried in the securities account.
+(C) If the secured party obtained control through another person under section 8106(4)(c), the time on
+which priority would be based under this paragraph if the other person were the secured party.
+(iii) If the collateral is a commodity contract carried with a commodity intermediary, the satisfaction of the
+requirement for control specified in section 9106(2)(b) with respect to commodity contracts carried or to be
+carried with the commodity intermediary.
+(c) A security interest held by a securities intermediary in a security entitlement or a securities account
+maintained with the securities intermediary has priority over a conflicting security interest held by another
+secured party.
+(d) A security interest held by a commodity intermediary in a commodity contract or a commodity account
+maintained with the commodity intermediary has priority over a conflicting security interest held by another
+secured party.
+(e) A security interest in a certificated security in registered form that is perfected by taking delivery under
+section 9313(1) and not by control under section 9314 has priority over a conflicting security interest
+perfected by a method other than control.
+(f) Conflicting security interests created by a broker, securities intermediary, or commodity intermediary
+that are perfected without control under section 9106 rank equally.
+(g) In all other cases, priority among conflicting security interests in investment property is governed by
+sections 9322 and 9323.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9329 Priority of security interests in letter-of-credit right.
+Sec. 9329. The following rules govern priority among conflicting security interests in the same
+letter-of-credit right:
+(a) A security interest held by a secured party having control of the letter-of-credit right under section 9107
+has priority to the extent of its control over a conflicting security interest held by a secured party that does not
+have control.
+(b) Security interests perfected by control under section 9314 rank according to priority in time of
+obtaining control.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9330 Priority of purchaser of chattel paper or instrument.
+Sec. 9330. (1) A purchaser of chattel paper has priority over a security interest in the chattel paper that is
+claimed merely as proceeds of inventory subject to a security interest if both of the following are met:
+(a) In good faith and in the ordinary course of the purchaser's business, the purchaser gives new value and
+takes possession of the chattel paper or obtains control of the chattel paper under section 9105.
+(b) The chattel paper does not indicate that it has been assigned to an identified assignee other than the
+purchaser.
+(2) A purchaser of chattel paper has priority over a security interest in the chattel paper that is claimed
+other than merely as proceeds of inventory subject to a security interest if the purchaser gives new value and
+takes possession of the chattel paper or obtains control of the chattel paper under section 9105 in good faith,
+in the ordinary course of the purchaser's business, and without knowledge that the purchase violates the rights
+of the secured party.
+(3) Except as otherwise provided in section 9327, a purchaser having priority in chattel paper under
+subsection (1) or (2) also has priority in proceeds of the chattel paper to the extent that section 9322 provides
+Rendered Wednesday, December 27, 2017 Page 174 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+for priority in the proceeds, or the proceeds consist of the specific goods covered by the chattel paper or cash
+proceeds of the specific goods, even if the purchaser's security interest in the proceeds is unperfected.
+(4) Except as otherwise provided in section 9331(1), a purchaser of an instrument has priority over a
+security interest in the instrument perfected by a method other than possession if the purchaser gives value
+and takes possession of the instrument in good faith and without knowledge that the purchase violates the
+rights of the secured party.
+(5) For purposes of subsections (1) and (2), the holder of a purchase-money security interest in inventory
+gives new value for chattel paper constituting proceeds of the inventory.
+(6) For purposes of subsections (2) and (4), if chattel paper or an instrument indicates that it has been
+assigned to an identified secured party other than the purchaser, a purchaser of the chattel paper or instrument
+has knowledge that the purchase violates the rights of the secured party.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9331 Priority of rights of purchasers of instruments, documents, and securities under
+other articles; priority of interests in financial assets and security entitlements under
+article 8.
+Sec. 9331. (1) This article does not limit the rights of a holder in due course of a negotiable instrument, a
+holder to which a negotiable document of title has been duly negotiated, or a protected purchaser of a
+security. These holders or purchasers take priority over an earlier security interest, even if perfected, to the
+extent provided in articles 3, 7, and 8.
+(2) This article does not limit the rights of or impose liability on a person to the extent that the person is
+protected against the assertion of a claim under article 8.
+(3) Filing under this article does not constitute notice of a claim or defense to the holders, or purchasers, or
+persons described in subsections (1) and (2).
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9332 Transfer of money; transfer of funds from deposit account.
+Sec. 9332. (1) A transferee of money takes the money free of a security interest unless the transferee acts
+in collusion with the debtor in violating the rights of the secured party.
+(2) A transferee of funds from a deposit account takes the funds free of a security interest in the deposit
+account unless the transferee acts in collusion with the debtor in violating the rights of the secured party.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9333 Priority of certain liens arising by operation of law.
+Sec. 9333. (1) As used in this section, “possessory lien” means an interest, other than a security interest or
+an agricultural lien, that meets all of the following:
+(a) It secures payment or performance of an obligation for services or materials furnished with respect to
+goods by a person in the ordinary course of the person's business.
+(b) It is created by statute or rule of law in favor of the person.
+(c) Its effectiveness depends on the person's possession of the goods.
+(2) A possessory lien on goods has priority over a security interest in the goods unless the lien is created by
+a statute that expressly provides otherwise.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9334 Priority of security interests in fixtures and crops.
+Sec. 9334. (1) A security interest under this article may be created in goods that are fixtures or may
+continue in goods that become fixtures. A security interest does not exist under this article in ordinary
+building materials incorporated into an improvement on land.
+(2) This article does not prevent creation of an encumbrance upon fixtures under real property law.
+(3) In cases not governed by subsections (4) through (8), a security interest in fixtures is subordinate to a
+conflicting interest of an encumbrancer or owner of the related real property other than the debtor.
+(4) Except as otherwise provided in subsection (8), a perfected security interest in fixtures has priority over
+a conflicting interest of an encumbrancer or owner of the real property if the debtor has an interest of record
+in or is in possession of the real property and all of the following are met:
+(a) The security interest is a purchase-money security interest.
+(b) The interest of the encumbrancer or owner arises before the goods become fixtures.
+(c) The security interest is perfected by a fixture filing before the goods become fixtures or within 20 days
+thereafter.
+Rendered Wednesday, December 27, 2017 Page 175 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(5) A perfected security interest in fixtures has priority over a conflicting interest of an encumbrancer or
+owner of the real property in each of the following circumstances:
+(a) If the debtor has an interest of record in the real property or is in possession of the real property, and the
+security interest is perfected by a fixture filing before the interest of the encumbrancer or owner is of record
+and has priority over any conflicting interest of a predecessor in title of the encumbrancer or owner.
+(b) If before the goods become fixtures, the security interest is perfected by any method permitted by this
+article and the fixtures are readily removable factory or office machines, readily removable equipment that is
+not primarily used or leased for use in the operation of the real property, or readily removable replacements of
+domestic appliances that are consumer goods.
+(c) If the conflicting interest is a lien on the real property obtained by legal or equitable proceedings after
+the security interest was perfected by any method permitted by this article.
+(d) If the security interest is created in a manufactured home in a manufactured-home transaction and
+perfected pursuant to a statute described in section 9311(1)(b).
+(6) A security interest in fixtures, whether or not perfected, has priority over a conflicting interest of an
+encumbrancer or owner of the real property if either of the following is met:
+(a) The encumbrancer or owner has, in an authenticated record, consented to the security interest or
+disclaimed an interest in the goods as fixtures.
+(b) The debtor has a right to remove the goods as against the encumbrancer or owner.
+(7) The priority of the security interest under subsection (6)(b) continues for a reasonable time if the
+debtor's right to remove the goods as against the encumbrancer or owner terminates.
+(8) A mortgage is a construction mortgage to the extent that it secures an obligation incurred for the
+construction of an improvement on land, including the acquisition cost of the land, if a recorded record of the
+mortgage so indicates. Except as otherwise provided in subsections (5) and (6), a security interest in fixtures
+is subordinate to a construction mortgage if a record of the mortgage is recorded before the goods become
+fixtures and the goods become fixtures before the completion of the construction. A mortgage has this priority
+to the same extent as a construction mortgage to the extent that it is given to refinance a construction
+mortgage.
+(9) A perfected security interest in crops growing on real property has priority over a conflicting interest of
+an encumbrancer or owner of the real property if the debtor has an interest or record in or is in possession of
+the real property.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9335 Accessions.
+Sec. 9335. (1) A security interest may be created in an accession and continues in collateral that becomes
+an accession.
+(2) If a security interest is perfected when the collateral becomes an accession, the security interest remains
+perfected in the collateral.
+(3) Except as otherwise provided in subsection (4), the other provisions of this part determine the priority
+of a security interest in an accession.
+(4) A security interest in an accession is subordinate to a security interest in the whole which is perfected
+by compliance with the requirements of a certificate-of-title statute under section 9311(2).
+(5) After default, subject to part 6 of this article, a secured party may remove an accession from other
+goods if the security interest in the accession has priority over the claims of every person having an interest in
+the whole.
+(6) A secured party that removes an accession from other goods under subsection (5) shall promptly
+reimburse any holder of a security interest or other lien on, or owner of, the whole or of the other goods, other
+than the debtor, for the cost of repair of any physical injury to the whole or the other goods. The secured party
+need not reimburse the holder or owner for any diminution in value of the whole or the other goods caused by
+the absence of the accession removed or by any necessity for replacing it. A person entitled to reimbursement
+may refuse permission to remove until the secured party gives adequate assurance for the performance of the
+obligation to reimburse.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9336 Commingled goods.
+Sec. 9336. (1) As used in this section, “commingled goods” means goods that are physically united with
+other goods in such a manner that their identity is lost in a product or mass.
+(2) A security interest does not exist in commingled goods as such. However, a security interest may attach
+to a product or mass that results when goods become commingled goods.
+Rendered Wednesday, December 27, 2017 Page 176 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(3) If collateral becomes commingled goods, a security interest attaches to the product or mass.
+(4) If a security interest in collateral is perfected before the collateral becomes commingled goods, the
+security interest that attaches to the product or mass under subsection (3) is perfected.
+(5) Except as otherwise provided in subsection (6), the other provisions of this part determine the priority
+of a security interest that attaches to the product or mass under subsection (3).
+(6) If more than 1 security interest attaches to the product or mass under subsection (3), the following rules
+determine priority:
+(a) A security interest that is perfected under subsection (4) has priority over a security interest that is
+unperfected at the time the collateral becomes commingled goods.
+(b) If more than 1 security interest is perfected under subsection (4), the security interests rank equally in
+proportion to the value of the collateral at the time it became commingled goods.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9337 Priority of security interests in goods covered by certificate of title.
+Sec. 9337. If, while a security interest in goods is perfected by any method under the law of another
+jurisdiction, this state issues a certificate of title that does not show that the goods are subject to the security
+interest or contain a statement that they may be subject to security interests not shown on the certificate, both
+of the following apply:
+(a) A buyer of the goods, other than a person in the business of selling goods of that kind, takes free of the
+security interest if the buyer gives value and receives delivery of the goods after issuance of the certificate and
+without knowledge of the security interest.
+(b) The security interest is subordinate to a conflicting security interest in the goods that attaches, and is
+perfected under section 9311(2), after issuance of the certificate and without the conflicting secured party's
+knowledge of the security interests.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9338 Priority of security interests or agricultural lien perfected by filed financing
+statement providing certain incorrect information.
+Sec. 9338. If a security interest or agricultural lien is perfected by a filed financing statement providing
+information described in section 9516(2)(e) that is incorrect at the time the financing statement is filed, all of
+the following apply:
+(a) The security interest or agricultural lien is subordinate to a conflicting perfected security interest in the
+collateral to the extent that the holder of the conflicting security interest gives value in reasonable reliance
+upon the incorrect information.
+(b) A purchaser, other than a secured party, of the collateral takes free of the security interest or
+agricultural lien to the extent that, in reasonable reliance upon the incorrect information, the purchaser gives
+value and, in the case of tangible chattel paper, tangible documents, goods, instruments, or a security
+certificate, receives delivery of the collateral.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 87, Eff. July 1, 2013.
+440.9339 Priority subject to subordination.
+Sec. 9339. This article does not preclude subordination by agreement by a person entitled to priority.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+SUBPART 4.
+
+RIGHTS OF BANK
+
+440.9340 Effectiveness of right of recoupment or setoff against deposit account.
+Sec. 9340. (1) Except as otherwise provided in subsection (3), a bank with which a deposit account is
+maintained may exercise any right of recoupment or setoff against a secured party that holds a security
+interest in the deposit account.
+(2) Except as otherwise provided in subsection (3), the application of this article to a security interest in a
+deposit account does not affect a right of recoupment or setoff of the secured party as to a deposit account
+maintained with the secured party.
+(3) The exercise by a bank of a setoff against a deposit account is ineffective against a secured party that
+holds a security interest in the deposit account that is perfected by control under section 9104(1)(c), if the
+setoff is based on a claim against the debtor.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+Rendered Wednesday, December 27, 2017 Page 177 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+440.9341 Bank's rights and duties with respect to deposit account.
+Sec. 9341. Except as otherwise provided in section 9340(3), and unless the bank otherwise agrees in an
+authenticated record, a bank's rights and duties with respect to a deposit account maintained with the bank are
+not terminated, suspended, or modified by 1 or more of the following:
+(a) The creation, attachment, or perfection of a security interest in the deposit account.
+(b) The bank's knowledge of the security interest.
+(c) The bank's receipt of instructions from the secured party.
+
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+
+440.9342 Bank's right to refuse to enter into or disclose existence of control agreement.
+Sec. 9342. This article does not require a bank to enter into an agreement of the kind described in section
+9104(1)(b), even if its customer so requests or directs. A bank that has entered into such an agreement is not
+required to confirm the existence of the agreement to another person unless requested to do so by its
+customer.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+PART 4
+
+RIGHTS OF THIRD PARTIES
+
+440.9401 Alienability of debtor's rights.
+Sec. 9401. (1) Except as otherwise provided in subsection (2) and sections 9406, 9407, 9408, and 9409,
+whether a debtor's rights in collateral may be voluntarily or involuntarily transferred is governed by law other
+than this article.
+(2) An agreement between the debtor and secured party that prohibits a transfer of the debtor's rights in
+collateral or makes the transfer a default does not prevent the transfer from taking effect.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1964, Act 250, Eff. Aug. 28, 1964;⎯Am. 1976, Act 27, Imd. Eff. Mar. 4, 1976;⎯
+Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 1980, Act 53, Imd. Eff. Mar. 27, 1980;⎯Am. 1990, Act 288, Imd. Eff. Dec. 14, 1990;⎯
+Am. 2000, Act 348, Eff. July 1, 2001.
+440.9402 Secured party not obligated on contract of debtor or in tort.
+Sec. 9402. The existence of a security interest, agricultural lien, or authority given to a debtor to dispose of
+or use collateral, without more, does not subject a secured party to liability in contract or tort for the debtor's
+acts or omissions.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 1980, Act 53, Imd. Eff. Mar. 27, 1980;⎯
+Am. 1988, Act 130, Eff. Sept. 1, 1988;⎯Am. 1989, Act 216, Imd. Eff. Nov. 27, 1989;⎯Am. 1998, Act 489, Imd. Eff. Jan. 4, 1999;⎯
+Am. 2000, Act 348, Eff. July 1, 2001.
+440.9403 Agreement not to assert defenses against assignee.
+Sec. 9403. (1) As used in this section, “value” has the meaning provided in section 3303(1).
+(2) Except as otherwise provided in this section, an agreement between an account debtor and an assignor
+not to assert against an assignee any claim or defense that the account debtor may have against the assignor is
+enforceable by an assignee that takes an assignment for value, in good faith, without notice of a claim of a
+property or possessory right to the property assigned, and without notice of a defense or claim in recoupment
+of the type that may be asserted against a person entitled to enforce a negotiable instrument under section
+3305(1).
+(3) Subsection (2) does not apply to defenses of a type that may be asserted against a holder in due course
+of a negotiable instrument under section 3305(2).
+(4) In a consumer transaction, if a record evidences the account debtor's obligation, law other than this
+article requires that the record include a statement to the effect that the rights of an assignee are subject to
+claims or defenses that the account debtor could assert against the original obligee, and the record does not
+include such a statement, all of the following apply:
+(a) The record has the same effect as if the record included such a statement.
+(b) The account debtor may assert against an assignee those claims and defenses that would have been
+available if the record included such a statement.
+(5) This section is subject to law other than this article that establishes a different rule for an account
+debtor who is an individual and who incurred the obligation primarily for personal, family, or household
+purposes.
+(6) Except as otherwise provided in subsection (4), this section does not displace law other than this article
+Rendered Wednesday, December 27, 2017 Page 178 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+that gives effect to an agreement by an account debtor not to assert a claim or defense against an assignee.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1964, Act 250, Eff. Aug. 28, 1964;⎯Am. 1969, Act 74, Imd. Eff. July 21, 1969;⎯
+Am. 1976, Act 27, Imd. Eff. Mar. 4, 1976;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 1980, Act 53, Imd. Eff. Mar. 27, 1980;⎯Am.
+1988, Act 130, Eff. Sept. 1, 1988;⎯Am. 1992, Act 186, Imd. Eff. Oct. 5, 1992;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+440.9404 Rights acquired by assignee; claims and defenses against assignee.
+Sec. 9404. (1) Unless an account debtor has made an enforceable agreement not to assert defenses or
+claims, and subject to subsections (2) through (5), the rights of an assignee are subject to all of the following:
+(a) All terms of the agreement between the account debtor and assignor and any defense or claim in
+recoupment arising from the transaction that gave rise to the contract.
+(b) Any other defense or claim of the account debtor against the assignor that accrues before the account
+debtor receives a notification of the assignment authenticated by the assignor or the assignee.
+(2) Subject to subsection (3) and except as otherwise provided in subsection (4), the claim of an account
+debtor against an assignor may be asserted against an assignee under subsection (1) only to reduce the amount
+the account debtor owes.
+(3) This section is subject to law other than this article that establishes a different rule for an account
+debtor who is an individual and who incurred the obligation primarily for personal, family, or household
+purposes.
+(4) In a consumer transaction, if a record evidences the account debtor's obligation, law other than this
+article requires that the record include a statement to the effect that the account debtor's recovery against an
+assignee with respect to claims and defenses against the assignor may not exceed amounts paid by the account
+debtor under the record, and the record does not include such a statement, the extent to which a claim of an
+account debtor against the assignor may be asserted against an assignee is determined as if the record included
+such a statement.
+(5) This section does not apply to an assignment of a health-care-insurance receivable.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1976, Act 27, Imd. Eff. Mar. 4, 1976;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am.
+1988, Act 130, Eff. Sept. 1, 1988;⎯Am. 1992, Act 186, Imd. Eff. Oct. 5, 1992;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+440.9405 Modification of assigned contract.
+Sec. 9405. (1) A modification of or substitution for an assigned contract is effective against an assignee if
+made in good faith. The assignee acquires corresponding rights under the modified or substituted contract.
+The assignment may provide that the modification or substitution is a breach of contract by the assignor. This
+subsection is subject to subsections (2) through (4).
+(2) Subsection (1) applies to the extent that the right to payment or a part thereof under an assigned
+contract has not been fully earned by performance, or to the extent that the right to payment or a part thereof
+has been fully earned by performance and the account debtor has not received notification of the assignment
+under section 9406(1).
+(3) This section is subject to law other than this article that establishes a different rule for an account
+debtor who is an individual and who incurred the obligation primarily for personal, family, or household
+purposes.
+(4) This section does not apply to an assignment of a health-care-insurance receivable.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1976, Act 27, Imd. Eff. Mar. 4, 1976;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am.
+1980, Act 53, Imd. Eff. Mar. 27, 1980;⎯Am. 1988, Act 130, Eff. Sept. 1, 1988;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+440.9406 Discharge of account debtor; notification of assignment; identification and proof of
+assignment; restrictions on assignment of accounts, chattel paper, payment intangibles,
+and promissory notes ineffective.
+Sec. 9406. (1) Subject to subsections (2) through (9), an account debtor on an account, chattel paper, or a
+payment intangible may discharge its obligation by paying the assignor until, but not after, the account debtor
+receives a notification, authenticated by the assignor or the assignee, that the amount due or to become due
+has been assigned and that payment is to be made to the assignee. After receipt of the notification, the account
+debtor may discharge its obligation by paying the assignee and may not discharge the obligation by paying the
+assignor.
+(2) Subject to subsection (8), notification is ineffective under subsection (1) if 1 or more of the following
+apply:
+(a) If notification does not reasonably identify the rights assigned.
+(b) To the extent that an agreement between an account debtor and a seller of a payment intangible limits
+the account debtor's duty to pay a person other than the seller and the limitation is effective under law other
+Rendered Wednesday, December 27, 2017 Page 179 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+than this article.
+(c) At the option of an account debtor, if the notification notifies the account debtor to make less than the
+full amount of any installment or other periodic payment to the assignee, even if 1 or more of the following
+occur:
+(i) Only a portion of the account, chattel paper, or payment intangible has been assigned to that assignee.
+(ii) A portion has been assigned to another assignee.
+(iii) The account debtor knows that the assignment to that assignee is limited.
+(3) Subject to subsection (8), if requested by the account debtor, an assignee shall seasonably furnish
+reasonable proof that the assignment has been made. Unless the assignee complies, the account debtor may
+discharge its obligation by paying the assignor, even if the account debtor has received a notification under
+subsection (1).
+(4) Except as otherwise provided in subsection (5) and sections 2A303 and 9407, and subject to subsection
+(8), a term in an agreement between an account debtor and an assignor or in a promissory note is ineffective
+to the extent that it does 1 or more of the following:
+(a) Prohibits, restricts, or requires the consent of the account debtor or person obligated on the promissory
+note to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security
+interest in, the account, chattel paper, payment intangible, or promissory note.
+(b) Provides that the assignment or transfer or the creation, attachment, perfection, or enforcement of the
+security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of
+termination, or remedy under the account, chattel paper, payment intangible, or promissory note.
+(5) Subsection (4) does not apply to the following:
+(a) A claim or right to receive an amount that would be excluded from gross income under section
+104(a)(1) or (2) of the internal revenue code, 26 USC 104.
+(b) A claim or right to receive benefits from a special needs trust. For purposes of this subdivision, a
+"special needs trust" is a trust described in section 1917(d)(4)(A), (B), or (C) of title XIX of the social security
+act, 42 USC 1396p.
+(c) The sale of a payment intangible or promissory note, other than a sale pursuant to a disposition under
+section 9610 or an acceptance of collateral under section 9620.
+(6) Except as otherwise provided in sections 2A303 and 9407 and subject to subsections (8) and (9), a rule
+of law, statute, or regulation, that prohibits, restricts, or requires the consent of a government, governmental
+body or official, or account debtor to the assignment or transfer of, or creation of a security interest in, an
+account or chattel paper is ineffective to the extent that the rule of law, statute, or regulation does 1 or more of
+the following:
+(a) Prohibits, restricts, or requires the consent of the government, governmental body or official, or account
+debtor to the assignment or transfer of, or the creation, attachment, perfection, or enforcement of a security
+interest in, the account or chattel paper.
+(b) Provides that the assignment or transfer or the creation, attachment, perfection, or enforcement of the
+security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of
+termination, or remedy under the account or chattel paper.
+(7) Subject to subsection (8), an account debtor may not waive or vary its option under subsection (2)(c).
+(8) This section is subject to law other than this article that establishes a different rule for an account
+debtor who is an individual and who incurred the obligation primarily for personal, family, or household
+purposes.
+(9) This section does not apply to an assignment of a health-care-insurance receivable.
+
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1976, Act 27, Imd. Eff. Mar. 4, 1976;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am.
+
+1988, Act 130, Eff. Sept. 1, 1988;⎯Am. 1989, Act 216, Imd. Eff. Nov. 27, 1989;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012,
+Act 88, Eff. July 1, 2013.
+440.9407 Restrictions on creation or enforcement of security interest in leasehold interest or
+in lessor's residual interest.
+Sec. 9407. (1) Except as otherwise provided in subsection (2), a term in a lease agreement is ineffective to
+the extent that it does 1 or more of the following:
+(a) Prohibits, restricts, or requires the consent of a party to the lease to the assignment or transfer of, or the
+creation, attachment, perfection, or enforcement of a security interest in, an interest of a party under the lease
+contract or in the lessor's residual interest in the goods.
+(b) Provides that the assignment or transfer or the creation, attachment, perfection, or enforcement of the
+security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of
+termination, or remedy under the lease.
+Rendered Wednesday, December 27, 2017 Page 180 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(2) Except as otherwise provided in section 2A303(7), a term described in subsection (1)(b) is effective to
+the extent that there is 1 or more of the following:
+(a) A transfer by the lessee of the lessee's right of possession or use of the goods in violation of the term.
+(b) A delegation of a material performance of either party to the lease contract in violation of the term.
+(3) The creation, attachment, perfection, or enforcement of a security interest in the lessor's interest under
+the lease contract or the lessor's residual interest in the goods is not a transfer that materially impairs the
+lessee's prospect of obtaining return performance or materially changes the duty of or materially increases the
+burden or risk imposed on the lessee within the purview of section 2A303(4) unless, and then only to the
+extent that, enforcement actually results in a delegation of material performance of the lessor.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1976, Act 27, Imd. Eff. Mar. 4, 1976;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am.
+1988, Act 130, Eff. Sept. 1, 1988;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+440.9408 Restrictions on assignment of promissory notes, health-care-insurance
+receivables, and certain general intangibles ineffective.
+Sec. 9408. (1) Except as otherwise provided in subsection (2) or (4), a term in a promissory note or in an
+agreement between an account debtor and a debtor that relates to a health-care-insurance receivable or a
+general intangible, including a contract, permit, license, or franchise, and which term prohibits, restricts, or
+requires the consent of the person obligated on the promissory note or the account debtor to, the assignment or
+transfer of, or creation, attachment, or perfection of a security interest in, the promissory note,
+health-care-insurance receivable, or general intangible, is ineffective to the extent that the term does 1 or more
+of the following:
+(a) Would impair the creation, attachment, or perfection of a security interest.
+(b) Provides that the assignment or transfer or the creation, attachment, or perfection of the security interest
+may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or
+remedy under the promissory note, health-care-insurance receivable, or general intangible.
+(2) Subsection (1) applies to a security interest in a payment intangible or promissory note only if the
+security interest arises out of a sale of the payment intangible or promissory note, other than a sale pursuant to
+a disposition under section 9610 or an acceptance of collateral under section 9620.
+(3) Except as otherwise provided in subsection (4), a rule of law, statute, or regulation that prohibits,
+restricts, or requires the consent of a government, governmental body or official, person obligated on a
+promissory note, or account debtor to the assignment or transfer of, or creation of a security interest in, a
+promissory note, health-care-insurance receivable, or general intangible, including a contract, permit, license,
+or franchise between an account debtor and a debtor, is ineffective to the extent that the rule of law, statute, or
+regulation does 1 or more of the following:
+(a) Would impair the creation, attachment, or perfection of a security interest.
+(b) Provides that the assignment or transfer or the creation, attachment, or perfection of the security interest
+may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or
+remedy under the promissory note, health-care-insurance receivable, or general intangible.
+(4) To the extent that a term in a promissory note or in an agreement between an account debtor and a
+debtor that relates to a health-care-insurance receivable or general intangible or a rule of law, statute, or
+regulation described in subsection (3) would be effective under law other than this article but is ineffective
+under subsection (1) or (3), the creation, attachment, or perfection of a security interest in the promissory
+note, health-care-insurance receivable, or general intangible is not or does not do all of the following:
+(a) Is not enforceable against the person obligated on the promissory note or the account debtor.
+(b) Does not impose a duty or obligation on the person obligated on the promissory note or the account
+debtor.
+(c) Does not require the person obligated on the promissory note or the account debtor to recognize the
+security interest, pay or render performance to the secured party, or accept payment or performance from the
+secured party.
+(d) Does not entitle the secured party to use or assign the debtor's rights under the promissory note,
+health-care-insurance receivable, or general intangible, including any related information or materials
+furnished to the debtor in the transaction giving rise to the promissory note, health-care-insurance receivable,
+or general intangible.
+(e) Does not entitle the secured party to use, assign, possess, or have access to any trade secrets or
+confidential information of the person obligated on the promissory note or the account debtor.
+(f) Does not entitle the secured party to enforce the security interest in the promissory note,
+health-care-insurance receivable, or general intangible.
+(5) Subsections (1) and (3) do not apply to either of the following:
+Rendered Wednesday, December 27, 2017 Page 181 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(a) A claim or right to receive an amount that would be excluded from gross income under section
+104(a)(1) or (2) of the internal revenue code, 26 USC 104.
+(b) A claim or right to receive benefits from a special needs trust. For purposes of this subdivision, a
+"special needs trust" is a trust described in section 1917(d)(4)(A), (B), or (C) of title XIX of the social security
+act, 42 USC 1396p.
+History: Add. 1963, Act 223, Eff. Sept. 6, 1963;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 88, Eff. July 1, 2013.
+440.9408a Repealed. 2000, Act 348, Eff. July 1, 2001.
+Compiler's note: The repealed section pertained to financing statement of consignor or lessor of goods.
+440.9409 Restrictions on assignment of letter-of-credit rights ineffective.
+Sec. 9409. (1) A term in a letter of credit or a rule of law, statute, regulation, custom, or practice applicable
+to the letter of credit that prohibits, restricts, or requires the consent of an applicant, issuer, or nominated
+person to a beneficiary's assignment of or creation of a security interest in a letter-of-credit right is ineffective
+to the extent that the term or rule of law, statute, regulation, custom, or practice does 1 or more of the
+following:
+(a) Would impair the creation, attachment, or perfection of a security interest in the letter-of-credit right.
+(b) Provides that the assignment or the creation, attachment, or perfection of the security interest may give
+rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy
+under the letter-of-credit right.
+(2) To the extent that a term in a letter of credit is ineffective under subsection (1) but would be effective
+under law other than this article or a custom or practice applicable to the letter of credit, to the transfer of a
+right to draw or otherwise demand performance under the letter of credit, or to the assignment of a right to
+proceeds of the letter of credit, the creation, attachment, or perfection of a security interest in the
+letter-of-credit right, the term is not enforceable against the applicant, issuer, nominated person, or transferee
+beneficiary, imposes no duties or obligations on the applicant, issuer, nominated person, or transferee
+beneficiary, and does not require the applicant, issuer, nominated person, or transferee beneficiary to
+recognize the security interest, pay or render performance to the secured party, or accept payment or other
+performance from the secured party.
+History: Add. 1976, Act 27, Imd. Eff. Mar. 4, 1976;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+440.9410 Repealed. 2000, Act 348, Eff. July 1, 2001.
+Compiler's note: The repealed section pertained to establishment of subscription service.
+PART 5
+
+FILING
+
+SUBPART 1.
+
+FILING OFFICE; CONTENTS AND EFFECTIVENESS OF FINANCING STATEMENT
+
+440.9501 Filing office.
+Sec. 9501. (1) Except as otherwise provided in subsection (2), the office in which to file a financing
+statement to perfect the security interest or agricultural lien is 1 of the following:
+(a) The office designated for the filing or recording of a record of a mortgage on the related real property,
+if the collateral is as-extracted collateral or timber to be cut, or the financing statement is filed as a fixture
+filing and the collateral is goods that are or are to become fixtures.
+(b) The office of secretary of state in all other cases, including a case in which the collateral is goods that
+are or are to become fixtures and the financing statement is not filed as a fixture filing.
+(2) The office in which to file a financing statement to perfect a security interest in collateral, including
+fixtures, of a transmitting utility is the office of the secretary of state. The financing statement also constitutes
+a fixture filing as to the collateral indicated in the financing statement which is or is to become fixtures.
+(3) Any financing statement filed under subsection (1)(a) with a register of deeds and any continuation
+statement, termination statement, amendment, or assignment relating to the financing statement and meeting
+the formal requisites of this part shall be recorded by the register of deeds, notwithstanding the provisions for
+witnessing and acknowledging instruments to be recorded in the real property records contained in section 47
+of 1846 RS 65, MCL 565.47.
+(4) If the office of secretary of state receives a financing statement under subsection (1)(b) or (2) for filing,
+and any debtor identified on the financing statement is an individual, the secretary of state shall provide
+written notice of the filing of the financing statement to that debtor. The secretary of state shall determine the
+Rendered Wednesday, December 27, 2017 Page 182 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+form of the written notice and the written notice shall contain at least all of the following information:
+(a) The debtor's name and address as shown on the financing statement.
+(b) The secured party's name and address as shown on the financing statement.
+(c) The remedies available to the debtor under this act if he or she believes that the financing statement is
+erroneously or fraudulently filed.
+(5) In addition to the written notice described in subsection (4), the secretary of state shall provide at no
+charge to a debtor described in that subsection a copy or image of the filed financing statement and any
+attachments. If the debtor requests additional copies or searches, the fees provided in section 9525 apply to
+that request.
+(6) A person shall not knowingly or intentionally file a false or fraudulent financing statement with the
+office of the secretary of state under subsection (1)(b) or (2). In addition to any other penalty provided by law,
+a violation of this subsection is a felony punishable by imprisonment for not more than 5 years or a fine of not
+more than $2,500.00, or both. If the person is convicted of the violation, the court may find that the financing
+statement is ineffective and may order the office of the secretary of state to terminate the financing statement
+and may order restitution.
+(7) If a person files a false or fraudulent financing statement with the office of the secretary of state under
+subsection (1)(b) or (2), a debtor named in that financing statement may file an action against the person that
+filed the financing statement seeking appropriate equitable relief or damages, including, but not limited to, an
+order declaring the financing statement ineffective and ordering the office of the secretary of state to
+terminate the financing statement, and reasonable attorney fees.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am.
+2004, Act 212, Eff. Jan. 1, 2005.
+440.9501a Fraudulent financing statement; affidavit; form; notice; termination of financing
+statement; filing fee; notice of termination; action to reinstate financing statement; court
+order; payment of costs and expenses; violation as felony; penalty; "regulated financial
+institution" defined.
+Sec. 9501a. (1) A person identified as a debtor in a financing statement filed with the secretary of state
+may file an affidavit with the secretary of state in the form prescribed under subsection (2) stating that the
+financing statement is fraudulent. A person shall not file an affidavit under this subsection with respect to a
+financing statement filed by a regulated financial institution or a representative of a regulated financial
+institution.
+(2) The secretary of state shall adopt and make available a form affidavit to be used to give notice of a
+fraudulent financing statement under subsection (1).
+(3) On receipt of an affidavit under subsection (1), the secretary of state shall terminate the financing
+statement effective on the date the affidavit is filed.
+(4) The secretary of state shall not charge a fee to file an affidavit under this section. The secretary of state
+shall not return any filing fee paid for filing the financing statement, regardless of whether the financing
+statement is terminated under this section.
+(5) The secretary of state shall send notice of the termination of a financing statement under subsection (3)
+to the filer of the financing statement advising the filer that the financing statement has been terminated. If the
+filer of the financing statement believes in good faith that the statement was legally filed and is not fraudulent,
+the filer may file an action to reinstate the financing statement.
+(6) If the court in an action under this section or section 9520(7) determines that the financing statement
+should be reinstated or accepted, the court shall provide a copy of its order to the secretary of state. On receipt
+of an order reinstating a financing statement, the secretary of state shall file a record that identifies by its file
+number the initial financing statement to which the record relates and indicates that the financing statement
+has been reinstated.
+(7) On the filing of a record reinstating a financing statement under subsection (6), the financing statement
+is effective as a filed record from the initial filing date. If a financing statement that is reinstated would have
+lapsed during the period of termination, the secured party may file a continuation statement within 30 days
+after the record reinstating the financing statement is filed. The continuation statement is effective as a filed
+record from the date the financing statement would have lapsed. However, a financing or continuation
+statement is not retroactive as provided in this subsection as against a purchaser of the collateral that gives
+value in reasonable reliance on the absence of the record from the files.
+(8) If the court in an action under this section determines that the financing statement is fraudulent, the filer
+of the financing statement shall pay the costs and expenses incurred by the person identified as a debtor in the
+financing statement in the action.
+Rendered Wednesday, December 27, 2017 Page 183 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(9) An individual who files a materially false or fraudulent affidavit under subsection (1) is guilty of a
+felony punishable by imprisonment for not more than 5 years or a $2,500.00 fine, or both.
+(10) As used in this section, "regulated financial institution" means a financial institution subject to
+regulatory oversight or examination by a state or federal agency. Regulated financial institution includes a
+bank, savings bank, savings association, building and loan association, credit union, consumer finance
+company, industrial bank, industrial loan company, insurance company, investment company, installment
+seller, mortgage servicer, sales finance company, or leasing company.
+History: Add. 2008, Act 381, Eff. Mar. 29, 2009.
+440.9502 Contents of financing statement; record of mortgage as financing statement; time
+of filing financing statement.
+Sec. 9502. (1) Subject to subsection (2), a financing statement is sufficient only if it does all of the
+following:
+(a) Provides the name of the debtor.
+(b) Provides the name of the secured party or a representative of the secured party.
+(c) Indicates the collateral covered by the financing statement.
+(2) Except as otherwise provided in section 9501(2), to be sufficient, a financing statement that covers
+as-extracted collateral or timber to be cut, or that is filed as a fixture filing and covers goods that are or are to
+become fixtures, must satisfy subsection (1) and also do all of the following:
+(a) Indicate that it covers this type of collateral.
+(b) Indicate that it is to be recorded in the real property records.
+(c) Provide a description of the real property to which the collateral is related sufficient to give
+constructive notice of a mortgage under the law of this state if the description were contained in a record of
+the mortgage of the real property.
+(d) If the debtor does not have an interest of record in the real property, provide the name of a record
+owner.
+(3) A record of a mortgage is effective, from the date of recording, as a financing statement filed as a
+fixture filing or as a financing statement covering as-extracted collateral or timber to be cut only if all of the
+following apply:
+(a) The record indicates the goods or accounts that it covers.
+(b) The goods are or are to become fixtures related to the real property described in the record or the
+collateral is related to the real property described in the record and is as-extracted collateral or timber to be
+cut.
+(c) The record satisfies the requirements for a financing statement in this section, subject to the following:
+(i) The record need not indicate that it is to be filed in the real property records.
+(ii) The record sufficiently provides the name of a debtor who is an individual if it provides the individual
+name of the debtor or the surname and first personal name of the debtor, even if the debtor is an individual to
+whom section 9503(1)(d) applies.
+(d) The record is duly recorded.
+(4) A financing statement may be filed before a security agreement is made or a security interest otherwise
+attaches.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am.
+2012, Act 88, Eff. July 1, 2013.
+440.9503 Name of debtor and secured party; "name of the settlor or testator" defined.
+Sec. 9503. (1) A financing statement sufficiently provides the name of the debtor if it meets all of the
+following that apply to the debtor:
+(a) Except as otherwise provided in subdivision (c), if the debtor is a registered organization or the
+collateral is held in a trust that is a registered organization, only if the financing statement provides the name
+that is stated to be the registered organization's name on the public organic record most recently filed with or
+issued or enacted by the registered organization's jurisdiction of organization which purports to state, amend,
+or restate the registered organization's name.
+(b) Subject to subsection (6), if the collateral is being administered by the personal representative of a
+decedent, only if the financing statement provides, as the name of the debtor, the name of the decedent and, in
+a separate part of the financing statement, indicates that the collateral is being administered by a personal
+representative.
+(c) If the collateral is held in a trust that is not a registered organization, only if the financing statement
+does both of the following:
+Rendered Wednesday, December 27, 2017 Page 184 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(i) Provides 1 of the following as the name of the debtor:
+(A) If the organic record of the trust specifies a name for the trust, the name specified.
+(B) If the organic record of the trust does not specify a name for the trust, the name of the settlor or
+testator.
+(ii) Meets 1 of the following in a separate part of the financing statement:
+(A) If the name is provided in accordance with subparagraph (i)(A), indicates that the collateral is held in a
+trust.
+(B) If the name is provided in accordance with subparagraph (i)(B), provides additional information
+sufficient to distinguish the trust from other trusts having 1 or more of the same settlors or the same testator
+and indicates that the collateral is held in a trust, unless the additional information so indicates.
+(d) Subject to subsection (7), if the debtor is an individual to whom this state has issued a driver license or
+state personal identification card that has not expired, only if the financing statement provides the name of the
+individual which is indicated on the driver license or state personal identification card.
+(e) If the debtor is an individual to whom subdivision (d) does not apply, only if the financing statement
+provides the individual name of the debtor or the surname and first personal name of the debtor.
+(f) In other cases, satisfies 1 of the following:
+(i) If the debtor has a name, only if the financing statement provides the organizational name of the debtor.
+(ii) If the debtor does not have a name, only if it provides the names of the partners, members, associates,
+or other persons comprising the debtor, in a manner that each name provided would be sufficient if the person
+named were the debtor.
+(2) A financing statement that provides the name of the debtor in accordance with subsection (1) is not
+rendered ineffective by the absence of 1 or more of the following:
+(a) A trade name or other name of the debtor.
+(b) Unless required under subsection (1)(f)(ii), names of partners, members, associates, or other persons
+comprising the debtor.
+(3) A financing statement that provides only the debtor's trade name does not sufficiently provide the name
+of the debtor.
+(4) Failure to indicate the representative capacity of a secured party or representative of a secured party
+does not affect the sufficiency of a financing statement.
+(5) A financing statement may provide the name of more than 1 debtor and the name of more than 1
+secured party.
+(6) The name of the decedent indicated on the order appointing the personal representative of a decedent
+issued by the court that has jurisdiction over the collateral is sufficient as the "name of the decedent" under
+subsection (1)(b).
+(7) If this state has issued to an individual more than 1 driver license or state personal identification card of
+a kind described in subsection (1)(d), the one that was issued most recently is the one to which subsection
+(1)(d) refers.
+(8) As used in this section, the "name of the settlor or testator" means any of the following:
+(a) If the settlor is a registered organization, the name that is stated to be the settlor's name on the public
+organic record most recently filed with or issued or enacted by the settlor's jurisdiction of organization which
+purports to state, amend, or restate the settlor's name.
+(b) In other cases, the name of the settlor or testator indicated in the trust's organic record.
+
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 88, Eff. July 1, 2013.
+
+440.9504 Indication of collateral.
+Sec. 9504. A financing statement sufficiently indicates the collateral that it covers if the financing
+statement provides 1 of the following:
+(a) A description of the collateral pursuant to section 9108.
+(b) An indication that the financing statement covers all assets or all personal property.
+
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+
+440.9505 Filing and compliance with other statutes and treaties for consignments, leases,
+other bailments, and other transactions.
+Sec. 9505. (1) A consignor, lessor, or other bailor of goods, a licensor, or a buyer of a payment intangible
+or promissory note may file a financing statement, or may comply with a statute or treaty described in section
+9311(1), using the terms “consignor”, “consignee”, “lessor”, “lessee”, “bailor”, “bailee”, “licensor”,
+“licensee”, “owner”, “registered owner”, “buyer”, “seller”, or words of similar import, instead of the terms
+“secured party” and “debtor”.
+Rendered Wednesday, December 27, 2017 Page 185 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(2) This part applies to the filing of a financing statement under subsection (1) and, as appropriate, to
+compliance that is equivalent to filing a financing statement under section 9311(2), but the filing or
+compliance is not of itself a factor in determining whether the collateral secures an obligation. If it is
+determined for another reason that the collateral secures an obligation, a security interest held by the
+consignor, lessor, bailor, licensor, owner, or buyer which attaches to the collateral is perfected by the filing or
+compliance.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 1978, Act 369, Eff. Jan. 1, 1979;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+440.9506 Effect of errors or omissions.
+Sec. 9506. (1) A financing statement substantially satisfying the requirements of this part is effective, even
+if it has minor errors or omissions, unless the errors or omissions make the financing statement seriously
+misleading.
+(2) Except as otherwise provided in subsection (3), a financing statement that fails sufficiently to provide
+the name of the debtor in accordance with section 9503(1) is seriously misleading.
+(3) If a search of the records of the filing office under the debtor's correct name, using the filing office's
+standard search logic, if any, would disclose a financing statement that fails sufficiently to provide the name
+of the debtor in accordance with section 9503(1), the name provided does not make the financing statement
+seriously misleading.
+(4) For purposes of section 9508(2), the “debtor's correct name” in subsection (3) means the correct name
+of the new debtor.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2000, Act 348, Eff. July 1, 2001.
+440.9507 Effect of certain events on effectiveness of financing statement.
+Sec. 9507. (1) A filed financing statement remains effective with respect to collateral that is sold,
+exchanged, leased, licensed, or otherwise disposed of and in which a security interest or agricultural lien
+continues, even if the secured party knows of or consents to the disposition.
+(2) Except as otherwise provided in subsection (3) and section 9508, a financing statement is not rendered
+ineffective if, after the financing statement is filed, the information provided in the financing statement
+becomes seriously misleading under section 9506.
+(3) If the name that a filed financing statement provides for a debtor becomes insufficient as the name of
+the debtor under section 9503(1) so that the financing statement becomes seriously misleading under section
+9506, both of the following apply:
+(a) The financing statement is effective to perfect a security interest in collateral acquired by the debtor
+before, or within 4 months after, the filed financing statement becomes seriously misleading.
+(b) The financing statement is not effective to perfect a security interest in collateral acquired by the debtor
+more than 4 months after the filed financing statement becomes seriously misleading, unless an amendment to
+the financing statement that renders the financing statement not seriously misleading is filed within 4 months
+after the financing statement became seriously misleading.
+History: 1962, Act 174, Eff. Jan. 1, 1964;⎯Am. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2012, Act 88, Eff. July 1, 2013.
+440.9508 Effectiveness of financing statement if new debtor becomes bound by security
+agreement.
+Sec. 9508. (1) Except as otherwise provided in this section, a filed financing statement naming an original
+debtor is effective to perfect a security interest in collateral in which a new debtor has or acquires rights to the
+extent that the financing statement would have been effective had the original debtor acquired rights in the
+collateral.
+(2) If the difference between the name of the original debtor and that of the new debtor causes a filed
+financing statement that is effective under subsection (1) to be seriously misleading under section 9506, both
+of the following apply:
+(a) The financing statement is effective to perfect a security interest in collateral acquired by the new
+debtor before, and within 4 months after, the new debtor becomes bound under section 9203(4).
+(b) The financing statement is not effective to perfect a security interest in collateral acquired by the new
+debtor more than 4 months after the new debtor becomes bound under section 9203(4) unless an initial
+financing statement providing the name of the new debtor is filed before the expiration of that time.
+(3) This section does not apply to collateral as to which a filed financing statement remains effective
+against the new debtor under section 9507(1).
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+Rendered Wednesday, December 27, 2017 Page 186 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+440.9509 Persons entitled to file a record.
+Sec. 9509. (1) A person may file an initial financing statement, amendment that adds collateral covered by
+a financing statement, or amendment that adds a debtor to a financing statement only if 1 of the following
+occurs:
+(a) The debtor authorizes the filing in an authenticated record or pursuant to subsection (2) or (3).
+(b) The person holds an agricultural lien that has become effective at time of filing and the financing
+statement covers only collateral in which the person holds an agricultural lien.
+(2) By authenticating or becoming bound as debtor by a security agreement, a debtor or new debtor
+authorizes the filing of an initial financing statement, and an amendment, covering both of the following:
+(a) The collateral described in the security agreement.
+(b) Property that becomes collateral under section 9315(1)(b), whether or not the security agreement
+expressly covers proceeds.
+(3) By acquiring collateral in which a security interest or agricultural lien continues under section
+9315(1)(a), a debtor authorizes the filing of an initial financing statement, and an amendment, covering the
+collateral and property that becomes collateral under section 9315(1)(b).
+(4) A person may file an amendment other than an amendment that adds collateral covered by a financing
+statement or an amendment that adds a debtor to a financing statement only if 1 of the following applies:
+(a) The secured party of record authorizes the filing.
+(b) The amendment is a termination statement for a financing statement as to which the secured party of
+record has failed to file or send a termination statement as required by section 9513(1) or (3), the debtor
+authorizes the filing, and the termination statement indicates that the debtor authorized it to be filed.
+(5) If there is more than 1 secured party of record for a financing statement, each secured party of record
+may authorize the filing of an amendment under subsection (4).
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9510 Effectiveness of filing record.
+Sec. 9510. (1) A filed record is effective only to the extent that it was filed by a person that may file it
+under section 9509.
+(2) A record authorized by 1 secured party of record does not affect the financing statement with respect to
+another secured party of record.
+(3) A continuation statement that is not filed within the 6-month period prescribed by section 9515(4) is
+ineffective.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9511 Secured party of record.
+Sec. 9511. (1) A secured party of record with respect to a financing statement is a person whose name is
+provided as the name of the secured party or a representative of the secured party in an initial financing
+statement that has been filed. If an initial financing statement is filed under section 9514(1), the assignee
+named in the initial financing statement is the secured party of record with respect to the financing statement.
+(2) If an amendment of a financing statement that provides the name of a person as a secured party or a
+representative of a secured party is filed, the person named in the amendment is a secured party of record. If
+an amendment is filed under section 9514(2), the assignee named in the amendment is a secured party of
+record.
+(3) A person remains a secured party of record until the filing of an amendment of the financing statement
+that deletes the person.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9512 Amendment of financing statement.
+Sec. 9512. (1) Subject to section 9509, a person may add or delete collateral covered by, continue or
+terminate the effectiveness of, or, subject to subsection (5), otherwise amend the information provided in, a
+financing statement by filing an amendment that does both of the following:
+(a) Identifies, by its file number, and, if applicable, by liber and page, the initial financing statement to
+which the amendment relates.
+(b) If the amendment relates to an initial financing statement filed or recorded in a filing office described in
+section 9501(1)(a), provides the date that the initial financing statement was filed or recorded and the
+information specified in section 9502(2).
+(2) Except as otherwise provided in section 9515, the filing of an amendment does not extend the period of
+effectiveness of the financing statement.
+Rendered Wednesday, December 27, 2017 Page 187 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(3) A financing statement that is amended by an amendment that adds collateral is effective as to the added
+collateral only from the date of the filing of the amendment.
+(4) A financing statement that is amended by an amendment that adds a debtor is effective as to the added
+debtor only from the date of the filing of the amendment.
+(5) An amendment is ineffective to the extent 1 or more of the following apply to it:
+(a) It purports to delete all debtors and fails to provide the name of a debtor to be covered by the financing
+statement.
+(b) It purports to delete all secured parties of record and fails to provide the name of a new secured party of
+record.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9513 Termination statement.
+Sec. 9513. (1) A secured party shall cause the secured party of record for a financing statement to file a
+termination statement for the financing statement if the financing statement covers consumer goods and 1 or
+more of the following apply:
+(a) There is no obligation secured by the collateral covered by the financing statement and no commitment
+to make an advance, incur an obligation, or otherwise give value.
+(b) The debtor did not authorize the filing of the initial financing statement.
+(2) To comply with subsection (1), a secured party shall cause the secured party of record to file the
+termination statement within 1 of the following periods:
+(a) Within 1 month after there is no obligation secured by the collateral covered by the financing statement
+and no commitment to make an advance, incur an obligation, or otherwise give value.
+(b) If earlier, within 20 days after the secured party receives an authenticated demand from a debtor.
+(3) In cases not governed by subsection (1), within 20 days after a secured party receives an authenticated
+demand from a debtor, the secured party shall cause the secured party of record for a financing statement to
+send to the debtor a termination statement for the financing statement or file the termination statement in the
+filing office if 1 or more of the following apply:
+(a) Except in the case of a financing statement covering accounts or chattel paper that has been sold or
+goods that are the subject of a consignment, there is no obligation secured by the collateral covered by the
+financing statement and no commitment to make an advance, incur an obligation, or otherwise give value.
+(b) The financing statement covers accounts or chattel paper that has been sold but as to which the account
+debtor or other person obligated has discharged its obligation.
+(c) The financing statement covers goods that were the subject of a consignment to the debtor but are not
+in the debtor's possession.
+(d) The debtor did not authorize the filing of the initial financing statement.
+(4) Except as otherwise provided in section 9510, upon the filing of a termination statement with the filing
+office, the financing statement to which the termination statement relates ceases to be effective. Except as
+otherwise provided in section 9510, for purposes of sections 9519(7), 9522(1), and 9523(3), the filing with the
+filing office of a termination statement relating to a financing statement that indicates that the debtor is a
+transmitting utility also causes the effectiveness of the financing statement to lapse.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9514 Assignment of powers of secured party of record.
+Sec. 9514. (1) Except as otherwise provided in subsection (3), an initial financing statement may reflect an
+assignment of all of the secured party's power to authorize an amendment to the financing statement providing
+the name and mailing address of the assignee as the name and address of the secured party.
+(2) Except as otherwise provided in subsection (3), a secured party of record may assign of record all or
+part of its power to authorize an amendment to a financing statement by filing in the filing office an
+amendment of the financing statement that does all of the following:
+(a) Identifies, by its file number, the initial financing statement to which it relates.
+(b) Provides the name of the assignor.
+(c) Provides the name and mailing address of the assignee.
+(3) An assignment of record of a security interest in a fixture covered by a record of a mortgage which is
+effective as a financing statement filed as a fixture filing under section 9502(3) may be made only by an
+assignment of record of the mortgage in the manner provided by law of this state other than this act.
+History: Add. 2000, Act 348, Eff. July 1, 2001.
+440.9515 Duration and effectiveness of financing statement; effect of lapsed financing
+Rendered Wednesday, December 27, 2017 Page 188 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+statement; continuation statement; termination.
+Sec. 9515. (1) Except as otherwise provided in subsections (2), (5), (6), and (7), a filed financing statement
+is effective for a period of 5 years after the date of filing.
+(2) Except as otherwise provided in subsections (5), (6), and (7), an initial financing statement filed in
+connection with a manufactured-home transaction is effective for a period of 30 years after the date of filing if
+it indicates that it is filed in connection with a manufactured-home transaction.
+(3) The effectiveness of a filed financing statement lapses on the expiration of the period of its
+effectiveness unless before the lapse a continuation statement is filed pursuant to subsection (4). Upon lapse, a
+financing statement ceases to be effective and any security interest or agricultural lien that was perfected by
+the financing statement becomes unperfected, unless the security interest is perfected otherwise. If the
+security interest or agricultural lien becomes unperfected upon lapse, it is deemed never to have been
+perfected as against a purchaser of the collateral for value.
+(4) A continuation statement may be filed only within 6 months before the expiration of the 5-year period
+specified in subsection (1) or the 30-year period specified in subsection (2), whichever is applicable.
+(5) Except as otherwise provided in section 9510, upon timely filing of a continuation statement, the
+effectiveness of the initial financing statement continues for a period of 5 years commencing on the day on
+which the financing statement would have become ineffective in the absence of the filing. Upon the expiration
+of the 5-year period, the financing statement lapses in the same manner as provided in subsection (3), unless,
+before the lapse, another continuation statement is filed pursuant to subsection (4). Succeeding continuation
+statements may be filed in the same manner to continue the effectiveness of the initial financing statement.
+(6) If a debtor is an organization identified as a transmitting utility and a filed initial financing statement so
+indicates, the financing statement is effective until a termination statement is filed. A financing statement that
+is filed before March 29, 2009 is effective for a period of 5 years after the date of filing and shall not be
+continued under this section if the financing statement indicates either of the following:
+(a) That the debtor is an individual purporting to be a transmitting utility.
+(b) That the debtor is an individual showing his or her name as an organization and purporting to be a
+transmitting utility.
+(7) A record of a mortgage that is effective as a financing statement filed as a fixture filing under section
+9502(3) remains effective as a financing statement filed as a fixture filing until the mortgage is released or
+satisfied of record or its effectiveness otherwise terminates as to the real property.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2008, Act 383, Eff. Mar. 29, 2009;⎯Am. 2012, Act 88, Eff. July 1, 2013.
+440.9516 Filing; requirements; communication of record with tender of filing fee;
+effectiveness.
+Sec. 9516. (1) Except as otherwise provided in subsection (2), communication of a record to a filing office
+and tender of the filing fee or acceptance of the record by the filing office constitutes filing.
+(2) Filing does not occur with respect to a record that a filing office refuses to accept because of 1 or more
+of the following:
+(a) The record is not communicated by a method or medium of communication authorized by the filing
+office.
+(b) An amount equal to or greater than the applicable filing fee is not tendered.
+(c) The filing office is unable to index the record because of 1 or more of the following:
+(i) In the case of an initial financing statement, the record does not provide a name for the debtor.
+(ii) In the case of an amendment or information statement, the record does not identify the initial financing
+statement as required by section 9512 or 9518, as applicable, or identifies an initial financing statement whose
+effectiveness has lapsed under section 9515.
+(iii) In the case of an initial financing statement that provides the name of a debtor identified as an
+individual or an amendment that provides a name of a debtor identified as an individual that was not
+previously provided in the financing statement to which the record relates, the record does not identify the
+debtor's surname.
+(iv) In the case of a record filed or recorded in the filing office described in section 9501(1)(a), the record
+does not provide a sufficient description of the real property to which it relates.
+(d) In the case of an initial financing statement or an amendment that adds a secured party of record, the
+record does not provide a name and mailing address for the secured party of record.
+(e) In the case of an initial financing statement or an amendment that provides a name of a debtor which
+was not previously provided in the financing statement to which the amendment relates, the record does not
+provide or indicate 1 or more of the following:
+(i) Provide a mailing address for the debtor.
+Rendered Wednesday, December 27, 2017 Page 189 Michigan Compiled Laws Complete Through PA 182 of 2017
+© Legislative Council, State of Michigan Courtesy of www.legislature.mi.gov
+(ii) Indicate whether the name provided as the name of the debtor is the name of an individual or an
+organization.
+(f) In the case of an assignment reflected in an initial financing statement under section 9514(1) or an
+amendment filed under section 9514(2), the record does not provide a name and mailing address for the
+assignee.
+(g) In the case of a continuation statement, the record is not filed within the 6-month period prescribed by
+section 9515(4).
+(3) For purposes of subsection (2), both of the following apply:
+(a) A record does not provide information if the filing office is unable to read or decipher the information.
+(b) A record that does not indicate that it is an amendment or identify an initial financing statement to
+which it relates, as required by section 9512, 9514, or 9518, is an initial financing statement.
+(4) A record that is communicated to the filing office with tender of the filing fee, but which the filing
+office refuses to accept for a reason other than one set forth in subsection (2) or section 9520(5), is effective
+as a filed record except as against a purchaser of the collateral which gives value in reasonable reliance upon
+the absence of the record from the files.
+History: Add. 2000, Act 348, Eff. July 1, 2001;⎯Am. 2008, Act 383, Eff. Mar. 29, 2009;⎯Am. 2012, Act 88, Eff. July 1, 2013.
