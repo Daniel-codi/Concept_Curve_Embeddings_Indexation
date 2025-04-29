@@ -82,11 +82,11 @@ Donations (thanks in advance): 🅿️ paypal.me/DanielBistman
 
 **XRP Adress** --->   rNFugeoj3ZN8Wv6xhuLegUBBPXKCyWLRkB
 
-Memo: 1868264810
+Memo required: 1868264810
 
 **XLM Adress** --->   GAJ4BSGJE6UQHZAZ5U5IUOABPDCYPKPS3RFS2NVNGFGFXGVQDLBQJW2P
 
-Memo: 1868264810
+Memo required: 1868264810
 
 
 ## 📜 License
