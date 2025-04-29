@@ -18,18 +18,13 @@ This project demonstrates a cutting-edge alternative to traditional Retrieval-Au
 
 ## Video Explanation
 
-Watch the full concept explained on YouTube:  
-
-https://www.youtube.com/@Agente_Concept_Curve
-
-https://youtu.be/8XhS3kaHKc8
+Short Video showing the Demo working: https://youtu.be/8XhS3kaHKc8
 
 
 
 ## 📂 Additional Resources
 
-Find full documentation on Google Drive:  
-https://tinyurl.com/CC-freeDocs
+Find full documentation on Google Drive: https://tinyurl.com/CC-freeDocs
 
 Ask any questions you have to Agent-CC
 https://tinyurl.com/agent-cc
