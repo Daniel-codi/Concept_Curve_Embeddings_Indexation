@@ -78,7 +78,7 @@ For more info, check the
 
 
 ---
-## Donations (thanks in advance): 🅿️ paypal.me/DanielBistman
+Donations (thanks in advance): 🅿️ paypal.me/DanielBistman
 
 ## 📜 License
 Free to use and distribute with attribution.
