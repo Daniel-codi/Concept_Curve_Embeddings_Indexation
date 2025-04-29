@@ -19,7 +19,9 @@ This project demonstrates a cutting-edge alternative to traditional Retrieval-Au
 ## Video Explanation
 
 Watch the full concept explained on YouTube:  
+
 https://www.youtube.com/@Agente_Concept_Curve
+
 https://youtu.be/8XhS3kaHKc8
 
 
@@ -71,8 +73,11 @@ Inventor of Concept Curve, developer, AI researcher, and graduate in Business Ad
 
 For more info, check the
 📺 YouTube Channel - https://www.youtube.com/@Agente_Concept_Curve
+
 📁 Google Drive Resources - https://tinyurl.com/CC-freeDocs
+
 💬 Agent-CC - https://tinyurl.com/agent-cc
+
 📧 agent.concept.curve@gmail.com
 
 
