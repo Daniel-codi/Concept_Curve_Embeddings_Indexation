@@ -78,6 +78,7 @@ For more info, check the
 
 
 ---
+## Donations: 🅿️ paypal.me/DanielBistman
 
 ## 📜 License
 Free to use and distribute with attribution.
