@@ -20,13 +20,13 @@ This project demonstrates a cutting-edge alternative to traditional Retrieval-Au
 
 Watch the full concept explained on YouTube:  
 https://www.youtube.com/@Agente_Concept_Curve
+https://youtu.be/8XhS3kaHKc8
 
 
 
 ## 📂 Additional Resources
 
 Find full documentation on Google Drive:  
-https://drive.google.com/drive/folders/1_4i_9M6U1JJ6_kVjmlNljPTvWwD8_4ks
 https://tinyurl.com/CC-freeDocs
 
 Ask any questions you have to Agent-CC
@@ -78,7 +78,7 @@ For more info, check the
 
 
 ---
-## Donations: 🅿️ paypal.me/DanielBistman
+## Donations (thanks in advance): 🅿️ paypal.me/DanielBistman
 
 ## 📜 License
 Free to use and distribute with attribution.
