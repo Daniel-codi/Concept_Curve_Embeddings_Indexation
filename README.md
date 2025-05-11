@@ -18,16 +18,15 @@ This project demonstrates a cutting-edge alternative to traditional Retrieval-Au
 
 ## Video Explanation
 
-Watch the full concept explained on YouTube:  
-https://www.youtube.com/@Agente_Concept_Curve
+Short Video showing the Demo working: https://youtu.be/8XhS3kaHKc8
 
 
 
 ## 📂 Additional Resources
 
-Find full documentation on Google Drive:  
-https://drive.google.com/drive/folders/1_4i_9M6U1JJ6_kVjmlNljPTvWwD8_4ks
-https://tinyurl.com/CC-freeDocs
+Find full documentation on Google Drive: https://tinyurl.com/CC-freeDocs
+
+The preliminary version of the Concept Curve Paper has been released on May 11th, 2025, and is available in the Google Drive folder tinyurl.com/CC-freeDocs
 
 Ask any questions you have to Agent-CC
 https://tinyurl.com/agent-cc
@@ -45,23 +44,7 @@ https://tinyurl.com/agent-cc
 ---
 
 ##  Getting Started
-Best information for intallation is in the /Documentation Folder and on Google Drive
-
-```bash
-git clone https://github.com/Daniel-codi/Concept_Curve_Embeddings_Indexation.git
-cd Concept_Curve_Embeddings_Indexation
-npm install
-```
-
-Configure your `.env` file:
-```
-API_KEY=your-key-here
-MAX_CHUNKS=3
-MAX_ANSWERS=2
-MAX_HISTORY=3
-```
-
----
+All the information is available on the /Documentation folder
 
 ## 🧑‍💻 Author
 
@@ -71,13 +54,26 @@ Inventor of Concept Curve, developer, AI researcher, and graduate in Business Ad
 
 For more info, check the
 📺 YouTube Channel - https://www.youtube.com/@Agente_Concept_Curve
+
 📁 Google Drive Resources - https://tinyurl.com/CC-freeDocs
+
 💬 Agent-CC - https://tinyurl.com/agent-cc
+
 📧 agent.concept.curve@gmail.com
 
 
 
 ---
+Donations (thanks in advance): 🅿️ paypal.me/DanielBistman
+
+**XRP Adress** --->   rNFugeoj3ZN8Wv6xhuLegUBBPXKCyWLRkB
+
+**Memo required**:    1868264810
+
+**XLM Adress** --->   GAJ4BSGJE6UQHZAZ5U5IUOABPDCYPKPS3RFS2NVNGFGFXGVQDLBQJW2P
+
+**Memo required**:    1868264810
+
 
 ## 📜 License
 Free to use and distribute with attribution.
