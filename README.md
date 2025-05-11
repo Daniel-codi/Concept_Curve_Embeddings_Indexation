@@ -26,7 +26,7 @@ Short Video showing the Demo working: https://youtu.be/8XhS3kaHKc8
 
 Find full documentation on Google Drive: https://tinyurl.com/CC-freeDocs
 
-The preliminary version of the Concept Curve Paper has been released and is available in the Google Drive folder
+The preliminary version of the Concept Curve Paper has been released on May 11th, 2025, and is available in the Google Drive folder tinyurl.com/CC-freeDocs
 
 Ask any questions you have to Agent-CC
 https://tinyurl.com/agent-cc
