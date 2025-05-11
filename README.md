@@ -26,6 +26,8 @@ Short Video showing the Demo working: https://youtu.be/8XhS3kaHKc8
 
 Find full documentation on Google Drive: https://tinyurl.com/CC-freeDocs
 
+The preliminary version of the Concept Curve Paper has been released and is available in the Google Drive folder
+
 Ask any questions you have to Agent-CC
 https://tinyurl.com/agent-cc
 
@@ -42,23 +44,7 @@ https://tinyurl.com/agent-cc
 ---
 
 ##  Getting Started
-Best information for intallation is in the /Documentation Folder and on Google Drive
-
-```bash
-git clone https://github.com/Daniel-codi/Concept_Curve_Embeddings_Indexation.git
-cd Concept_Curve_Embeddings_Indexation
-npm install
-```
-
-Configure your `.env` file:
-```
-API_KEY=your-key-here
-MAX_CHUNKS=3
-MAX_ANSWERS=2
-MAX_HISTORY=3
-```
-
----
+All the information is available on the /Documentation folder
 
 ## 🧑‍💻 Author
 
