@@ -18,13 +18,20 @@ This project demonstrates a cutting-edge alternative to traditional Retrieval-Au
 
 ## Video Explanation
 
-Short Video showing the Demo working: https://youtu.be/8XhS3kaHKc8
+English Video showing the Demo working: https://youtu.be/8XhS3kaHKc8
+Spanish Video showing the Demo working: https://youtu.be/0HRdeUPqqQ0
 
 
 
 ## 📂 Additional Resources
 
 Find full documentation on Google Drive: https://tinyurl.com/CC-freeDocs
+
+Full documentation & code for Spanish Users: https://tinyurl.com/CC-freeDocs contains the "Civil and Commercial Code of Argentina" in the spanish software
+
+English Paper: tinyurl.com/CCPaper-English
+Chinese Paper: tinyurl.com/CCPaper-Chinese
+
 
 The preliminary version of the Concept Curve Paper has been released on May 11th, 2025, and is available in the Google Drive folder tinyurl.com/CC-freeDocs
 
@@ -46,20 +53,20 @@ https://tinyurl.com/agent-cc
 ##  Getting Started
 All the information is available on the /Documentation folder
 
-## 🧑‍💻 Author
+##  Author
 
 **Daniel Bistman**  
 Argentina 🇦🇷  
-Inventor of Concept Curve, developer, AI researcher, and graduate in Business Administration.
+Graduate in Business Administration, independent AI researcher. Inventor of Concept Curve paradigm for AI.
 
 For more info, check the
-📺 YouTube Channel - https://www.youtube.com/@Agente_Concept_Curve
+YouTube Channel - https://www.youtube.com/@Agente_Concept_Curve
 
-📁 Google Drive Resources - https://tinyurl.com/CC-freeDocs
+ Google Drive Resources - https://tinyurl.com/CC-freeDocs - (spanish) https://tinyurl.com/CC-docsGratuitos
 
 💬 Agent-CC - https://tinyurl.com/agent-cc
 
-📧 agent.concept.curve@gmail.com
+📧 agent.concept.curve@gmail.com - daniel.bistman@gmail.com
 
 
 
