@@ -1,13 +1,13 @@
 
 # Concept Curve Embeddings Indexation
 
-A novel approach to unlimited-context AI, using Smart-Functions and Concept Curve theory to parse and reason over internal documents **without RAG or embeddings retraining**.
+A new algorithm that allow unlimited-context for any LLM, using Smart-Functions and Concept Curve theory to parse and reason over internal documents **without RAG or embeddings retraining**.
 
 ---
 
 ##  What is this?
 
-This project demonstrates a cutting-edge alternative to traditional Retrieval-Augmented Generation (RAG), enabling AI to process internal documentation with:
+This project demonstrates an alternative to traditional Retrieval-Augmented Generation (RAG), enabling AI to process internal documentation with:
 
 -  Unlimited context memory
 -  No fine-tuning or embeddings required
