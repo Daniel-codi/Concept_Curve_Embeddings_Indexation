@@ -63,6 +63,10 @@ For more info, check the
 YouTube Channel - https://www.youtube.com/@Agente_Concept_Curve
 
  Google Drive Resources - https://tinyurl.com/CC-freeDocs - (spanish) https://tinyurl.com/CC-docsGratuitos
+ 
+ (Paper Concept Curve Paradigm) https://drive.google.com/file/d/12ni96QekZB04SpGnNGXssHUF2DXDV-V8/view?usp=drive_link
+ (Annex 3) https://drive.google.com/file/d/1lPtfeky60o0VgYURB4Q0nAwAZenyF4up/view?usp=drive_link
+ ( CC论文_预发布版 ) https://drive.google.com/file/d/1pCQV3nUjdc41CtuMV9MYZykf1OVvC6ke/view?usp=drive_link
 
 💬 Agent-CC - https://tinyurl.com/agent-cc
 
