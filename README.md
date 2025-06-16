@@ -29,6 +29,10 @@ Find full documentation on Google Drive: https://tinyurl.com/CC-freeDocs
 
 Full documentation & code for Spanish Users: https://tinyurl.com/CC-freeDocs contains the "Civil and Commercial Code of Argentina" in the spanish software
 
+Find Articles as the work progresses: https://www.reddit.com/r/AIntelligence_new/
+
+Find pre-print Paper: https://osf.io/preprints/osf/upm94_v1
+
 English Paper: tinyurl.com/CCPaper-English
 Chinese Paper: tinyurl.com/CCPaper-Chinese
 
