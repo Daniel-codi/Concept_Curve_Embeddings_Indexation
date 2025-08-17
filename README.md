@@ -31,7 +31,7 @@ Full documentation & code for Spanish Users: https://tinyurl.com/CC-freeDocs con
 
 Find Articles as the work progresses: https://www.reddit.com/r/AIntelligence_new/
 
-Find pre-print Paper: https://osf.io/preprints/osf/upm94_v1
+Find full Paper: https://osf.io/preprints/osf/upm94_v2
 
 English Paper: tinyurl.com/CCPaper-English
 Chinese Paper: tinyurl.com/CCPaper-Chinese
